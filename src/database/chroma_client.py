@@ -3,14 +3,18 @@ import chromadb
 from src.config import Config
 from langchain_chroma import Chroma 
 
-# SỬA HÀM NÀY: Thêm tham số embeddings vào cấu hình
-def get_vector_store(embeddings):
-    """Khởi tạo Chroma Vector Store bằng mô hình embedding được truyền từ ngoài vào"""
+def get_vector_store(embeddings=None):
+    """Khởi tạo Chroma, tự động xử lý nếu quên truyền tham số embeddings"""
+    if embeddings is None:
+        from src.database.embeddings import get_embedding_model
+        embeddings = get_embedding_model()
+        
     return Chroma(
         collection_name="enterprise_rag_db",
         embedding_function=embeddings,
         persist_directory=Config.CHROMA_DIR
     )
+
 
 def get_all_uploaded_files() -> list[str]:
     """Tự động quét collection hiện có và lấy danh sách các tên file duy nhất"""
