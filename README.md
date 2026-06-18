@@ -90,7 +90,7 @@ Sau khi tải xong, hãy giải nén file ZIP đó vào một thư mục trên m
 
 ## 🔑 Hướng dẫn tạo HF Token (Bắt buộc)
 
-Để hệ thống có thể kết nối với mô hình Llama 3.1, bạn cần một API Key miễn phí từ Groq:
+Để hệ thống có thể kết nối với mô hình paraphrase-multilingual-MiniLM-L12-v2, bạn cần một token miễn phí từ HF:
 
   ❇️ Truy cập vào trang chủ Hugging Face và đăng nhập (hoặc đăng ký nếu chưa có tài khoản).
   
