@@ -1,12 +1,14 @@
 import os
 import chromadb
 from src.config import Config
-from src.database.embeddings import get_embedding_model
+# XÓA HOẶC BỎ DÒNG IMPORT CŨ Ở ĐÂY ĐỂ TRÁNH LỖI
 
-# SỬA DÒNG NÀY: Import Chroma từ langchain_chroma (hoặc langchain_community)
 from langchain_chroma import Chroma 
 
 def get_vector_store():
+    # ĐƯA DÒNG IMPORT VÀO ĐÂY:
+    from src.database.embeddings import get_embedding_model
+    
     embeddings = get_embedding_model()
 
     return Chroma(
@@ -14,6 +16,9 @@ def get_vector_store():
         embedding_function=embeddings,
         persist_directory=Config.CHROMA_DIR
     )
+
+# Giữ nguyên toàn bộ các hàm get_all_uploaded_files, v.v. ở phía dưới...
+
 
 # Giữ nguyên toàn bộ các hàm get_all_uploaded_files và delete_document_by_name ở phía dưới của bạn...
 
