@@ -32,8 +32,9 @@ Link deploy streamlit: https://rag-ai-ver2-fwuyfh3nnhdgar5mjq7zxi.streamlit.app/
 ├── src/
 │   ├── agents/          # Tầng logic tư duy và điều phối tác nhân AI
 │   │   ├── supervisor.py     # Agent trưởng phòng phân tích Intent người dùng
+│   │   ├── db_management.py  # Agent chuyên trách quản lý các files trong DB (liệt kê/xóa/tóm tắt)
 │   │   ├── rag_agent.py      # Agent chuyên trách tra cứu tri thức tài liệu
-│   │   ├── analyst_agent.py  # Agent phân tích dữ liệu chuyên sâu
+│   │   ├── general_chat.py   # Agent chuyên trách trả lời những câu hỏi bình thường xã giao, giảm thiểu việc xài token vô tội vạ
 │   │   └── graph.py          # Sơ đồ mạng lưới kết nối các Agent
 │   ├── database/        # Tầng kết nối và cấu hình Vector DB
 │   │   ├── chroma_client.py  # Khởi tạo kết nối ChromaDB nhận/xuất dữ liệu
@@ -43,6 +44,9 @@ Link deploy streamlit: https://rag-ai-ver2-fwuyfh3nnhdgar5mjq7zxi.streamlit.app/
 │   │   └── splitter.py       # Băm nhỏ văn bản & Thuật toán tính số dòng/trang
 │   ├── prompts/         # Quản lý tập trung hệ thống Prompt (Tách biệt khỏi Code)
 │   │   ├── supervisor_prompt.txt
+│   │   ├── db_analysis_prompt.txt
+│   │   ├── db_manage_prompt.txt
+│   │   ├── db_summary_prompt.txt
 │   │   └── rag_prompt.txt
 │   └── config.py        # Quản lý tập trung các hằng số hệ thống
 ├── .env                 # Nơi cấu hình bảo mật API Key cá nhân
