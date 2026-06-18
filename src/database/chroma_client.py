@@ -1,26 +1,16 @@
 import os
 import chromadb
 from src.config import Config
-# XÓA HOẶC BỎ DÒNG IMPORT CŨ Ở ĐÂY ĐỂ TRÁNH LỖI
-
 from langchain_chroma import Chroma 
 
-def get_vector_store():
-    # ĐƯA DÒNG IMPORT VÀO ĐÂY:
-    from src.database.embeddings import get_embedding_model
-    
-    embeddings = get_embedding_model()
-
+# SỬA HÀM NÀY: Thêm tham số embeddings vào cấu hình
+def get_vector_store(embeddings):
+    """Khởi tạo Chroma Vector Store bằng mô hình embedding được truyền từ ngoài vào"""
     return Chroma(
         collection_name="enterprise_rag_db",
         embedding_function=embeddings,
         persist_directory=Config.CHROMA_DIR
     )
-
-# Giữ nguyên toàn bộ các hàm get_all_uploaded_files, v.v. ở phía dưới...
-
-
-# Giữ nguyên toàn bộ các hàm get_all_uploaded_files và delete_document_by_name ở phía dưới của bạn...
 
 def get_all_uploaded_files() -> list[str]:
     """Tự động quét collection hiện có và lấy danh sách các tên file duy nhất"""
