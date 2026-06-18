@@ -1,0 +1,19 @@
+# Không push môi trường ảo (Mỗi máy khách tự tạo riêng khi chạy file setup)
+.venv/
+venv/
+ENV/
+env/
+
+# Không push file chứa API Key bảo mật cá nhân
+.env
+
+# Không push cơ sở dữ liệu ChromaDB cục bộ (Khách tự sinh ra khi up tài liệu)
+chroma_db/
+
+# Các file rác hệ thống và Python tự sinh
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.DS_Store

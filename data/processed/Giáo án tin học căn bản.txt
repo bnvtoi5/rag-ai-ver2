@@ -1,0 +1,1998 @@
+
+TỔNG LIÊN ĐOÀN LAO ĐỘNG VIỆT NAM
+TRƯỜNG TRUNG CẤP KINH TẾ - KỸ THUẬT BÌNH THUẬN
+
+
+
+
+
+
+
+
+GIÁO TRÌNH 
+MÔ ĐUN: SOẠN THẢO VĂN BẢN VÀ LƯU TRỮ HỒ SƠ
+NGÀNH: CÔNG TÁC XÃ HỘI
+TRÌNH ĐỘ: TRUNG CẤP
+(Ban hành kèm theo Quyết định số:…./QĐ-TC .ngày….tháng…năm 202…
+của Trường Trung cấp Kinh tế - Kỹ thuật Bình Thuận)
+
+
+
+
+
+
+
+
+
+
+Bình Thuận, năm 2023
+(Lưu hành nội bộ)
+
+TUYÊN BỐ BẢN QUYỀN
+Tài liệu này thuộc loại sách giáo trình nên các nguồn thông tin có thể được phép dùng nguyên bản hoặc trích dùng cho các mục đích về đào tạo và tham khảo.
+Mọi mục đích khác mang tính lệch lạc hoặc sử dụng với mục đích kinh doanh thiếu lành mạnh sẽ bị nghiêm cấm.
+
+ 
+LỜI GIỚI THIỆU
+
+Giáo trình soạn thảo văn bản và lưu trữ hồ sơ được biên soạn nhằm cung cấp giáo trình đào tạo cho nghề Công tác xã hội trên địa bàn tỉnh như là một phần của đóng góp thực hiện của “Đề án phát triển Nghề Công tác xã hội ở Việt Nam giai đoạn 2010-2020” trong Quyết định 32/2010 – QĐ/TTg được Thủ tướng Chính phủ phê duyệt vào tháng 3 năm 2010. 
+Trong quá trình biên soạn, nhóm tác giả cảm ơn sự phối hợp và những ý kiến góp ý có giá trị từ các giáo viên của Nhà trường và các đơn vị giáo dục nghề nghiệp bạn. Hy vọng rằng giáo trình này sẽ cung cấp những kiến thức, kỹ năng và những công cụ hữu ích cho việc giảng dạy, học tập trong quá trình đào tạo nghề Công tác xã hội. 
+Rất mong nhận được những ý kiến đóng góp hữu ích để có thể điều chỉnh tốt hơn trong tương lai và phù hợp hơn với nhu cầu học tập của người học./.
+
+    Bình Thuận, ngày        tháng        năm 202 
+    			Tham gia biên soạn 
+1. ………………………………………… 
+2. …………………………………………
+3. …………………………………………
+4. …………………………………………
+5. …………………………………………
+
+                                                                                   
+
+
+
+
+
+MỤC LỤC
+
+Chương I: LÝ LUẬN CHUNG VỀ VĂN BẢN QUẢN LÝ NHÀ NƯỚC	11
+1. Đại cương về văn bản quản lý hành chính nhà nước	11
+2. Hệ thống văn bản quản lý nhà nước	15
+chương II: SOẠN THẢO VĂN BẢN	44
+A. VĂN BẢN PHÁP QUY	44
+I. Khái niệm và đặc trưng của văn bản pháp quy	44
+II. Ý nghĩa và tầm quan trọng của văn bản pháp quy	44
+III. Yêu cầu về nội dung và hình thức của văn bản pháp quy	45
+IV. Các hình thức văn bản pháp quy	47
+V. Phương pháp soạn thảo các văn bản pháp quy	50
+VI. Thực hành.	53
+* Giới thiệu, tham khảo mẫu một số văn bản của các cấp	53
+B. 	PHƯƠNG PHÁP SOẠN THẢO MỘT SỐ VĂN BẢN HÀNH CHÍNH THÔNG DỤNG	62
+*Giới thiệu tham khảo một số mẫu văn bản…………………………………...69
+I.Văn bản hợp đồng kinh tế ……………………………………………………81
+II.	 Hợp đồng lao động………………………………………………………….88
+III. Thực hành	91
+CHƯƠNG III: LƯU TRỮ HỒ SƠ	102
+I. Khái niệm, từ ngữ và nguyên tắc lập hồ sơ và nộp lưu hồ sơ, tài liệu vào lưu trữ cơ quan	102
+II. Nội dung của lập hồ sơ và nộp lưu hồ sơ, tài liệu vào lưu trữ cơ quan	103
+
+
+
+
+
+CHƯƠNG TRÌNH MÔ ĐUN
+Tên mô đun: Soạn thảo văn bản và lưu trữ hồ sơ
+Mã số mô đun: MĐ10
+Thời gian mô đun: 45 giờ (Lý thuyết: 15 giờ; Thực hành, thí nghiệm, thảo luận, bài tập: 29 giờ; Kiểm tra: 01 giờ)
+I. Vị trí, tính chất của mô đun:
+- Vị trí: Soạn thảo văn bản và lưu trữ hồ sơ là mô đun được bố trí giảng dạy ở Học kỳ I, năm thứ nhất. 
+- Tính chất: Là mô đun lý thuyết cơ sở quan trọng của chương trình đào tạo Trung cấp công tác xã hội. 
+II. Mục tiêu mô đun: 
+- Kiến thức: Hiểu rõ lý thuyết về nguyên tắc và kỹ thuật cơ bản trong việc soạn thảo văn bản và công tác văn thư, lưu trữ hồ sơ.
+- Kỹ năng:
++ Soạn thảo được các loại văn bản hành chính thông thường. 
++ Sắp xếp và lưu trữ được hồ sơ để quản lý tốt trong quá trình làm việc.
+- Về năng lực tự chủ và trách nhiệm: Cẩn thận, tỉ mỉ, nghiêm túc và tự chịu trách nhiệm trong soạn thảo văn bản và quản lý hồ sơ.
+III. Nội dung mô đun: 
+1.	Chương trình khung
+TT	Mã MH/ MĐ	Tên môn học/mô đun	Số tín chỉ	Thời gian học tập (giờ)	Học kỳ
+				Tổng số	Trong đó	1	2	3	4
+					Lý thuyết	Thực hành	Kiểm tra				
+I. Các môn học chung	15	316	116	185	15	151	165	0	0
+1	MH01	Giáo dục chính trị	2	30	15	13	2	 	30	 	 
+2	MH02	Pháp luật	1	15	9	5	1	 15		 	 
+3	MH03	Giáo dục thể chất	1	30	4	24	2	30	 	 	 
+4	MH04	Giáo dục quốc phòng - An ninh	2	45	21	21	3	 	45	2	
+5	MH05	Tin học	2	45	15	29	1	45	2	 	 
+6	MH06	Tiếng Anh	4	90	30	56	4		90		
+7	MH07	Giáo dục sức khỏe sinh sản, sức khỏe tình dục và phòng chống HIV/AIDS	1	16	7	9	 	16 			
+8	MH 08	Kỹ năng mềm	2	45	15	28	2	45			
+II. Các môn học/mô đun 
+cơ sở	08	180	60	116	4	180	0	0	0
+9	MĐ09	Thống kê xã hội	2	45	15	29	1	45	 	 	
+10	MĐ10	Soạn thảo văn bản và lưu trữ hồ sơ	2	45	15	29	1	45	 	 	 
+11	MĐ12	Tâm lý học đại cương	2	45	15	29	1	45	 	 	 
+12	MĐ12	Nhập môn công tác xã hội	2	45	15	29	1	45	 	 	 
+III. Các môn học/mô đun chuyên môn	34	945	195	740	10	0	210	285	450
+13	MĐ13	Truyền thông và vận động xã hội	2	45	15	29	1	 	45	 	 
+14	MĐ14	Chính sách xã hội	2	45	15	29	1	 	45	 	 
+15	MĐ15	Công tác xã hội cá nhân	3	60	30	29	1	 	60	 	 
+16	MĐ16	Công tác xã hội với nhóm	3	60	30	29	1	 	60	 	 
+17	MĐ17	Phát triển cộng đồng	3	60	30	29	1	 	 	60	 
+18	MĐ18	Công tác xã hội với trẻ em	2	45	15	29	1	 	 	45	 
+19	MĐ19	Công tác xã hội với người cao tuổi	2	45	15	29	1	 	 	45	 
+20	MĐ20	Công tác xã hội với người có và bị ảnh hưởng bởi HIV/AIDS	2	45	15	29	1	 	 	45	 
+21	MĐ21	Công tác xã hội với người nghèo	2	45	15	29	1	 	 	45	 
+22	MĐ22	Điều tra xã hội học	2	45	15	29	1	 	 	45	 
+23	MĐ23	Thực tập nghề nghiệp nghiệp tại cơ sở	8	360	 	360	 	 	 	 	360
+24	MĐ24	Lập tiến trình can thiệp trợ giúp cá nhân hoặc nhóm	3	90	 	90	 	 	 	 	90
+IV. Các môn học/mô đun tự chọn	4	90	30	58	2	45	0	45	0
+IV.1. Các môn học cơ sở (học sinh chọn 1 trong 3 môn)	2	45	15	29	1	45	0	0	0
+25	MĐ25	Lạm dụng ma túy chất gây nghiện	2	45	15	29	1	45	 	 	 
+	MĐ26	Bạo lực gia đình	2	45	15	29	1	45	 	 	 
+	MĐ27	Dân số, sức khỏe sinh sản và kế hoạch hóa gia đình	2	45	15	29	1	45	 	 	 
+IV.2. Các môn học chuyên môn (học sinh chọn 1 trong 2 môn)	2	45	15	29	1	0	0	45	0
+26	MĐ28	Công tác xã hội với người khuyết tật	2	45	15	29	1	 	 	45	 
+	MĐ29	Công tác xã hội với nhóm tội phạm	2	45	15	29	1	 	 	45	 
+Tổng cộng	61	1531	401	1099	31	376	375	330	450
+
+2.	Chương trình chi tiết 
+Số TT	Tên chương, mục	Thời gian (giờ)
+		Tổng số	Lý thuyết	Thực hành, bài tập	Kiểm tra
+1	Chương 1: Những quy định chung về văn bản 	13	8	5	0
+ 	1. Khái niệm, chức năng của văn bản	 	 	 	 
+ 	2. Phân loại văn bản	 	 	 	 
+ 	3. Nội dung của văn bản	 	 	 	 
+ 	4. Cách sử dụng ngôn ngữ và văn phong trong văn bản	 	 	 	 
+ 	5. Quy trình soạn thảo văn bản	 	 	 	 
+ 	6. Thể thức văn bản	 	 	 	 
+2	Chương 2: Soạn thảo văn bản 	17	4	13	0
+ 	1. Khái niệm một số văn bản hành chính thông thường	 	 	 	 
+ 	2. Phương pháp soạn thảo văn bản hành chính cá biệt và một số văn bản hành chính thông thường	 	 	 	 
+ 	3. Thực hành	 	 	 	 
+3	Chương 3: Công tác văn thư và lưu trữ hồ sơ 	15	3	11	1
+ 	1. Những vấn đề chung về công tác văn thư	 	 	 	 
+ 	2. Công tác  giải quyết và quản lý văn bản	 	 	 	 
+ 	3. Công tác lập hồ sơ	 	 	 	 
+ 	4. Công tác lưu trữ hồ sơ	 	 	 	 
+ 	5. Kiến tập công tác lưu trữ hồ sơ	 	 	 	 
+ 	Tổng cộng:	45	15	29	1
+IV. Điều kiện thực hiện mô đun: 
+1.	Phòng học chuyên môn hóa/nhà xưởng: 
+STT	Loại phòng học	Số lượng	Diện tích (m2)	Danh mục trang thiết bị chính hỗ trợ giảng dạy
+				Tên thiết bị	Số lượng
+1	Phòng học lý thuyết	1	56	- Bàn ghế	40 Bộ
+				- Bảng	1 Chiếc
+				- TV LCD	1 Chiếc
+				- Máy tính 	1 Chiếc
+				- Bóng đèn (1m2)	8 bóng
+				- Quạt trần	2 Chiếc
+2	Phòng học thực hành, thực tập	1	56	- Bàn ghế	40 Bộ
+				- Bảng	1 Chiếc
+				- TV LCD	1 Chiếc
+				- Máy tính nối mạng	40 bộ
+				- Bóng đèn (1m2)	8 Bóng
+				- Máy lạnh	3 Chiếc
+2.	Trang thiết bị máy móc:
+STT	Tên thiết bị đào tạo	Đơn vị	Số lượng
+1	Máy vi tính 	Chiếc	1
+2	Tivi kết nối máy tính	Cái	1
+3	Bảng 	Chiếc	1
+4	Máy tính nối mạng	Bộ	40 
+5	Máy in	Chiếc	1
+3. Học liệu, dụng cụ, nguyên vật liệu: Giáo trình, đề cương, giáo án, mẫu văn bản hành chính cá biệt và thông thường. 
+4. Các điều kiện khác: Câu hỏi, bài tập thực hành soạn thảo văn bản. 
+V. Phương pháp và nội dung đánh giá: 
+1. Nội dung:
+- Kiến thức: Hiểu được quy trình soạn thảo văn bản, thể thức văn bản, lưu trữ hồ sơ.
+- Kỹ năng: Có khả năng soạn thảo các văn bản hành chính thông thường và cá biệt.
+- Năng lực tự chủ và trách nhiệm: Chịu trách nhiệm trong quá trình soạn thảo văn bản và lưu trữ hồ sơ.
+2. Phương pháp:
+- Đánh giá trong quá trình học: Mô đun có 01 cột kiểm tra thường xuyên và 01 cột kiểm tra dịnh kỳ theo quy định qua các hình thức: Tự luận hoặc trắc nghiệm.
+- Đánh giá kết thúc môn học: Kiểm tra theo hình thức tự luận và trắc nghiệm.
+VI. Hướng dẫn thực hiện mô đun:
+1. Phạm vi áp dụng môn học: 
+- Chương trình mô đun Soạn thảo văn bản và lưu trữ hồ sơ được sử dụng giảng dạy cho học sinh học nghề công tác xã hội.
+2. Hướng dẫn phương pháp giảng dạy, học tập mô đun:
+- Đối với giáo viên: Căn cứ vào nội dung từng bài học chuẩn bị đầy đủ, các điều kiện thực hiện bài học để đảm bảo chất lượng giảng dạy; liên hệ đến các bộ phận văn thư, Trung tâm lưu trữ văn bản, hồ sơ để đưa học sinh kiến tập; chuẩn bị các mẫu văn bản và hồ sơ để học sinh thực hành.
+- Đối với người học: Tham gia đầy đủ các buổi học, chủ động và tích cực trong học tập; chủ động tìm hiểu các loại văn bản hành chính có liên quan đến nội dung môn học.
+3. Những trọng tâm cần chú ý:
+- Lý thuyết soạn thảo văn bản
+- Thực hành soạn thảo văn bản
+- Lưu trữ và quản lý hồ sơ
+4. Tài liệu tham khảo:
+- Nghị định 110/2004/NĐ-CP ngày 08/4/2004 của Chính phủ về công tác văn thư.
+- Hướng dẫn Soạn thảo văn bản và quản lý văn bản, NXB tài chính, 2008.
+- Soạn thảo văn bản và công tác văn thư lưu trữ, PGS.TS Đồng Thị Thanh Phương, Th.s Nguyễn Thị Ngọc An, NXB tổng hợp TP. Hồ Chí Minh, 2011.
+- Thông tư 01/2011/TT-BNV, ngày 19/01/2011 của Bộ trưởng Bộ Nội vụ về việc hướng dẫn thể thức và kỹ thuật trình bày văn bản hành chính./.
+
+
+ 
+CHƯƠNG I: LÝ LUẬN CHUNG VỀ VĂN BẢN QUẢN LÝ NHÀ NƯỚC
+
+Mục tiêu: 
+- Trình bày được các loại văn bản trong hệ thống hành chính của Việt Nam 
+- Trình bày được những quy định chung về thể thức văn bản theo quy định
+- Sử dụng thành thạo ngôn ngữ, văn phong hành chính và diễn đạt trong sáng, dễ hiểu.
+1. ĐẠI CƯƠNG VỀ VĂN BẢN QUẢN LÝ HÀNH CHÍNH NHÀ NƯỚC
+1.1. Khái niệm văn bản
+Theo nghĩa chung nhất, văn bản là chuỗi ký hiệu ngôn ngữ hay nói chung những ký hiệu thuộc một hệ thống nào đó, làm thành một chỉnh thể mang một  nội dung, ý nghĩa trọn vẹn. Theo cách hiểu này bia đá, hoành phi, câu đối ở đền chùa; chúc thư, văn khế; tác phẩm văn học hoặc khoa học, kỹ thuật; công văn, giấy tờ, khẩu hiệu...ở cơ quan, tổ chức được gọi chung là văn bản.
+Trong lịch sử nhân loại, quản lý được thực hiện không chỉ qua truyền khẩu  mà còn thông qua phương tiện ngôn ngữ mà hình thức cao nhất là văn bản. Từ khi Nhà nước xuất hiện thì văn bản được sử dụng như một công cụ quản lý và điều hành xã hội. Lúc này văn bản thể hiện ý chí và quyền lực của giai cấp thống trị. Thật vậy, dù là sơ khai, Nhà nước cũng vẫn phải ghi lại những hoạt động, truyền đạt các mệnh lệnh, liên hệ từ trên xuống dưới hay yêu cầu báo cáo  từ  dưới lên trên hay giữa quốc gia này với quốc gia khác. và toàn bộ những việc đó được thực hiện thông qua phương tiện chính là văn bản. Với ý nghĩa đó, văn bản là hình thức thể hiện và truyền đạt (bằng ngôn ngữ viết) ý chí của cá  nhân hay tổ chức tới các cá nhân hay tổ chức khác nhằm mục đích thông báo hay đòi hỏi đối tượng tiếp nhận phải thực hiện những hành vi nhất định, đáp ứng yêu cầu  của người hay tổ chức soạn thảo.
+1.2. Chức năng của văn bản
+Tùy thuộc vào nguồn gốc hình thành và quá trình sử dụng chúng trong đời sống xã hội mà các văn bản có thể có những chức năng chung và những chức năng cụ thể khác nhau. Văn bản có các chức năng chủ yếu sau:
+1.2.1. Chức năng thông tin
+Để thực hiện việc điều hành, quản lý đất nước theo những mục tiêu đã định trước, các cấp, các ngành phải sử dụng hệ thống các loại văn bản. Hệ thống văn bản đó chứa đựng những thông tin và được truyền đạt cho cấp dưới. Các cấp  dưới lại phản ánh hay phản hồi những hoạt động của mình bằng những loại văn bản nhất định. Các cơ quan cấp trên thu nhận, xử lý các nguồn thông tin của cấp dưới để rồi lại đưa ra các văn bản chứa đựng những thông tin khác để truyền đạt cho cấp dưới. Trong quá trình thu nhận và xử lý thông tin, giữa các cấp, các ngành, các cá nhân, đơn vị, cơ quan tổ chức kinh tế xã hội đã xuất hiện các mối quan hệ trên nhiều mặt cần phải giải quyết. Những cơ quan, tổ chức kinh tế xã hội đó lại trao đổi thông tin lẫn nhau để cùng nhau giải quyết, để cùng nhau tồn tại và phát triển. 
+Trong quản lý, giao dịch và kinh doanh, văn bản là phương tiện hết sức quan trọng để điều hành mọi hoạt động của cơ quan. Trên thực tế, người lãnh đạo ở  bất cứ cấp nào cũng là người chịu trách nhiệm chủ yếu về các hoạt động của lĩnh vực hay cơ quan mà mình phụ trách trên cơ sở của những chức trách và thẩm quyền được giao. Như vậy cùng một lúc họ vừa phải thu nhận mọi thông tin của cấp trên, cấp dưới, của đối tác; vừa phải có trách nhiệm báo  cáo chuyển thông  tin của mình đến các cấp, các ngành và đến các đối tác; nghĩa là phải trao đổi thông tin, mà việc trao đổi đó chủ yếu được thực hiện thông qua hệ thống văn bản.
+Qua văn bản, các chủ trương, chính sách, các quy định, các thỏa  thuận...  được chuyển đến đối tượng tác động. Vì vậy với cơ quan ra văn bản, đó là sự chuyển tải, truyền đạt thông tin, còn với cơ quan tiếp nhận văn bản thì đó là sự thu nhận thông tin.
+1.2.2. Chức năng pháp lý
+Chức năng pháp lý của văn bản được thể hiện trong nội dung các văn bản chứa đựng các quy phạm pháp luật và các quan hệ luật pháp tồn tại trong xã hội Nội dung trong văn bản chính là những phát ngôn chính thức của cơ quan, đơn  vị, tổ chức kinh tế, chính trị, xã hội.
+Vì vậy, để quán triệt và nâng cao tính pháp lý của văn bản, để văn bản thực sự là công cụ sắc bén thì việc soạn thảo  văn bản cần chú  ý đến những vấn đề sau:
+Văn bản phải đúng thể thức theo quy định thống nhất chung được thể hiện trong văn bản chuẩn của Nhà nước.
+Ban hành văn bản phải đúng thẩm quyền. Theo quy định chung, mỗi cơ quan, đơn vị, tổ chức kinh tế, chính trị, xã hội đều có những chức năng, nhiệm  vụ và quyền hạn cụ thể nhất định. Pháp luật thừa nhận thẩm quyền ban hành văn bản của mỗi cơ quan, mỗi cấp, mỗi ngành.
+Văn bản của cơ quan cấp dưới không được trái với văn bản của cơ quan cấp trên. Hay nói cách khác là phải đảm bảo tính thống nhất.
+1.2.3. Chức năng quản lý và điều hành
+Văn bản là phương tiện chứa đựng và truyền đạt các quyết định quản lý.  Quản lý là hệ thống các biện pháp nhằm điều khiển hoạt động của một đối tượng nào đó theo những mục tiêu đã định trước, trên cơ sở tính toán đầy đủ những  điều kiện, những nhân tố ảnh hưởng nhằm đạt hiệu quả kinh tế  cao. Hệ thống  các biện pháp đó chủ yếu được chuyển tải và truyền đạt thông tin qua hệ thống văn bản. Ở bất ký quốc gia nào, Nhà nước cũng đều quản lý đất nước thông qua hệ thống văn bản. Hệ thống văn bản luôn chứa đựng những chuẩn mực và giá trị xã hội thích hợp với mỗi giai đoạn của lịch sử. Mọi chủ thể của xã hội, để thực hiện việc quản lý trong phạm vi đảm nhiệm của mình đều cần phải thông qua hệ thống văn bản.
+Văn bản quản lý là một căn cứ quan trọng về mặt pháp lý để đề ra các quy định mới đúng pháp luật. Nó cũng là cơ sở để kiểm  tra việc ra quyết định của  cấp dưới theo hệ thống quản lý của từng ngành; là phương tiện truyền đạt đầy đủ, chính xác đến mọi đối tượng cần thiết nhằm tạo nên tính ổn định cho hoạt động của cơ quan, tổ chức mình nói riêng và các cơ quan, tổ chức khác thuộc bộ máy nhà nước nói chung.
+1.2.4. Chức năng văn hóa-xã hội và sử liệu
+Văn bản là sản phẩm sáng tạo của con người, sản phẩm của các cơ quan, đơn vị, tổ chức...Tòan bộ hoạt động, tri thức hay kinh nghiệm của con người, của xã hội đều được thể hiện ở hệ thống văn bản. Thông qua hệ thống văn bản, chủ thể ban hành có thể đưa vào đó các yếu tố văn hóa, các giá trị truyền thống, các phong tục tập quán tốt đẹp của dân tộc nhằm giáo dục công dân, có thể đưa vào văn bản những kiến thức pháp luật và nhờ đó nâng cao ý thức và sự hiểu biết pháp luật của nhân dân, hướng cách xử sự của mỗi cá nhân hay tập thể phù hợp với các quy định của pháp luật và phù hợp với bản sắc văn hóa dân tộc.
+Chức năng sử liệu của văn bản được thể hiện ở chỗ, chúng phản ánh những biến cố xã hội, những sự kiện lịch sử đã hoặc đang xảy ra. Mọi biến cố lịch sử, mọi biến cố của cuộc sống, xã hội đương đại đều được phản ánh trong nội dung của hệ thống văn bản. Thông qua hệ thống văn bản, người ta có thể nhận biết được những biến cố, những sự kiện, những vấn đề kinh tế, chính trị, văn hóa và xã hội của thời điểm ban hành văn bản. Qua nghiên cứu hệ thống văn bản, ta có thể thu lượm được nhiều thông tin hữu ích nếu đứng trên giác độ sử liệu. Nó  phản ánh mọi hoạt động của một xã hội hay của từng cơ quan, đơn vị qua các mốc thời gian một cách trọn vẹn, không hề bị thêm bớt hay bóp méo. Vì vậy, khi nghiên cứu lịch sử, người ta cần phải dựa vào hệ thống văn bản.
+1.3. Vai trò của văn bản
+1.3.1.  Văn bản là phương tiện đảm bảo thông tin cho hoạt động của cơ quan
+Trước hết thông qua văn bản có thể thu nhập được rất nhiều loại thông  tin  cho hoạt động của các cơ quan, đó là các thông tin về:
+-	Chủ trương, đường lối của Đảng và Nhà nước liên quan đến mục tiêu và phương hướng hoạt động lâu dài của cơ quan và đơn vị
+-	Nhiệm vụ, mục tiêu hoạt động cụ thể của từng cơ quan, đơn vị.
+-	Phương thức hoạt động, quan hệ công tác giữa các cơ quan, các đơn vị với nhau.
+-	Tình hình đối tượng bị quản lý ; sự biến động của các cơ quan, đơn vị ;  chức năng nhiệm vụ và quyền hạn của cơ quan, đơn vị
+-	Các kết quả đạt được trong quá trình quản lý, v.v..
+1.3.2. Văn bản là phương tiện truyền đạt các quyết định quản lý
+Thông thường, các quyết định hành chính được truyền đạt sau khi đã  được  thể chế hóa hình thành các văn bản mang tính quyền lực nhà nước. Các quyết định quản lý cần phải được truyền đạt nhanh chóng và đúng đối tượng, được đối tượng bị quản lý thông suốt, hiểu được nhiệm vụ và nắm được ý đồ của lãnh đạo để nhiệt tình, yên tâm và phấn khởi thực hiện.
+Hơn thế nữa các đối tượng bị quản lý cũng phải nhận thấy được khả năng và có thể phát huy sáng tạo khi thực hiện các quyết định quản lý .
+1.3.3. Văn bản là phương tiện kiểm tra, theo dõi hoạt động của bộ máy lãnh đạo và quản lý
+Kiểm soát và kiểm tra việc thực hiện công tác điều hành và quản lý nhà nước là một phương tiện có hiệu lực thúc đẩy các cơ quan nhà nước, các tổ chức kinh tế, tổ chức xã hội hoạt động một cách tích cực, có hiệu quả. Công tác này sử dụng một phương tiện quan trọng hàng đầu là hệ thống văn bản. Phương tiện   này muốn phát huy hết vai trò to lớn đó của mình thì cần phải có tổ chức một cách khoa học. Có thể thông qua việc kiểm tra, việc giải quyết văn bản mà theo dõi hoạt động cụ thể của các cơ quan quản lý. Nếu được tổ chức tốt, biện pháp kiểm tra công việc qua văn bản sẽ mang lại nhiều lợi ích thiết thực
+Để kiểm tra có hiệu quả và cũng cần chú ý đúng mức cả hai phương tiện của quá trình hình thành và giải quyết văn bản: một là, tình hình xuất hiện các văn bản trong hoạt động của cơ quan và các đơn vị trực thuộc; hai là, nội dung các văn bản và sự hoàn thiện trên thực tế nội dung đó. Ở những mức độ khác nhau,  cả hai phương tiện đều có thể cho thấy chất lượng thực tế trong hoạt động của cơ quan.
+Kiểm tra hoạt động của bộ máy lãnh đạo và quản lý thông qua hệ thống văn bản không thể tách rời với việc phân công trách nhiệm chính xác cho mỗi bộ phận, mỗi cán bộ trong các đơn vị của hệ thống bị quản lý. Nếu sự phân công không rõ ràng, thiếu khoa học thì không thể tiến hành kiểm tra có hiệu quả.
+1.3.4. Văn bản là công cụ xây dựng hệ thống pháp luật.
+Xây dựng hệ thống pháp luật hành chính nhằm tạo ra cơ sở cho các cơ quan hành chính nhà nước, các công dân có thể hoạt động theo những chuẩn mực pháp lý thống nhất, phù hợp với sự phân chia quyền hành trong quản lý  nhà nước.
+Các hệ thống văn bản một mặt phản ánh sự phân chia quyền hành trong quản lý hành chính nhà nước, mặt khác là sự cụ thể hóa các luật lệ hiện hành, hướng dẫn thực hiện các luật lệ đó. Đó là công cụ tất yếu của việc xây dựng hệ thống pháp luật nói chung và pháp luật hành chính nói riêng.
+Khi xây dựng và ban hành các văn bản cần chú ý đảm bảo các yêu cầu về nội dung và hình thức phù hợp với chức năng, nhiệm vụ, quyền hạn của  mỗi  cơ quan do luật định sao cho các văn bản ban hành ra có giá trị điều hành thực tế, chứ không thể mang tính hình thức, và về nguyên tắc, chỉ khi đó các văn bản  mới có hiệu lực pháp lý và mới đảm bảo được quyền uy của cơ quan nhà nước.
+2. HỆ THỐNG VĂN BẢN QUẢN LÝ NHÀ NƯỚC
+Hệ thống văn bản rất phong phú, phức tạp cần phải phân loại chúng để có phương pháp soạn thảo và quản lý chúng cho thích hợp. Có một số cách phân  loại cơ bản sau:
+2.1. Phân loại theo loại hình quản lý
+2.1.2. Văn bản quy phạm pháp luật
+Văn bản pháp luật là văn bản do cơ quan nhà nước có thẩm quyền ban hành theo thủ tục, trình tự luật định, trong đó có các quy tắc xử sự chung, được Nhà nước bảo đảm thực hiện nhằm điều chỉnh các quan hệ xã hội theo định hướng xã hội chủ nghĩa. Hệ thống văn bản quy phạm pháp luật bao gồm:
+a)	Văn bản luật:
+-	Hiến pháp: (bao gồm Hiến pháp và các đạo luật có bổ sung hay sửa đổi  Hiếp pháp): là loại văn bản quy phạm pháp luật có hiệu lực pháp lý cao nhất quy định những vấn đề cơ bản của Nhà nước như: hình thức và bản chất của nhà nước; chế độ chính trị, chế độ kinh tế; chế độ văn hóa và xã hội; quyền và nghĩa vụ cơ bản của công dân; hệ thống tổ chức, nguyên tắc hoạt động và thẩm quyền của các cơ quan nhà nước. Hiến pháp là bộ luật cơ bản của Nhà nước, là cơ sở, căn cứ để hình thành hệ thống pháp luật hoàn chỉnh
+-	Luật, bộ luật: Văn bản quy phạm pháp luật do Quốc hội ban hành nhằm cụ thể hóa Hiến pháp, điều chỉnh các loại quan hệ xã hội trong các lĩnh vực hoạt động của Nhà nước.
+b)	Văn bản dưới luật mang tính chất luật:
+-	Nghị quyết của Quốc hội, Uỷ ban Thường vụ Quốc hội: Văn bản quy phạm pháp luật do Quốc hội, UBTVQH ban hành để ghi lại và truyền đạt những kết luận và quyết định tại các kỳ họp của mình về những vấn đề thuộc chủ trương, chính sách, kế hoạch, biện pháp...
+-	- Pháp lệnh: Văn bản quy phạm pháp luật dưới luật, sau luật  do  UBTVQH ban hành để đặt ra các quy phạm pháp luật điều chỉnh những quan hệ xã hội  quan trọng tương đối ổn định nhưng chưa có luật điều chỉnh.
+-	Lệnh của Chủ tịch nước: Văn bản quy phạm pháp luật dưới luật do Chủ tịch nước ban hành để thực hiện những nhiệm vụ, quyền hạn của  mình theo  luật định.
+c)	Văn bản dưới luật lập quy ( văn bản pháp quy)
+-	Nghị quyết của Chính phủ, Hội đồng Thẩm phán Tòa án nhân dân tối cao, HĐND các cấp;
+-	Nghị định của Chính phủ;
+-	Quyết định của Thủ tướng Chính phủ, Viện trưởng Viện Kiểm sát nhân dân tối cao, Bộ trưởng, thủ trưởng cơ quan ngang Bộ, thủ trưởng cơ quan thuộc  Chính phủ, UBND các cấp;
+-	Chỉ thị của Thủ tướng Chính phủ, Viện trưởng Viện kiểm sát nhân dân tối cao, Bộ trưởng, thủ trưởng cơ quan ngang Bộ, thủ trưởng cơ quan thuộc Chính phủ, UBND các cấp;
+-	Thông tư của Viện trưởng Viện kiểm sát nhân dân tối cao, Bộ trưởng, thủ trưởng cơ quan ngang Bộ, thủ trưởng cơ quan thuộc Chính phủ, văn bản liên tịch giữa các cơ quan nhà nước, tổ chức chính trị - xã hội
+2.2.2. Văn bản quản lý hành chính
+Văn bản quản lý hành chính là loại văn bản được sử dụng rộng rãi trong các cơ quan nhà nước, tổ chức kinh tế, chính trị, xã hội và thường có tỷ trọng lớn trong tổng số văn bản được ban hành. Loại văn bản này thường không mang tính quyền lực, không đảm bảo bằng sự cưỡng chế nhà nước, mà chỉ nhằm mục đích quản lý, giải quyết các công việc cụ thể, thông tin, phản ánh tình hình hay ghi chép công việc phát sinh...
+Văn bản quản lý hành chính gồm những loại chủ yếu sau:
+-	Công văn
+-	Thông báo
+-	Thông cáo
+-	Báo cáo
+-	Biên bản
+-	Tờ trình
+-	Công điện
+-	Phiếu gửi
+-	Giấy giới thiệu
+-	Giấy đi đường...
+2.2.3. Văn bản phải chuyển đổi
+Đó là những loại văn bản mà để ban hành nó, bắt buộc phải ban hành một  văn bản khác. Thí dụ như quy chế, nội quy, quy định, điều lệ...
+2.2.4.	Phân loại theo đặc trưng nội dung
+2.2.4.1.	Văn bản của các tổ chức chính trị, xã hội: là các văn bản của các tổ chức đảng, đoàn thể: thanh niên, phụ nữ, các hội...
+2.2.4.2.	Văn bản kinh tế: là những văn bản mà trong đó có chứa đựng những nội dung về kinh tế, kinh doanh như: hợp đồng kinh tế, luận kinh tế, dự án đầu tư...
+2.2.4.3.	Văn bản kỹ thuật: là những văn bản có tính kỹ thuật thuần túy như: Luận chứng kỹ thuật, định mức, tiêu chuẩn kỹ thuật...
+2.2.4.4.	Văn bản ngoại giao: Đó là những văn bản dùng trong lĩnh vực ngoại  giao như: công ước quốc tế, công hàm, hiệp ước, hiệp định, tối huệ thư...
+Ngoài ra còn có các văn bản khác như: Văn bản pháp luật, văn bản an ninh, quốc phòng...
+2.2.5.	Phân loại theo kỹ thuật chế tác
+2.2.5.1.	Văn bản giấy
+Đó là những văn bản được soạn thảo trên chất liệu giấy thông thường. Đây là loại văn bản cơ bản trong lịch sử của nhân loại, gắn liền với kỹ nghệ giấy và in ấn.
+2.2.5.2.	Văn bản điện tử
+Đó là loại văn bản được soạn thảo trên các phương tiện kỹ thuật thông tin  viễn thông mới gắn liền với công nghệ điện tử. Loại văn bản này xuất hiện trong những năm gần đây khi mà tin học, chế bản điện tử, sách điện tử được sử dụng. Loại văn bản này có ưu điểm gọn, nhẹ và thuận tiện trong cả soạn thảo, chuyển phát và khai thác sử dụng.
+3.	NHỮNG YÊU CẦU CHUNG VỀ THỂ THỨC VĂN BẢN
+3.1. Hình thức của văn bản
+Tùy theo thể loại và nội dung văn bản có thể có phần căn cứ pháp lý để ban hành, phần mở đầu và có thể được bố cục theo phần, chương, mục, điều, khoản, điểm hoặc được phân chia thành các phần, mục từ lớn đến nhỏ theo một trình tự nhất định.
+Bố cục của luật, pháp lệnh được thực hiện theo quy định tại Điều 27 của Luật ban hành văn bản quy phạm pháp luật ngày 12 tháng 11 năm 1996 và luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật số 02/2006/QH11 ngày 16 tháng 12 năm 2002.
+Văn bản quy phạm pháp luật khác có thể được bố cục như sau:
+-	Nghị quyết: theo điều, khoản, điểm hoặc theo khoản, điểm;
+-	Nghị định: theo chương, mục, điều, khoản, điểm; các quy chế (điều lệ) ban hành kèm theo nghị định: chương, mục, điều, khoản, điểm;
+-	Quyết định: theo điều, khoản, điểm; các quy chế (quy định) ban hành kèm theo quyết định: theo chương, mục, điều, khoản, điểm;
+-	Chỉ thị: theo khoản, điểm;
+-	Thông tư: theo mục, khoản, điểm
+Văn bản hành chính có thể được bố cục như sau:
+-	Quyết định (cá biệt): theo điều, khoản, điểm; các quy chế (quy định) ban hành kèm theo quyết định: theo chương, mục, điều, khoản, điểm;
+-	Chỉ thị (cá biệt): theo khoản, điểm;
+-	Các hình thức văn bản hành chính khác: theo phần, mục, khoản, điểm.
+Những yêu cầu về hình thức đối với văn bản quản lý đặt ra cho người soạn thảo văn bản nhiệm vụ là: phải sắp xếp, bố cục các phần văn bản một cách khoa học và logic; sử dụng ngôn ngữ và văn phạm để phản ánh ý chí của Nhà nước được trung thực, khách quan, dễ hiểu, dễ thực hiện và dễ áp dụng vào thực tế công tác quản lý Nhà nước.
+Những yêu cầu về hình thức của văn bản quản lý là tùy theo  từng loại văn  bản mà tìm cách kết cấu theo từng chủ đề hay thể loại hợp lý. Thông thường những văn bản như điều lệ, quyết định, hợp đồng... được viết dưới dạng điều khoản, còn đa phần thì các loại văn bản khác được viết dưới dạng văn xuôi. Viết dưới dạng văn xuôi, đòi hỏi phải biết cách bố cục theo trình tự lôgíc từ đặt vấn  đề đến giải quyết vấn đề và cuối cùng là kết thúc vấn đề...
+Trong văn bản quản lý phải chú trọng kỹ thuật trình bày, cách hành văn rõ ràng, sáng sủa, diễn đạt ý tưởng thích hợp với đối tượng thi hành.
+Khi soạn thảo văn bản cần chia văn bản thành các đoạn lớn, đặt tiêu đề cho từng đoạn. Có thể dùng các số La Mã, số tự nhiên, các chữ cái (theo vần a, b, c) hoặc có thể chỉ dùng nguyên các chữ số tự nhiên như: (1.); (1.1); (1.1.2.); ...để phân biệt các đoạn. Các phần nhỏ trực thuộc thì ghi lùi sâu vào trong để làm nổi bật các thông tin chính của văn bản.
+Những thông tin về số liệu thống kê có thể dùng bảng biểu hoặc đồ thị để  trình bày, biểu thị được cả sự phân tích, cả sự tổng hợp và dễ hiểu hơn.
+Cần gạch dưới những ý, những từ ngữ quan trọng để nhấn mạnh thông tin, hướng người đọc chú ý tới nội dung, ý nghĩa của nó.
+Có thể in nghiêng, đậm hay gạch chân những từ cần nhấn mạnh...
+3.2.	Nội dung của văn bản
+Nội dung của văn bản phải đáp ứng các yêu cầu cơ bản sau:
+-	Phù hợp với hình thức văn bản được sử dụng;
+-	Phù hợp với đường lối, chủ trương, chính sách của Đảng; phù hợp với quy định của pháp luật;
+-	Các quy phạm pháp luật, các quy định hay các vấn đề, sự việc phải được trình bày ngắn gọn, rõ ràng, chính xác;
+-	Sử dụng ngôn ngữ viết, cách diễn đạt đơn giản, dễ hiểu
+-	Dùng từ ngữ phổ thông; không dùng từ ngữ địa phương và từ ngữ nước ngoài nếu không thực sự cần thiết. Đối với thuật ngữ chuyên môn cần xác định  rõ nội dung thì phải được giải thích trong văn bản.;
+-	Không viết tắt những từ, cụm từ không thông dụng. Đối với những từ, cụm từ được sử dụng nhiều lần trong văn bản thì có thể viết tắt nhưng các chữ viết tắt lần đầu của từ, cụm từ phải được đặt trong ngoặc đơn ngay sau từ, cụm từ đó;
+-	Việc viết hoa được thực hiện theo quy tắc chính tả tiếng Việt;
+-	Khi viện dẫn lần đầu văn bản có liên quan, phải ghi đầy đủ tên loại, trích yếu nội dung văn bản; số, ký hiệu văn bản; ngày, tháng, năm ban hành văn bản  và tên cơ quan, tổ chức ban hành văn bản (trừ trường hợp đối với luật và pháp lệnh); trong các lần viện dẫn tiếp theo, có thể ghi tên loại và số, ký hiệu của văn bản đó.
+Tùy theo từng loại văn bản mà người soạn thảo văn bản lựa chọn kết cấu, xử lý thông tin đưa vào cho thích hợp, có cách thức trình bày thích ứng để làm rõ những vấn đề cơ bản mà mục đích của văn bản đặt ra. Cần phải viết sao cho nội dung của văn bản phản ánh được những vấn đề cơ bản sau đây:
+Tính mục đích: Văn bản phải thể hiện được mục tiêu và giới hạn của nó, tức là phải trả lời được các câu hỏi: Ban hành để làm gì? Giải quyết mối quan hệ nào? Giải quyết đến đâu? Tính mục đích của văn bản còn phải thể hiện trong   khả năng phản ánh được mục tiêu của các chủ trương đường lối chính sách của Đảng, và Nhà nước cũng như những chủ trương của các cấp lãnh đạo và các cấp quản lý. Nó phải là sự cụ thể hóa các văn bản của cấp trên vào giải quyết những vấn đề quản lý cụ thể của cơ quan một cách sáng tạo và kịp thời.
+Ngoài ra, tính mục đích của văn bản còn phải thể hiện cả ở việc phản ánh đúng đắn và đầy đủ những lợi ích, tâm tư, nguyện vọng của những thành viên trong cơ quan, đơn vị.
+Tính khoa học
+Một văn bản có tính khoa học phải đảm bảo:
+-	Có đủ lượng thông tin quy phạm và thông tin thực tế cần thiết.
+-	Các thông tin được sử dụng để đưa vào văn bản phải xử lý và đảm bảo chính xác.
+-	Bảo đảm sự logic về mặt nội dung: sự nhất quán về chủ đề, bố cục chặt chẽ.
+-	Đảm bảo yêu cầu về thể thức
+-	Sử dụng ngôn ngữ pháp luật - hành chính chuẩn mực.
+Tính đại chúng
+Đối tượng thi hành chủ yếu của văn bản là các tầng lớp nhân dân có trình độ học vấn khác nhau, trong đó phần lớn là trình độ học vấn thấp, do đó văn bản phải có nội dung dề hiểu, dễ nhớ phù hợp với sự nhận thức, trình độ dân trí của nhân dân.
+Tính phổ thông, đại chúng của văn bản giúp cho nhân dân dễ dàng, nhanh chóng nắm bắt chính xác nội dung của cơ quan ban hành để từ đó có hành vi đúng đắn thực hiện pháp luật. Tính đại chúng cũng chính là tính nhân dân của văn bản. Tính nhân dân của văn bản đảm bảo cho nhà nước thực sự là  công cụ sắc bén để nhân dân lao động làm chủ đất nước, làm chủ xã hội.
+Tính quy phạm
+Văn bản quản lý nhìn chung là truyền đạt ý chí của các cơ quan và để chúng có hiệu lực thì tùy theo loại văn bản, cần phải viết nội dung có hàm chứa những vấn đề có tính quy phạm. Tính quy phạm thường được thể hiện dưới hình thức những mệnh lệnh, những yêu cầu, những cấm đoán và cả những hướng dẫn hành vi, cách xử sự của đối tượng tiếp nhận văn bản. Một văn bản mà nội dung có  tính quy phạm là văn bản, mà trong đó có chứa những  giả định (những  điều kiện, hoàn cảnh và chủ thể cần tác động), trong trường hợp đó thì chủ thể phải xử sự như thế nào (quy định) và nếu không thực hiện được thì sẽ bị xử lý  như  thế nào? (chế tài).
+Trên thực tế, không phải mọi văn bản đều có tính quy phạm, mà chỉ những văn bản mang tính pháp lý như văn bản quy phạm pháp luật và văn bản áp dụng quy phạm pháp luật thì tính quy phạm mới thể hiện rõ.
+Tính khả thi
+Tính khả thi là yêu cầu đối với văn bản, để văn bản mang tính khả thi cần có các điều kiện sau:
+-	Nội dung văn bản đưa ra phải phù hợp với trình độ, năng lực, khả năng vật chất của chủ thể thi hành
+-	Nội dung của văn bản phải phù hợp với điều kiện kinh tế - xã hội hiện tại,  có như vậy mới có thể thực hiện được trong thực tế.
+4.	Ý NGHĨA CỦA VIỆC SOẠN THẢO VĂN BẢN.
+4.1. Soạn thảo văn bản là sự thể hiện chức năng, nhiệm vụ, quyền hạn và phạm vi hoạt động của cơ quan, tổ chức
+Mỗi cơ quan trong hệ thống bộ máy quản lý đều có những chức năng nhiệm vụ, quyền hạn xác định. Chúng hoạt động trong các phạm vi khác nhau. Có cơ quan nghiên cứu, cơ quan đào tạo, cơ quan kinh doanh, xí nghiệp  sản xuất. Có  cơ quan hoạt động ở trong nước, có cơ quan chỉ có quyền lực trong một phạm vi hẹp như một quận, một phường, v.v. Soạn thảo văn bản cần thể hiện những yếu tố trên. Điều đó sẽ làm cho các loại văn bản trở nên thiết thực. Một văn bản soạn thảo không phù hợp với chức năng, nhiệm vụ hoặc vượt quyền hạn cho phép sẽ không có giá trị thực hiện. Nói một cách khác, văn bản quản lý chỉ có hiệu lực pháp lý trong phạm vi thẩm quyền quản lý, lãnh đạo của cơ quan được ban hành.
+Xét một cách tổng thể, văn bản của các cơ quan nhà nước ban hành là thể  hiện quyền lực chung của bộ máy quản lý. Các cá nhân hoạt động trong các cơ quan nhà nước cũng như trong các tổ chức khác nhau, các công dân nói chung đều có trách nhiệm thực hiện các văn bản có liên quan đến hoạt động của mình, trừ những văn bản không hợp thức.
+4.2.	Soạn thảo văn bản là sự phản ánh mối quan hệ giữa các cơ quan trong hệ thống bộ máy quản lý nhà nước, thể hiện quan hệ giữa Nhà nước với nhân dân, giữa Đảng với Nhà nước và các tổ chức khác.
+Trong hệ thống bộ máy quản lý nói chung, mỗi cơ quan đều có  một vị trí  nhất định. Quan hệ giữa các cơ quan đó được xác định chính bằng các văn bản. Đồng thời, qua các văn bản đã được một cơ quan này hay một  cơ quan  khác soạn thảo, sử dụng ta có thể biết được cơ quan đó có một vị trí như thế nào trong toàn bộ hoạt động của bộ máy nói chung. Văn bản của cơ quan đó cũng cho thấy nó có quan hệ như thế nào với các cơ quan cùng hệ thống hoặc thuộc một hệ thống khác.
+Đối với nhân dân, văn bản của các cơ quan Nhà nước cho thấy quan hệ giữa nhà nước với nhân dân. Thái độ đối với quần chúng thể hiện rất rõ ràng qua các văn bản được soạn thảo ở các ngành, các cấp. Đồng thời, việc soạn thảo văn bản cũng cho thấy các cơ quan đã tạo điều kiện như thế nào để nhân dân tham gia  vào hoạt động quản lý.
+Khi soạn thảo văn bản, điều quan trọng ở đây là không làm cho văn bản trở thành hàng rào ngăn cách hoạt động của các cơ quan nhà nước với nhân dân.
+4.3.	Soạn thảo văn bản là sự thể hiện nguyên tắc hoạt động, cách thức làm việc của mỗi cơ quan, tổ chức.
+Sau khi được thành lập, các cơ quan đều hoạt động theo những nguyên tắc nhất định, được xác lập trong các văn bản quy phạm pháp luật. Đồng thời, mỗi  cơ quan đều tìm kiếm và xây dựng cho mình những cách thức làm việc phù hợp để hoàn thành nhiệm vụ được giao. Chính cách thức làm việc quyết định sự  thành bại và chất lượng hoạt động của cơ quan, xí nghiệp trong thực tế.
+Các văn bản do các cơ quan, đoàn thể, xí nghiệp soạn thảo và sử dụng trong quá trình hoạt động của mình phản ánh những nguyên tắc mà cơ quan phải tuân theo, những thay đổi trong thực tế và cách thức hoạt động của cơ quan đó lựa chọn.
+4.4.	Soạn thảo văn bản là sự phản ánh những kết quả mà cơ quan, tổ chức đã đạt được trong hoạt động thực tiễn.
+Văn bản gắn liền với công việc. Kết quả của công việc đại đa số trường hợp được ghi lại trên văn bản với nhiều mục đích khác nhau: để báo cáo với cấp trên, để truyền đạt cho các đơn vị, cơ quan cấp dưới, thông báo cho nhân dân, v.v..
+Nói chung, công việc của cơ quan càng nhiều, càng phức tạp thì văn -bản được dùng càng nhiều, càng đa dạng. Ngược lại, văn bản luôn luôn cho  thấy  khối lượng, chất lượng và các loại công việc mà cơ quan đã hoàn thành qua từng thời gian. Bởi vậy, người soạn thảo văn bản phải có trách nhiệm để đảm bảo cho văn bản mang tính khách quan trong việc phản ánh kết quả hoạt động của cơ quan mình.
+5.	QUY TRÌNH SOẠN THẢO VĂN BẢN
+Quy trình soạn thảo văn bản là cách thức tiến hành, là các bước công việc được sắp xếp theo những trình tự cụ thể nhất định để soạn thảo ra văn bản một cách khoa học nhất.
+5.1. Định hướng quá trình soạn thảo văn bản
+5.1.1. Định hướng pháp lý
+Điều này có nghĩa là phải xác định bước đi nào là tất yếu trong việc  soạn  thảo văn bản để đảm bảo tính pháp lý cần thiết của nó. Để định hướng được về mặt pháp lý khi soạn thảo văn bản cần trả lời rõ ràng các câu hỏi sau đây:
+-	Đây là văn bản có tính quy phạm pháp luật hay văn bản thông thường?
+-	Ai đảm bảo cho văn bản soạn thảo có tính pháp lý tương ứng? Quyền hạn ban hành có hợp lý không?
+-	Yếu tố nào có khả năng làm ảnh hưởng đến (hay làm mất) hiệu lực pháp lý cần có của văn bản?
+-	Trật tự pháp lý trong văn bản được xác định như thế nào?
+-	Các quan hệ nào giữa cơ quan ban hành văn bản và các cơ quan khác có  ảnh hưởng đến giá trị pháp lý của văn bản?
+-	Có mâu thuẫn giữa văn bản chuẩn bị ban hành với các văn bản khác đã ban hành trước đó không? Bước đi nào có khả năng cho phép khắc phục các mâu thuẫn đó, nếu có?
+5.1.2. Định hướng ứng dụng
+Theo định hướng này, để xác định quy trình soạn thảo văn bản nói chung cần làm sáng tỏ các vấn đề về mục tiêu của văn bản, phạm vi ứng dụng, mức độ và yêu cầu giải quyết công việc.
+Có thể dựa vào các câu hỏi sau để làm sáng tỏ định hướng này:
+-	Ai sẽ phải thực hiện văn bản sắp ban hành? Phạm vi ban hành văn bản đến đâu?
+-	Ai (hay đơn vị nào) có liên quan và mức độ liên quan đối với văn bản?
+-	Ai có trách nhiệm kiểm tra thực hiện các văn bản? Khả năng điều chỉnh các sai lầm?
+-	Các quan hệ có thể xuất hiện trong quá trình thực hiện văn bản?
+Khi định hướng ứng dụng được xác định rõ ràng thì tính thiết thực của văn bản sẽ được nâng cao.
+5.1.3. Định hướng tổ chức
+Điều này có nghĩa là khi xác định quy trình biên soạn văn bản cần làm sáng  tỏ cách tổ chức xây dựng văn bản theo cơ cấu nào cho phù hợp để có thể dảm  bảo chất lượng của việc soạn thảo.
+Các câu hỏi có thể sử dụng để xem xét định hướng là:
+-	Tổ chức thu thập thông tin như thế nào cho mỗi văn bản?
+-	Tổ chức trao đổi các quan điểm, các chủ trương như thế nào để đảm bảo  văn bản được xây dựng phản ánh chính xác ý đồ chung và không mang tính chất quan liêu?
+-	Tổ chức xây dựng và duyệt văn bản như thế nào cho hợp lý để vừa tránh nặng nề lại vừa chặt chẽ, không chồng chéo lẫn nhau?
+Những định hướng trên đây hết sức quan trọng khi xác lập  quy trình soạn thảo văn bản. Chúng cho phép người soạn thảo văn bản hình dung được các  bước cần phải làm và lý giải việc bỏ qua một khâu này hay một khâu khác khi xây dựng một văn bản cụ thể.
+5.2.	Xác lập quy trình soạn thảo văn bản
+Quy trình soạn thảo văn bản cần phải đảm bảo qua các bước sau đây:
+5.2.1. Giai đoạn chuẩn bị
+Đây là giai đoạn định hình khái quát về văn bản định viết, trong đó bao gồm việc xác định mục đích, yêu cầu của việc ban hành, xác định đối tượng tiếp nhận và thực hiện văn bản. Trên cơ sở đó ta mới có thể xác định được loại văn bản và soạn thảo được nội dung văn bản thích hợp. Đây là giai đoạn rất quan trọng làm cơ sở cho việc thu thập thông tin, tài liệu cần thiết để phục vụ cho viết văn bản. Mặt khác, cũng qua đó người viết sẽ lựa chọn được cách trình bày, cách viết, sử dụng ngôn ngữ văn phong và thời điểm ban hành cho thích hợp.
+5.2.2. Giai đoạn soạn thảo đề cương
+Đề cương là bản ghi những vấn đề cơ bản nhất, cốt yếu nhất để dựa  vào đó mà phát triển ra khi nghiên cứu trình bày thành một vấn đề hoặc viết thành một văn bản hoàn chỉnh. Với ý nghĩa đó, soạn thảo đề cương là giai đoạn quan trọng. Đề cương càng chi tiết, càng cụ thể, tỷ mỷ bao nhiêu thì việc thể hiện thành văn bản hoàn chỉnh càng thuận lợi bấy nhiêu.
+Để có một đề cương hoàn chỉnh, ta cần phải căn cứ vào các yếu tố như: phạm vi điều chỉnh của văn bản, thể thức văn bản, thẩm quyền ra văn bản, phương   thức quản lý văn bản... Việc soạn thảo một đề cương thông thường bao gồm những bước công việc sau:
+-	Xây dựng dàn bài: Dàn bài thường gồm những phần sau: Phần mở đầu,  phần nội dung (hay phần quy định) và phần thi hành.  Trong mỗi phần nói trên  lại bao gồm nhiều nội dung cụ thể cả về thể thức lẫn cách thức trình bày.
+-	Soạn đề cương: Trên cơ sở dàn bài đã xây dựng mà viết thành một đề  cương hoàn chỉnh. Từ đề cương sơ bộ đến đề cương chi tiết. Đề cương càng chi tiết, việc thể hiện chúng thành văn bản hoàn chỉnh càng dễ dàng.
+5.2.3. Giai đoạn viết thành văn bản
+Đây là giai đoạn có tính quyết định nhằm chắp nối những ý chính trong dàn bài, trong đề cương thành một văn bản hoàn chỉnh thông qua các phương tiện diễn đạt bằng ngôn ngữ. Cần phải viết một mạch để đảm bảo tính logic và thống nhất.
+Sau khi viết xong văn bản, cần phải kiểm tra lại toàn bộ văn bản xem cách bố cục, cách trình bày, lập luận, chữ nghĩa câu cú, văn phạm, lỗi chính tả...
+5.2.4.	Giai đoạn xét duyệt và ký văn bản
+Phải là người có trách nhiệm và đủ thẩm quyền mới được ký văn bản. Thông thường trong hoạt động của các đơn vị, cơ quan kinh tế xã hội thì người soạn thảo văn bản không phải là người ký văn bản mà thường là các bộ phận chức năng tham mưu hay thư ký giúp việc. Người có trách nhiệm ký văn bản cần phải kiểm tra chặt chẽ văn bản trước khi ký. Ký và đóng dấu thường là đi đôi với  nhau theo nguyên tắc ký trước, đóng dấu sau.
+Riêng về phần lấy ý kiến góp ý hoàn chỉnh cho văn bản, theo quy trình thì phải có sự tham gia đóng góp ý kiến của những người có kinh nghiệm soạn thảo hoặc phải có sự tham khảo ý kiến của nhiều người có liên quan trình người phụ trách để nhận những ý kiến đóng góp.
+6.	Thể thức văn bản
+6.1. Khái niệm về thể thức văn bản
+Thể thức văn bản là những thành phần cần thiết phải có cũng như cách thức trình bày các thành phần đó trong một văn bản để đảm bảo tính thống nhất, tính pháp lý, nội dung và hiệu lực thi hành.
+6.2.	Các thành phần của văn bản
+a)	Quốc hiệu
+Quốc hiệu là tên nước và chế độ chính trị của quốc gia.
+Từ ngày 12/10/1945 là:
+VIỆT NAM DÂN CHỦ CỘNG HÒA
+Độc lập - Tự do - Hạnh phúc
+Từ ngày 12/8/1976 là:
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+Quốc hiệu được trình bày ở trên cùng, trang đầu văn bản và hơi lệch về bên phải. Theo quy ước dòng đầu là phông chữ “-VNTimeH, cỡ 12”, dòng dưới là phông chữ “-VNTime, cỡ 14”, viết hoa âm đầu của mỗi từ và giữa các từ cách nhau bởi dấu gạch ngang, phía dưới có gạch ngang dài bắt đầu từ chữ : “Độc” và kết thúc tại cuối chữ “phúc”.
+b)	Tên cơ quan tổ chức ban hành văn bản
+Tên cơ quan, tổ chức biểu thị tác giả của văn bản, là cơ quan, tổ chức hoặc chức danh nhà nước ban hành văn bản. Tên cơ quan, tổ chức, chức danh nhà nước viết ở góc trái, phía trên trang đầu của mỗi văn bản ngang với Quốc hiệu.
+Văn bản do cơ quan, tổ chức ban hành có cơ quan, tổ chức chủ quản cấp trên trực tiếp thì phải ghi tên của cơ quan, tổ chức chủ quản cấp trên trực tiếp ở phía trên và tên cơ quan ban hành ở phía dưới cùng cỡ chữ; phía dưới có một gạch ngang ngắn, chiều dài gạch ngang bằng 1/3 chiều dài của hàng chữ ở trên.
+Ví dụ:
+-	Tên cơ quan, tổ chức ban hành văn bản (trường hợp ghi độc lập):
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+-	Tên cơ quan, tổ chức ban hành văn bản (trường hợp có cơ quan, tổ  chức chủ quản cấp trên trực tiếp):
+TỔNG CÔNG TY ĐIỆN LỰC VIỆT NAM
+CÔNG TY ĐIỆN LỰC I
+
+c).Số và ký hiệu văn bản
+-	Số của văn bản bao gồm số thứ tự đăng ký được đánh theo từng  loại văn bản do cơ quan ban hành trong một năm và năm ban hành văn bản đó. Số được ghi bằng chữ Ả rập, bắt đầu từ số 01 vào ngày đầu năm và kết thúc vào ngày 31 tháng 12 hàng năm, năm ban hành phải ghi đầy đủ các số, ví dụ: 2005, 2007;
+-	Ký hiệu của văn bản bao gồm chữ viết tắt tên loại văn bản và chữ viết tắt của tên cơ quan, tổ chức hoặc tên đơn vị có trong cơ cấu tổ  chức  của cơ quan ban hành văn bản. Tên loại văn bản viết trước, tên cơ quan ban hành viết sau, liên kết bằng gạch nối nhỏ (-); giữa số và ký  hiệu ngăn cách nhau bằng gạch  chéo (/)
+Số và ký hiệu của văn bản quy phạm pháp luật
+Số và ký hiệu của văn bản quy phạm pháp luật theo quy định của Luật ban hành văn bản quy phạm pháp luật phải được đánh số thứ tự cùng năm ban hành và ký hiệu cho từng loại văn bản như sau:
+Số:....../ tên viết tắt loại văn bản – tên viết tắt cơ quan, tổ chức ban hành
+Ví dụ:
+* Số: 20/2006/NĐ-CP
+(Nghị định số 20 của Chính phủ ban hành năm 2006)
+Số và ký hiệu của văn bản hành chính
+Số và ký hiệu của văn bản hành chính theo loại văn bản có tên loại và công văn như sau:
++ Đối với văn bản có tên loại:
+Số:..../ tên viết tắt loại văn bản – tên viết tắt cơ quan, tổ chức ban hành
+Ví dụ :	* Số : 17/BC-ĐLVN
+(Báo cáo số 55 của Tổng công ty Điện lực Việt Nam)
++ Đối với công văn :
+Số :...../ tên viết tắt cơ quan, tổ chức ban hành văn bản – tên viết tắt đơn vị soạn thảo
+Ví dụ :
+* Số : 24/UBND-VP
+(Công văn số 24 của Uỷ ban nhân dân do Văn phòng soạn thảo)
+d)	Địa danh và ngày, tháng, năm ban hành văn bản
+*	Địa danh
+Địa danh là nơi cơ quan, tổ chức làm soạn ra văn bản đóng trụ sở.
+Địa danh lấy tên đơn vị hành chính: thành  phố, tỉnh, huyện, xã nơi cơ quan,  tổ chức đóng trụ sở.
+Ví dụ: Văn bản của cơ quan, tổ chức của Trung ương và của thành phố Hà Nội ghi là:
+Hà Nội, ngày.....tháng....năm....
+*Ngày, tháng, năm ban hành văn bản
+Ngày, tháng, năm là ngày đăng ký và phát hành văn bản và được viết tiếp sau địa danh
+Địa danh và ngày, tháng, năm được viết đầy đủ ngay dưới Quốc hiệu. Ví dụ:
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+Nam Định, ngày 17 tháng 02 năm 2005
+e)	Tên loại văn bản:
+-	Tên loại văn bản là tên gọi của từng văn bản theo hệ thống văn bản do cơ quan, tổ chức ban hành. Khi ban hành văn bản quy phạm pháp luật và văn bản hành chính đều phải ghi tên loại trừ công văn. Tên loại văn bản  được in bằng  chữ in hoa, khổ lớn, chính giữa trang giấy dưới địa danh và ngày tháng.
+-	Trích yếu nội dung của văn bản là một câu ngắn gọn hoặc một cụm từ, phản ánh khái quát nội dung chủ yếu của văn bản.
+Ví dụ:
+VĂN PHÒNG CHÍNH PHỦ
+Số: 3124/VPCP-HC
+V/v hướng dẫn một số thủ tục soạn thảo văn bản
+f)	Nội dung của văn bản
+Là thành phần quan trọng của văn bản. Toàn bộ những sự việc, vấn đề cần  giải quyết và quyết định được thể hiện đầy đủ trong nội dung văn bản.
+Nội dung của văn bản phải biên tập ngắn gọn, chính xác, rõ ràng và phù hợp với các văn bản quy phạm pháp luật có liên quan. Tùy thuộc vào hình thức văn bản và nội dung để có bố cục phù hợp. Trình bày nội dung văn bản loại chữ in thường, kiểu chữ đứng.
+g)	Chức vụ, họ tên và chữ ký của người có thẩm quyền
+*	Việc ghi quyền hạn của người được ký thực hiện như sau:
+-Trường hợp người đứng đầu ký vào những văn bản theo thẩm quyền ký thì ghi chức vụ của người đứng đầu:
+Ví dụ: CHỦ TỊCH
+-Trường hợp người đứng đầu mới chỉ giữ quyền đứng đầu cơ quan, tổ  chức thì phải ghi Q. vào trước chức vụ của người đứng đầu;
+Ví dụ: Q. TỔNG GIÁM ĐỐC
+-Trường hợp  ký thay mặt tập thể thì phải ghi chữ viết tắt “TM.” Vào trước  tên tập thể lãnh đạo hoặc tên cơ quan, tổ chức.
+Ví dụ: TM.UBND HUYỆN
+-Trường hợp ký thay người đứng đầu cơ quan, tổ chức (áp dụng cho cấp phó khi được người đứng đầu ủy quyền giải quyết công việc) thì phải ghi chữ viết tắt “KT.” Vào trước chức vụ của người đứng đầu
+Ví dụ: KT. CHỦ TỊCH
+-Trường hợp ký thừa lệnh (áp dụng trong trường hợp người đứng đầu ủy nhiệm cho cấp dưới-dưới một cấp, ký vào những văn bản nào đó) thì phải ghi  chữ viết tắt “TL.” Vào trước chức vụ của người đứng đầu cơ quan, tổ chức;
+Ví dụ: TL. HIỆU TRƯỞNG
+*	Chức vụ của người ký
+Chức vụ ghi trên văn bản là chức danh lãnh đạo chính thức của người ký văn bản trong cơ quan, tổ chức; chỉ ghi chức danh như Bộ trưởng, Chủ nhiệm...
+Chức vụ ghi trên văn bản do các tổ chức tư vấn như Ban, Hội đồng của nhà nước hoặc của cơ quan, tổ chức ban hành là chức danh lãnh đạo của người  ký văn bản trong Ban hoặc Hội đồng đó.
+*	Họ và tên người ký
+Họ và tên bao gồm họ, tên đệm (nếu có) và tên của người ký văn bản.
+Đối với văn bản quy phạm pháp luật và văn bản hành chính, trước họ tên của người ký, không ghi học hàm, học vị và các danh hiệu danh dự khác, trừ văn bản của các tổ chức sự nghiệp giáo dục, y tế, nghiên cứu khoa học, trong những trường hợp cần thiết, có thể ghi thêm học hàm, học vị.
+h). Dấu của cơ quan, tổ chức
+Dấu của cơ quan, tổ chức là dấu hiệu thể hiện tính pháp lý của cơ quan, tổ chức ra văn bản. Mỗi cơ quan chỉ có một con dấu. Người đứng đầu cơ quan, tổ chức chịu trách nhiệm quản lý và sử dụng con dấu.
+Dấu chỉ được đóng lên các văn bản, giấy tờ đã có chữ ký của người có thẩm quyền ký. Dấu phải đóng trùm lên 1/3 chữ ký về phía bên trái.
+i)	Nơi nhận
+Nơi nhận xác định những cơ quan, tổ chức, đơn vị và cá nhân nhận văn bản với mục đích và trách nhiệm cụ thể như để kiểm tra, giám sát, xem xét, giải quyết; để thi hành, để trao đổi công việc, để biết và để lưu...
+Nơi nhận có tác dụng giúp cho văn thư cơ quan, tổ chức gửi đúng nơi giải quyết văn bản, giúp cho cơ quan, tổ chức, cá nhân nhận văn bản thấy được trách nhiệm của mình...Vì vậy, nơi nhận phải ghi rõ ràng, chính xác.
++ Đối với văn bản chỉ gửi cho một số đối tượng cụ thể thì phải ghi tên từng  cơ quan, tổ chức, cá nhân nhận văn bản; đối với văn bản được gửi cho một hoặc một số nhóm đối tượng nhất định thì nơi nhận được ghi chung
+Ví dụ:
+Nơi nhận:
+-Các Bộ, cơ quan ngang Bộ, cơ quan thuộc chính phủ
+-UBND các tỉnh, thành phố trực thuộc trung ương
++ Đối với những văn bản có ghi tên loại văn bản, nơi nhận bao gồm từ “nơi nhận” và phần liệt kê các cơ quan, tổ chức, đơn vị và cá nhân nhận văn bản.
++ Đối với công văn hành chính, nơi nhận bao gồm hai phần:
+Phần thứ nhất bao gồm từ “Kính gửi”, sau đó là tên các cơ quan,  tổ  chức hoặc đơn vị, cá nhân trực tiếp giải quyết công việc;
+Phần thứ hai bao gồm từ “Nơi nhận”, phía dưới là từ “như trên”, tiếp theo là tên các cơ quan, tổ chức, đơn vị và cá nhân có liên quan khác nhận công văn.
+Nơi nhận được trình bày ở dưới cùng phía trái văn bản (ngang với chức vụ  của người ký văn bản).
+j)	Dấu chỉ mức độ “mật” và “khẩn”
+*	Dấu chỉ mức độ khẩn:
+Việc xác định mức độ khẩn của văn bản được thực hiện như sau:
+-	Tùy theo mức độ cần được chuyển phát nhanh, văn bản được xác định độ khẩn theo ba mức sau: hỏa tốc, thượng khẩn hoặc khẩn;
+-	Khi soạn thảo văn bản có tính chất khẩn, đơn vị hoặc cá nhân soạn thảo văn bản đề xuất mức độ khẩn trình người ký văn bản quyết định.
+Dấu độ khẩn phải được khắc sẵn; mực dùng để đóng dấu độ khẩn dùng mực màu đỏ tươi.
+*Dấu chỉ mức độ mật
+Việc xác định và đóng dấu độ mật (tuyệt mật, tối mật hoặc mật), dấu thu hồi đối với văn bản có nội dung bí mật nhà nước được thực hiện theo quy định của pháp luật về bảo vệ bí mật nhà nước.
+Dấu chỉ mức độ “mật” và “khẩn” được đóng dưới số và ký hiệu của văn bản; với công văn, được đóng dưới trích yếu nội dung công văn.
+k)	Các thành phần thể thức khác của văn bản:
+-	Địa chỉ cơ quan, tổ chức, địa chỉ E-mail, Website,  số  Tel, Telex, Fax đối với công văn, công điện, giấy giới thiệu, giấy đi đường, phiếu gửi, phiếu chuyển để tạo điều kiện cho việc liên hệ được ghi ở cuối trang đầu, cách phần nội dung văn bản bằng gạch ngang dài;
+-	Ký hiệu người đánh máy và số lượng bản phát hành đối với những văn bản cần được quản lý chặt chẽ về số lượng phát hành;
+-	Trường hợp văn bản có phụ lục kèm theo thì trong văn bản phải có chỉ dẫn về phụ lục đó. Phụ lục văn bản phải có tiêu đề; văn bản có từ hai phụ lục trở lên thì các phụ lục phải được đánh số thứ tự bằng chữ số La Mã;
+-	Số trang: văn bản và hai phụ lục văn bản gồm nhiều trang thì từ số thứ hai trở đi phải được đánh số thứ tự bằng chữ số Ả rập; số trang của phụ lục văn bản được đánh riêng, theo từng phụ lục.
+Trình bày các thành phần của văn bản:
+SƠ ĐỒ BỐ TRÍ CÁC THÀNH PHẦN THỂ THỨC VĂN BẢN
+(Trên một trang giấy khổ A4: 210mm x 297mm)
+(Theo thông tư liên tịch số 55/2005/TT LT-BNV-VPCP ngày 06 tháng 5 năm 2005 của Bộ Nội vụ và Văn phòng Chính phủ)
+ 
+ 
+Ghi chú:
+Ô số	:	Thành phần của thể thức văn bản
+1	:	Quốc hiệu
+2	:	Tên cơ quan, tổ chức ban hành
+3	:	Số, ký hiệu văn bản
+4	:	Địa danh và ngày, tháng, năm ban hành văn bản
+5	:	Tên loại và trích yếu nội dung văn bản
+5a	:	Tên loại và trích yếu nội dung văn bản
+5b	:	Trích yếu nội dung văn bản hành chính
+6	:	Nội dung văn bản
+7a, 7b, 7c	:	Chức vụ, họ tên và chữ ký của người có thẩm quyền
+8	:	Dấu của cơ quan, tổ chức
+9a, 9b	:	Nơi nhận
+10a	:	Dấu chỉ mức độ mật
+10b	:	Dấu chỉ mức độ khẩn
+11	:	Dấu thu hối và chỉ dẫn về phạm vi lưu hành
+12	:	Chỉ dẫn về dự thảo văn bản
+13	:	Ký hiệu người đánh máy và số lượng phát hành
+14	:	Địa chỉ cơ quan, tổ chức; địa chỉ E-mail; địa chỉ Website; số điện thoại, số Telex, số Fax
+ 
+III.	VĂN BẢN QUẢN LÝ NHÀ NƯỚC
+Mẫu trình bày: Tiêu chuẩn Việt Nam TCVN 5700-1992
+Mẫu 1: Mẫu trình bày công văn
+
+TÊN CQ, TC CẤP TRÊN (1)
+TÊN CƠ QUAN, TỔ CHỨC (2)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập- Tự do – Hạnh phúc
+
+Số:…./…(3)…..-….(4)….	…..(5)…..,ngày……tháng……năm……
+V/v…….(6)……..	
+
+Kính gửi: - ………………………………..;
+-…………………………………
+……………………………………(7)……………….……………………………
+…………………………………………………………………………………………..
+…………………………………………………………………………………………..
+…………………………………………………………………………………………..
+…………………………………………………………………………………………..
+
+
+Nơi nhận:
+-	Như trên;
+-	………..
+-	Lưu: VT, ….(9)….
+-	A.XX(10)	QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ (8)
+(chữ ký, dấu)
+
+Nguyễn văn A
+
+
+Số XX phố Tràng Tiền, quận Hoàn Kiếm, Hà Nội
+ĐT: (04)...............,
+E-mail:.................,		Fax: (04)..................
+Website:..................(11)
+Ghi chú:
+(1)	Tên cơ quan, tổ chức cấp trên (nếu có)
+(2)	Tên cơ quan, tổ chức hoặc chức danh nhà nước ban hành công văn
+(3)	Chữ viết tắt tên cơ quan, tổ chức hoặc chức danh nhà nước ban hành công văn
+(4)	Chữ viết tắt tên đơn vị hoặc bộ phận soạn thảo hoặc chủ trì soạn thảo công văn
+(5)	Địa danh
+(6)	Trích yếu nội dung công văn
+(7)	Nội dung công văn
+(8)	Ghi quyền hạn, chức vụ của người ký như Bộ trưởng, Cục trưởng, Giám đốc...; trường hợp ký thay mặt tập thể lãnh đạo thì ghi chữ viết tắt “TM.“ Vào trước tên cơ quan, tổ chức hoặc tên tập thể lãnh đạo.
+(9)	Chữ viết tắt tên đơn vị soạn thảo hoặc chủ trì soạn thảo và số lượng bản lưu (nếu cần)
+(10)	Ký hiệu người đánh máy, nhân bản và số lượng bản phát hành (nếu cần) 
+(11)	Địa chỉ cơ quan, tổ chức; số điện thoại, số Telex, số Fax; địa chỉ E-mail; Website (nếu cần)
+ 
+Mẫu 2: Mẫu trình bày văn bản có tên loại
+TÊN CQ, TC CẤP TRÊN (1)
+TÊN CƠ QUAN, TỔ CHỨC (2)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập- Tự do – Hạnh phúc
+
+Số:…./…(3)…..-….(4)….	…..(5)…..,ngày……tháng……năm……
+	
+
+TÊN LOẠI VĂN BẢN (6)
+……………(7)…………...
+……………………………………(8)……………….……………………………
+…………………………………………………………………………………………..
+…………………………………………………………………………………………..
+…………………………………………………………………………………………..
+
+Nơi nhận:
+-	Như trên;
+-	………..
+-	Lưu: VT, ….(10)….
+-	A.XX(11)	QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ (9)
+(chữ ký, dấu)
+
+Nguyễn văn A
+
+
+Ghi chú :
+Mẫu này áp dụng chung đối với đa số các hình thức văn bản hành chính có ghi tên loại cụ thể như chỉ thị (cá biệt), thông báo, chương trình, kế hoạch, đề án, báo cáo, tờ trình v,v...
+(1)	Tên cơ quan, tổ chức cấp trên (nếu có)
+(2)	Tên cơ quan, tổ chức hoặc chức danh nhà nước ban hành văn bản
+(3)	Chữ viết tắt tên loại văn bản
+(4)	Chữ viết tắt tên cơ quan, tổ chức hoặc chức danh nhà nước ban hành văn bản
+(5)	Địa danh
+(6)	Tên loại văn bản: chỉ thị (cá biệt), thông cáo, thông báo, chương trình, kế hoạch, đề án, phương án, báo cáo, tờ trình v.v...
+(7)	Trích yếu nội dung văn bản
+(8)	Nội dung văn bản
+(9)	Ghi quyền hạn, chức vụ của người ký như Bộ trưởng, Cục trưởng, Giám đốc...; trường hợp ký thay mặt tập thể lãnh đạo thì ghi chữ viết tắt “TM.“ vào trước tên cơ quan, tổ chức hoặc tên tập thể lãnh đạo.
+(10)	Chữ viết tắt tên đơn vị soạn thảo hoặc chủ trì soạn thảo và số lượng bản lưu (nếu cần)
+(11)	Ký hiệu người đánh máy, nhân bản và số lượng bản phát hành (nếu cần).
+
+Mẫu 3: Phông chữ (FONT) cỡ chữ để trình bày văn bản
+MẪU CHỮ VÀ CHI TIẾT TRÌNH BÀY THỂ THỨC VĂN BẢN VÀ THỂ THỨC BẢN SAO
+(Kèm theo Thông tư liên tịch số 55/2005/TTLT-BNV-VPCP ngày 06 tháng 5 năm 2005 của Bộ Nội vụ và Văn phòng Chính phủ)
+
+STT	Thành phần thể thức và chi tiết trình bày	Loại chữ	Cỡ chữ	Kiểu chữ	Ví dụ minh họa
+					Phông chữ.VnTime: chữ
+thường, .VnTimeH: chữ in hoa	Cỡ
+chữ
+(1)	(2)	(3)	(4)	(5)	(6)	(7)
+1	Quốc hiệu					
+	-Dòng trên	In hoa	12-13	Đứng, đậm	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM	13
+	- Dòng dưới	In thường	13-14	Đứng, đậm	Độc lập- Tự do – Hạnh phúc	13
+	- Dòng kẻ dưới				
+
+2	Tên cơ quan, tổ chức					
+	-	Tên cơ quan, tổ chức chủ quản cấp trên trực tiếp	In hoa	12-13	Đứng	BỘ TÀI CHÍNH	12
+	-	Tên cơ quan, tổ chức	In hoa	12-13	Đứng, đậm	CỤC QUẢN LÝ GIÁ	13
+	-	Dòng kẻ bên dưới				
+
+3	Số ký hiệu của văn bản	In thường	13	Đứng	Số 32/2002/NĐ-CP	13
+4	Địa danh và ngày, tháng, năm ban hành văn bản	In thường	13-14	Nghiêng	Hà Nội, ngày 05 tháng 02 năm 2008	13
+5	Tên loại và trích yếu nội dung					
+
+a	Đối với văn bản có tên loại					
+	-	Tên loại văn bản	In hoa	14-15	Đứng, đậm	CHỈ THỊ	14
+	-	Trích yếu nội dung	In thường	14	Đứng, đậm	Về công tác phòng chống lụt bảo	14
+	-	Dóng kẻ bên dưới				
+
+b	Đối với công văn					
+	Trích yếu nội dung	In thường	12-13	Đứng	V/v nâng bậc lương năm 2004	13
+6	Nội dung văn bản	In thường	13-14	Đứng	Trong công tác chỉ đạo….	14
+a	Gồm phần, chương, mục, điều, khoản, điểm					
+	-	Từ “phần”, “chương” và số thứ tự của phần, chương	In thường	14	Đứng, đậm	Phần I	Chương I	14
+	-Tiêu đề của phần, chương	In thường	13-14	Đứng, đậm	QUY ĐỊNH CHUNG	QUY ĐỊNH CHUNG	14
+	-	Từ “mục:và số thứ tự	In thường	14	Đứng, đậm	Mục 1	14
+	-	Tiêu đề của mục	In hoa	12-13	Đứng, đậm	GIẢI THÍCH LUẬT, PHÁP LỆNH	12
+	-	Điều	In thường	12-13	Đứng, đậm	Điều 1. Bản sao văn bản	14
+	-	Khoản	In thường	13-14	Đứng	1.	Cac hình thức…	14
+	-	Điểm	In thường	13-14	Đứng	a)	Đối vớI…	14
+b	Gồm phần, mục, khoản, điểm					
+	-	Từ “phần” và số thứ tự	In thường	14	Đứng, đậm	Phần 1	14
+	-	Tiêu đề của phần	In hoa	13-14	Đứng đậm	TÌNH HÌNH THỰC HIỆN NHIỆM VỤ	14
+	-	Số thứ tự và tiêu đề của mục	In hoa	13-14	Đứng, đậm	I.	NHỮNG KẾT QUẢ…	14
+	-	Khoản					
+	Trường hợp có tiêu đê	In thường	13-14	Đứng, đậm	1.	Phạm vi và đối tượng áp dụng	14
+	Trường hợp không có tiêu đề	In thường	13-14	Đứng	1.	Thông tư này có hiệu lực thi hành sau 15 ngày kể…	14
+	-	Điểm	In thường	13-14	Đứng	a)	Đối với	14
+7	Chức vụ, họ tên của người ký					
+	-	Quyền hạn của người ký	In hoa	13-14	Đứng, đậm	TM. CHÍNH PHỦ	14
+	-	Chức vụ của người ký	In hoa	13-14	Đứng, đậm	THỦ TƯỜNG	14
+	-	Họ tên của người ký	In thường	13-14	Đứng, đậm	Nguyễn Văn A	14
+8	Nơi nhận					
+a	Từ “kính gửi” và tên cơ quan, tổ chức, cá nhân	In thường	14	Đứng		
+	-	Gửi một nơi				Kính gửi: Bộ Công nghiệp	14
+	-	Gửi nhiều nơi				Kính gửi:
+-	Bộ Nội vụ;
+-	Bộ Kế hoạch và Đầu tư	14
+b	Từ “nơi nhận” và tên cơ quan, tổ chức, cá nhân					
+	-	Từ “nơi nhận”	In thường	12	Nghiêng, đậm	Nơi nhận	Nơi nhận: (đối với công văn)	12
+	-	Tên cơ quan, tổ chức, cá nhân nhận văn bản, bản sao	In thường	11	Đứng	-	Các Bộ, Cơ quan ngang Bộ…;
+-	……;
+-	Lưu: VT…	-	Như trên;
+-	……
+-	Lưu: VT….	11
+9	Dấu chỉ mức độ khẩn	In hoa	13-14	Đứng, đậm		13
+10	Chỉ dẫn về phạn vi lưu hành	In thường	13-14	Đứng, đậm		13
+11	Chỉ dẫn về dự thảo văn bản	In hoa	13-14	Đứng, đậm		13
+12	Ký hiệu người đánh máy, nhân bản và số lượng bản	In thường	11	Đứng	PL.300	11
+13	Địa chỉ cơ quan, tổ chức, địa chỉ Email, Website, số điện thoại, số Talex, số Fax	In thường	11-12	Đứng	Số XX phố Tràng Tiền, HN
+ĐT: (04)……..
+Fax: (04)……..
+E-mail:
+Website:	11
+14	Phụ lục văn bản					
+	-	Từ “phụ lục” và số thứ tự của phụ lục	In thường	14	Đứng, đậm	Phụ lục I	14
+	-	Tiêu đề của phụ lục	In hoa	13-14	Đứng, đậm	BẢNG CHỮ VIẾT TẮT	14
+15	Số trang	In thường	13-14	Đứng	2,7,13	14
+16	Hình thức sao	In hoa	13-14	Đứng, đậm	SAO Y BẢN CHÍNH, TRÍCH SAO, SAO LỤC	14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHƯƠNG II: SOẠN THẢO VĂN BẢN
+
+A. VĂN BẢN PHÁP QUY
+I. KHÁI NIỆM VÀ ĐẶC TRƯNG CỦA VĂN BẢN PHÁP QUY
+1. Khái niệm văn bản pháp quy
+Văn bản pháp quy là văn bản do cơ quan nhà nước có thẩm quyền ban hành theo thủ tục, trình tự luật định, trong đó có các quy tắc xử sự chung, được Nhà nước bảo đảm thực hiện nhằm điều chỉnh các quan hệ xã hội theo định hướng xã hội chủ nghĩa. Đây là sự thể chế hóa thiết chế xã hội, nói cách  khác đó là văn  bản cụ thể hóa đường lối, chủ trương, chính sách, pháp luật của Đảng và nhà nước cầm quyền trong lãnh đạo và quản lý.
+Vì vậy thông qua hệ thống văn bản pháp quy có thể biết được thế lực cầm quyền phục vụ lợi ích cho tầng lớp xã hội nào.
+2. Đặc trưng của văn bản pháp quy
+Văn bản pháp quy có những đặc trưng rất cơ bản mà khi biên soạn cần chú ý:
+-	Không phải mọi cơ quan đều có quyền ban hành các văn bản loại này mà  chỉ những cơ quan có thẩm quyền theo luật định mới có quyền này;
+-	Văn bản ban hành chứa đựng các quy phạm pháp luật. Đó là những văn bản dưới luật, có tính lập quy;
+-	Chúng có tính cưỡng chế thi hành và được áp dụng nhiều lần, nhiều khi có phạm vi rất rộng. Đó là những văn bản cụ thể hóa các chủ trương, đường lối của Đảng và Nhà nước trong lãnh đạo và quản lý.
+II. Ý NGHĨA VÀ TẦM QUAN TRỌNG CỦA VĂN BẢN PHÁP QUY
+Văn bản pháp quy có ý nghĩa và tầm quan trọng sau đây:
+-	Là hình thức pháp luật chủ yếu trong các hình thức quản lý nhà nước, chứa đựng quy phạm pháp luật, thẩm quyền và hiệu lực thi hành.
+-	Là nguồn thông tin quy phạm, là sản phẩm hoạt động quản lý nhà nước  và là công cụ điều hành của các cơ quan và các nhà lãnh đạo, nhà quản lý.
+-	Là căn cứ pháp lý để các khách thể thực hiện quyết định của các chủ thể quản lý và là chứng cứ để các chủ thể kiểm tra khách thể việc thực hiện quyết định của mình
+III. YÊU CẦU VỀ NỘI DUNG VÀ HÌNH THỨC CỦA VĂN BẢN PHÁP QUY
+1.	Những yêu cầu về nội dung
+1.1.	Về nội dung
+Đây là phần cơ bản của mọi văn bản. Muốn văn bản pháp quy phát huy hết hiệu lực thì nội dung văn bản phải đáp ứng các yêu cầu sau đây :
+a)	Đảm bảo đúng đắn về mặt chính trị
+Phải phản ánh trung thực đường lối, chủ trương, chính sách của Đảng từng giai đoạn lịch sử. Đây là định hướng đúng đắn cho mục đích ban hành văn bản pháp quy.
+b)	Đảm bảo tính chính xác, chặt chẽ về mặt pháp luật
+-	Phải đúng thẩm quyền của cơ quan ban hành
+-	Đảm bảo tính thống nhất của pháp luật: văn bản của cấp dưới ban hành không được trái với văn bản của cấp trên, không trái với văn bản pháp lý cao  hơn.
+-	Không làm thiệt hại đến lợi ích hợp pháp của công dân.
+-	Tôn trọng các Điều ước quốc tế mà Nhà nước ta đã ký kết hoặc gia nhập.
+c)	Đảm bảo tính khoa học và đại chúng
+-	Văn bản có đủ lượng thông tin quy phạm và thông tin thực tế cần thiết. Thông tin đưa vào văn bản phải đáng tin cậy nhất
+-	Các sự kiện, số liệu đưa vào văn bản phải được chọn lọc, chính xác. Trích dẫn, viện dẫn văn bản nào để làm căn cứ pháp lý phải nêu đầy đủ (Số, ký hiệu, ngày tháng cơ quan ban hành về việc gì để tiện tra cứu khi cần đến)
+-	Nội dung các mệnh lệnh, ý tưởng chỉ đạo phải thật rõ ràng, mạch lạc, các câu có tính liên kết chặt chẽ với nhau, theo thứ tự nhất định.
+-	Hành văn nghiêm túc, sử dụng từ ngữ chuẩn mực, phổ thông. Câu văn ngắn gọn, dễ nhớ và hiểu thống nhất, đảm bảo đối tượng nào cũng hiểu được và thực hiện được.
+d)	Đảm bảo tính quy phạm
+-	Tính quy phạm thường thể hiện dưới hình thức mệnh lệnh, những yêu cầu, cấm đoán và hướng dẫn hành vi xử  sự của con người được nêu lên thông qua  các hình thức quy phạm pháp luật.
+-	Tính quy phạm biểu hiện bằng cưỡng chế, quyền lực Nhà nước, đòi hỏi mọi người phải tuân theo đồng thời phản ánh địa vị pháp lý của chủ thể văn bản.
+đ) Đảm bảo tính khả thi
+-	Văn bản ban hành phải đáp ứng giải quyết các yêu cầu của thực tiễn cũng như đảm bảo các điều kiện, khả năng cho việc thực hiện.
+-	Mọi quy định trong văn bản phải phù hợp với tình hình, hoàn cảnh thực tế  và khả năng thực hiện các quy định đó.
+1.2.	Về văn phong hành chính
+Văn bản pháp quy mang tính quyền lực của cơ quan, tổ chức, cá nhân có  thẩm quyền và thường có phạm vi ảnh hưởng rộng. Vì vậy văn phong trong văn bản pháp quy có những yêu cầu cụ thể về cách sử dụng từ ngữ và xây dựng câu.
+*Về từ ngữ:
+Từ ngữ trong văn bản phải đảm bảo tính chính xác, trong sáng, rõ  ràng, cụ  thể vì thế phải dùng từ ngữ chính xác của cả nước là tiếng Việt không dùng từ  điạ phương, từ lóng. Cố gắng thay thế từ Hán - Việt bằng từ thuần Việt mang  tính phổ thông mà đảm bảo tính nghiêm túc của văn bản. Nếu sử dụng thuật ngữ chuyên môn cần xác định rõ nội dung, thì phải được định nghĩa trong văn bản. Nếu sử dụng chữ viết tắt phải có giải thích cụ thể để tránh khó khăn cho đối tượng tiếp nhận thi hành văn bản.
+*	Về hành văn:
+Trong văn bản quy phạm pháp luật nên dùng câu văn ngắn gọn, mang ý  tưởng cụ thể, súc tích,  không dùng cách diễn đạt hình tượng. Đối với các câu  văn dài mang nhiều ý cùng triển khai cho một ý chính thì phải biết cách sử dụng cho các phép liên kết để tạo sự mạch lạc mà không gây sự hiểu lầm cho đối  tượng tiếp nhận văn bản.
+Trong thực tế có một số văn bản quy phạm pháp luật có chức năng điều hành, quản lý như: Nghị định, thông tư, nghị quyết... thường sử dụng những cụm từ  sau đây mang tính khuôn mẫu của văn phong hành chính trong  các phần mở  đầu, liên kết phần mở đầu với phần nội dung và phần kết thúc văn bản.
+Ví dụ:
+-	Phần mở đầu, thường ghi:
+Căn cứ vào Luật tổ chức Chính phủ ngày 25 tháng 12 năm 2001 Thực hiện chỉ thị số...
+-	Liên kết phần mở đầu với nội dung:
+Nay quyết định cho...
+Dựa vào các vấn đề trên, nay...
+-	Phần kết thúc:
+Quyết định bắt đầu có hiệu lực từ... Các cơ quan sau đây có trách nhiệm...
+Tùy thuộc vào thể loại văn bản và tình huống trong nội dung mà sử dụng các cụm trên đây cho phù hợp.
+2.	Những yêu cầu về hình thức
+Văn bản nói chung và văn  bản quy phạm pháp luật nói riêng phải tuân thủ  các quy định về thể thức văn bản. Đảm bảo đủ các yếu tố  thể thức và mối liên  kết giữa các yếu tố đó làm cho văn bản có đủ giá trị pháp lý và hiệu lực thi hành.
+Trình bày văn bản phải nghiêm túc, bố cục phải cân đối, hài hòa, không tẩy xóa, không sai ngữ pháp, chính tả thể hiện tính trang trọng của văn bản cơ quan quản lý Nhà nước. Thông thường các văn bản quy phạm pháp luật được trình  bày theo mẫu biểu do cơ quan quản lý Nhà nước hướng dẫn.
+IV. CÁC HÌNH THỨC VĂN BẢN PHÁP QUY
+1.	Một số văn bản pháp quy của Chính phủ
+1.1.	Nghị quyết của Chính phủ
+Được ban hành để quyết định chính sách cụ thể về xây dựng và kiện toàn bộ máy hành chính Nhà nước từ Trung ương đến cơ sở, hướng dẫn kiểm tra Hội đồng nhân dân thực hiện văn bản của cơ quan nhà nước cấp trên ;  quyết định  chủ trương chính sách cụ thể về ngân sách nhà nước, tiền tệ ; phát triển văn hóa giáo dục, y tế, khoa học công nghệ, củng cố quốc phòng an ninh, quản lý đối ngoại của nhà nước, phê duyệt các điều ước quốc tế thuộc thẩm quyền  của  Chính phủ.
+1.2.	Nghị định của Chính phủ
+Được ban hành để quy định chi tiết thi hành luật, nghị quyết của Quốc hội ; pháp lệnh, nghị quyết của Uỷ ban Thường vụ Quốc hội ; lệnh, quyết định của Chủ tịch nước ; quy định nhiệm vụ, quyền hạn, tổ chức bộ máy của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ và cơ quan khác thuộc thẩm  quyền  của Chính phủ thành lập ; các biện pháp cụ thể thực hiện nhiệm vụ, quyền hạn của Chính phủ.
+Nghị định ban hành những vấn đề cần thiết nhưng chưa đủ điều kiện xây  dựng thành luật, pháp lệnh để đáp ứng yêu cầu quản lý nhà nước, quản lý kinh  tế, quản lý xã hội. Việc ban hành nghị định này phải được sự đồng ý của Uỷ ban Thường vụ Quốc hội.
+2.	Các văn bản pháp quy của Thủ tướng Chính phủ
+2.1.	Quyết định của Thủ tướng Chính phủ
+Được ban hành để quyết định các chủ trương, biện pháp lãnh đạo, điều hành hoạt động của Chính phủ và hệ thống hành chính nhà nước từ trung ương đến cơ sở ; quy định chế độ làm việc với các thành viên Chính phủ, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và các vấn đề khác thuộc thẩm quyền của Thủ tướng Chính phủ.
+2.2.	Chỉ thị của Thủ tướng Chính phủ
+Được ban hành để quy định các biện pháp chỉ đạo, phối hợp hoạt động của  các thành viên Chính phủ ; đôn đốc và kiểm tra hoạt động của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Uỷ ban nhân dân các cấp trong việc thực hiện các chủ trương, chính sách, pháp luật của Nhà nước, các quyết định của Chính phủ.
+3.	Các văn bản pháp quy của Bộ trưởng, Thủ trưởng các cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ.
+3.1.	Quyết định của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ  trưởng cơ quan thuộc Chính phủ
+Được ban hành để quy định về tổ chức và hoạt động của cơ quan, đơn vị trực thuộc ; quy định các tiêu chuẩn, quy trình, quy phạm và các định mức kinh tế -  kỹ thuật của ngành, lĩnh vực do mình phụ trách và những  vấn đề  được Chính phủ giao.
+3.2.	Chỉ thị của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ
+Được ban hành để quy định các biện pháp để chỉ đạo, đôn đốc, phối hợp và kiểm tra hoạt động của các cơ quan, đơn vị thuộc ngành, lĩnh vực do mình phụ trách trong việc thực hiện văn bản quy phạm pháp luật của cơ quan  nhà  nước cấp trên và của mình.
+3.3.	Thông tư của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ
+Được ban hành để hướng dẫn thực hiện những quy định được  luật,  nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Uỷ ban Thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước, nghị quyết, nghị định của Chính phủ, quyết định, chỉ thị của Thủ tướng Chính phủ giao thuộc phạm vi quản lý ngành, lĩnh vực do mình phụ trách.
+4.	Các văn bản pháp quy liên ngành
+4.1.	Thông tư liên tịch giữa các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
+Được ban hành để hướng dẫn thi hành luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Uỷ ban Thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước, nghị quyết, nghị định của Chính phủ, quyết định, chỉ thị của Thủ tướng Chính phủ có liên quan đến chức năng, nhiệm  vụ, quyền hạn của các cơ quan  đó.
+4.2.	Thông tư liên tịch giữa tòa án nhân dân tối cao với Viện kiểm  soát nhân dân tối cao ; giữa Tòa án nhân dân tối cao, Viện Kiểm sát nhân dân tối cao với Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ.
+Được ban hành để hướng dẫn việc áp dụng thống nhất pháp luật trong hoạt động tố tụng và những vấn đề khác liên quan đến nhiệm  vụ, quyền hạn của các cơ quan đó.
+4.3.	Nghị quyết, thông tư liên tịch giữa cơ quan nhà nước có thẩm quyền với cơ quan trung ương của tổ chức chính trị - xã hội
+Được ban hành để hướng dẫn thi hành những vấn đề khi pháp luật quy định  về việc tổ chức chính trị - xã hội đó tham gia quản lý nhà nước
+5.	Các văn bản pháp quy của Chính quyền các cấp địa phương
+5.1.	Nghị quyết của Hội đồng nhân dân
+Được ban hành để quyết định chủ trương, chính sách, biện pháp nhằm đảm bảo thi hành Hiến pháp, luật, văn bản của cơ quan nhà nước cấp  trên ; quyết  định kế hoạch phát triển kinh tế - xã hội, ngân sách, quốc phòng, an ninh ở địa phương ; quyết định biện pháp ổn định và nâng cao đời sống của nhân dân, hoàn thành mọi nhiệm vụ cấp trên giao cho ; quyết định trong phạm vi thẩm quyền được giao những chủ trương, biện pháp có tính chất đặc thù phù hợp với điều kiện phát triển kinh tế - xã hội của địa phương và những vấn đề cụ thể do cơ  quan nhà nước cấp trên giao.
+5.2.	Quyết định của Uỷ ban nhân dân.
+Được ban hành để quyết định chủ trương, biện pháp lãnh đạo, điều hành hay quy định chế độ, chính sách trong phạm vi có thẩm quyền ; điều chỉnh những công việc về tổ chức nhân sự thuộc ủy quyền của Uỷ ban nhân dân.
+5.3.	Chỉ thị của Uỷ ban nhân dân:
+Được ban hành để chỉ đạo, đôn đốc, phối hợp và kiểm tra hoạt động của các cơ quan, đơn vị trực thuộc trong việc thực  hiện các chủ trương, chính sách, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên.
+V. PHƯƠNG PHÁP SOẠN THẢO CÁC VĂN BẢN PHÁP QUY
+1.	Soạn thảo nghị quyết
+1.1.	Khái niệm nghị quyết
+Nghị quyết là văn bản ghi lại chính xác những kết luận và quyết nghị của một hội nghị tập thể hay bộ phận thường vụ đại diện cho tập thể, cũng có khi là  sự liên kết của đại diện nhiều cơ quan, tổ chức, đơn vị khác nhau cùng ban hành (trong trường hợp đó gọi là nghị quyết liên tịch). Nội dung của nghị quyết  thường đề cập đến các chủ trương, đường lối, chính sách, kế  hoạch hoặc một  vấn đề, biện pháp cụ thể đã được thảo  luận, nhất trí và được thông qua ở hội  nghị theo một thủ tục nhất định.
+1.2.	Bố cục và cách thể hiện
+Ngoài những thành phần cần thiết của thể thức văn bản, nội dung nghị quyết bao gồm ba phần:
+*	Phần thứ I: Căn cứ ban hành nghị quyết
+Để nghị quyết có sức thuyết phục đối tượng thi hành thì trong phần nêu căn  cứ cần nhấn mạnh cơ sở pháp lý tức là nghị quyết ban hành nhằm triển khai thực hiện chủ trương chính sách hay luật pháp nào của cơ quan lãnh đạo quản lý cấp trên, đồng thời nhấn mạnh cơ sở  thực tiễn tức là nhằm giải quyết một tình thế  cấp bách hay thỏa mãn những yêu cầu nào đó của đông đảo quần chúng thông qua các kiến nghị tập thể, đơn khiếu tố... để nâng cao sự nhất trí và tính tự giác của các chủ thể ban hành.
+*Phần thứ II: Nội dung nghị quyết
+Là phần quyết định của nghị quyết được trình bày bằng từ ngữ: Quyết nghị. Nếu nội dung nghị quyết chứa đựng nhiều vấn đề thì mỗi vấn đề nêu thành mục riêng. Mối mục diễn đạt một vấn đề. Hội nghị thảo luận mấy vấn đề thì chia thành từng ấy mục. Nội dung của các mục phải thật rõ ràng, chính xác, ngắn gọn đã được tập thể hội nghị thống nhất thông qua.
+*Phần thứ III: Biện pháp tổ chức thực hiện
+Phần này nêu những biện pháp cụ thể, nhằm tổ chức thực hiện các vấn đề đã nêu trong nghị quyết, đề ra nhiệm vụ và phân công các đơn vị trực tiếp liên quan chịu trách nhiệm thực hiện hoặc phối hợp thực hiện trong phạm vi thời gian, không gian nhất định. Ngoài ra phải quy định những điều kiện vật chất, tinh thần nhằm đảm bảo thực hiện các nhiệm vụ và mục tiêu mà nghị quyết đề ra.
+Cuối cùng nghị quyết phải được tập thể các thành viên hội nghị biểu quyết thông qua. Người đứng đầu cơ quan, tổ chức ký văn bản nghị quyết và ban hành.
+2.	Soạn thảo quyết định
+2.1.	Khái niệm quyết định
+Quyết định là văn bản được dùng phổ biến trong các cơ quan nhà nước, tổ chức kinh tế, chính trị, xã hội nhằm điều chỉnh các quan hệ trong xã hội, điều chỉnh các quan hệ trong nội bộ các cơ quan nhà nước, tổ chức kinh tế, chính trị, xã hội hoặc trong phạm vi toàn xã hội.
+Hiệu lực của quyết định được giới hạn trong thời gian không gian nhất định phù hợp với thẩm quyền của cơ quan, tổ chức, cá nhân ban hành quyết định để thực hiện chức năng quản lý của mình theo luật định.
+2.2.	Bố cục và cách thể hiện
+Vì nội dung quyết định rất đa dạng, có quyết định chung, quyết định  riêng nên cách xây dựng bố cục và thể hiện nội dung tùy thuộc vào mục đích và yêu cầu của từng quyết định cụ thể. Tuy nhiên mọi quyết định đều có điểm chung  sau:
+Về hình thức: phải đảm bảo đầy đủ các thành phần của thể thức văn bản như đã quy định.
+Về nội dung: Gồm 2 phần sau:
+*	Phần thứ I: Căn cứ ban hành quyết định
+Đây là phần viện dẫn lý do để đưa ra quyết định.  Trong phần này  cần dựa vào nguồn văn bản quy phạm pháp luật quy định theo chức năng, nhiệm vụ,  thẩm quyền của cơ quan, tổ chức, cá nhân ban hành quyết định. Đây là cơ sở  pháp lý cần thiết. Ngoài ra còn nêu căn cứ thực tế đòi hỏi phải ban hành quyết định.
+*Phần thứ II: Nội dung quyết định
+Phụ thuộc vào nội dung của quyết định, phạm vi điều  chỉnh để phân thành các chương, mục, điều, khoản cụ thể. Nếu nội dung dài gồm nhiều vấn đề thì phân thành các chương, mục,...mà có thể sắp xếp  thứ tự thành các điều, khoản  cụ thể.
+Phần cuối phải có điều khoản thi hành: quy định thời gian có hiệu lực, bãi bỏ, thay thế văn bản đã ban hành trước đó (nếu có) và phạm vi, đối tượng điều chỉnh
+3.	Soạn thảo chỉ thị
+3.1.	Khái niệm chỉ thị
+Chỉ thị là văn bản quy phạm pháp luật mang tính cưỡng chế buộc các cơ  quan, tổ chức, cá nhân thuộc quyền phải thi hành những chủ trương, chính sách nêu trong văn bản cấp trên hay các điều khoản của luật pháp.
+Nội dung chỉ thị chủ yếu là đôn đốc chấn chỉnh việc thực hiện các nhiệm vụ được giao, đề ra biện pháp nhằm đảm bảo cho việc thực hiện nghiêm túc, khẩn trương và đạt kết quả.
+3.2.	Bố cục và cách thể hiện
+Ngoài những thành phần cần thiết của thể thức văn bản, nội dung chỉ thị bao gồm ba phần:
+*	Phần thứ I: Căn cứ hay lý do ban hành chỉ thị
+-	Nêu mục đích của việc ban hành chỉ thị là nhằm thực hiện mệnh lệnh của cấp trên
+-	Nêu căn cứ pháp lý thông qua văn bản quy phạm pháp luật do cấp trên ban hành liên quan trực tiếp đến nội dung chỉ thị sắp ban hành
+-	Nêu tình hình thực tế khách quan đang tồn tại hay sắp phát sinh cần giải quyết kịp thời để tạo sự ổn định trong đời sống xã hội.
+*Phần thứ II: Nội dung chỉ thị
+-	Nêu tóm tắt ưu khuyết điểm, thuận lợi, khó khăn và dự báo triển vọng phát triển của tình hình.
+-	Nêu chủ trương, biện pháp kế hoạch tiến hành một cách cụ thể, nhưng không sa vào chi tiết
+-	Giao nhiệm vụ và mục tiêu cần đạt được, đồng thời đôn đốc chấn chỉnh các chiều hướng lệch lạc trong việc thực hiện các chủ trương chính sách, pháp  luật đã được triển khai trước đó.
+Nội dung các vấn đề nêu trên đây phải được trình bày hợp lý, rõ ràng, khúc chiết, vừa thể hiện tính nghiêm túc với yêu cầu cao, vừa động viên thuyết phục cấp dưới tự giác thực hiện.
+*	Phần thứ III: Trách nhiệm thi hành
+Trong phần này cần xác định chủ thể thi hành bao gồm cơ quan tổ chức, cá nhân chịu trách nhiệm chính và cả cơ quan, tổ chức, cá nhân có trách nhiệm phối hợp.
+4.	Soạn thảo thông tư
+4.1.	Khái niệm thông tư
+Thông tư là văn bản được ban hành để hướng dẫn thực hiện các chủ trương chính sách do Chủ tịch nước, Chính phủ hay Thủ tướng ban hành vào các ngành, các lĩnh vực thuộc Bộ, cơ quan ngang Bộ hay cơ quan thuộc chính phủ phụ  trách.
+4.2.	Bố cục và cách thể hiện
+Ngoại trừ các thành phần của thể thức văn bản, nội dung thông tư bao gồm  ba phần
+*Phần thứ I: Căn cứ ban hành thông tư
+Trong phần này nêu những văn bản lập pháp, lập quy cần được triển khai  thực hiện. Sau đó giới thiệu tóm tắt nội dung, ý nghĩa văn bản do cơ quan, tổ chức, cá nhân nào ban hành, thời điểm ban hành và những mục đích yêu cầu chung cần đạt được.
+*Phần thứ II: Nội dung thông tư
+Trong phần này cần giải thích, hướng dẫn cụ thể cách thực hiện nội dung các vấn đề trong văn bản nêu ở phần căn cứ, tùy thuộc vào nội dung mà thông tư có thể chứa đựng nhiều vấn đề. Mỗi vấn đề trình bày thành mục riêng, trong đó quy định cụ thể biện pháp thực hiện, những mục tiêu, yêu cầu cần đạt được.
+*Phần thứ III: Tổ chức thực hiện
+Trong phần này xác định rõ trách nhiệm của từng cấp từng ngành, từng cá nhân, quy định phạm vi áp dụng thông tư, chế độ sơ kết, tổng kết thỉnh thị báo cáo trong quá trình thực hiện để cấp có thẩm quyền chỉ đạo kịp thời việc điều chỉnh các quan hệ phát sinh.
+VI. THỰC HÀNH.
+* Giới thiệu, tham khảo mẫu một số văn bản của các cấp
+1. Mẫu nghị quyết
+Theo các mẫu tại thông tư liên tịch số 55/2005/TTLT-BNV-VPCP ngày 06/5/2005
+Mẫu 11. Nghị quyết của Hội đồng Thẩm phán Tòa án nhân dân tối cao
+HỘI ĐỒNG THẨM PHÁN
+TÒA ÁN NHÂN DÂN TỐI CAO
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập- Tự do – Hạnh phúc
+
+Số:…./…(1)…/NQ-HĐTP	Hà Nội, ngày……tháng……năm…(1)…
+
+NGHỊ QUYẾT
+……..……(2)…………...
+
+HỘI ĐỒNG THẨM PHÁN TÒA ÁN NHÂN DÂN TỐI CAO
+
+- Căn cứ Luật tổ chức Tòa án nhân dân ngày 24 tháng 11 năm 2014;
+- Để áp dụng đúng và thống nhất quy định tại .....(3)....;
+- Sau khi có ý kiến thống nhất của Viện trưởng Viện kiểm sát nhân dân tối cao và Bộ trưởng Bộ Tư pháp 
+QUYẾT NGHỊ:
+……..(4)………
+Điều ……………………………………..……………………………
+Điều ……………………………………...……………………………
+Điều ……………………………………...……………………………
+…………………………………………………………………………..
+Nơi nhận:
+-	………..;
+-	………..;
+-	Lưu: VT, ….(7)….A.XX(8)	TM. HỘI ĐỒNG THẨM PHÁN
+CHÁNH ÁN
+(chữ ký, dấu)
+
+Họ và tên
+Ghi chú
+(1) Năm ban hành.
+(2) Trích yếu nội dung của nghị quyết.
+(3) Quy định cần hướng dẫn áp dụng.
+(4) Nội dung của nghị quyết. Tùy từng trường hợp, có thể kết cấu thành Phần, Chương, Mục.
+(5) Chữ viết tắt tên đơn vị của Tòa án nhân dân tối cao chủ trì trình dự thảo nghị quyết và số lượng bản lưu (nếu cần).
+(6) Ký hiệu người đánh máy, nhân bản và số lượng bản phát hành (nếu cần).
+
+2.	Mẫu quyết định
+Theo các mẫu tại thông tư liên tịch số 55/2005/TTLT-BNV-VPCP ngày 06/5/2005
+Mẫu 9. Quyết định của Thủ tướng Chính phủ (ban hành văn bản kèm theo)
+THỦ TƯỚNG CHÍNH PHỦ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập- Tự do – Hạnh phúc
+
+Số:…./…(1)…/QĐ-TTg	Hà Nội,ngày……tháng……năm…(1)…
+
+QUYẾT ĐỊNH
+……………(2)…………...
+
+Căn cứ ………………………………….(3)………………………….
+Theo đề ghị của.........................................(4)........................................
+Thủ tướng Chính phủ ban hành Quyết định về …(2) ………………..
+
+Điều 1. Ban hành kèm theo Quyết định này………………………………………..
+ .…………………………………..(8)……………………………………………...
+Điều 2…………………………………………………………………………….…
+.……………………………………………………………………………………...
+Điều 3……………………………………………………………………………….
+.……………………………………….……………………………………………...
+
+Nơi nhận:
+-	………..;
+-	………..;
+-	Lưu: VT, ….(7)….A.XX(8)	QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ (6)
+(chữ ký, dấu)
+
+Nguyễn văn A
+Ghi chú:
+(1) Năm ban hành.
+(2) Trích yếu nội dung của Quyết định.
+(3) Căn cứ pháp lý để ban hành.
+(4) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ.
+(5) Tên Quy chế/Quy định.
+(6) Thủ tướng Chính phủ; trường hợp Phó Thủ tướng được giao ký thay Thủ tướng Chính phủ thì ghi chữ viết tắt “KT.” vào trước Thủ tướng, bên dưới ghi Phó Thủ tướng.
+(7) Chữ viết tắt tên đơn vị soạn thảo hoặc chủ trì soạn thảo và số lượng bản lưu (nếu cần).
+(8) Ký hiệu người đánh máy, nhân bản và số lượng bản phát hành (nếu cần).
+3.	Mẫu chỉ thị
+ỦY BAN NHÂN DÂN
+Tỉnh (huyện, xã)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập- Tự do – Hạnh phúc
+
+Số:…./………	…..(4)…..,ngày……tháng……năm…(2)…
+
+CHỈ THỊ CỦA ỦY BAN NHÂN DÂN….
+Về……………….(1)………………….
+
+-	Căn cứ…………………………..(2)……………………………………………….
+…………………………………..…………………………..………………………
+1/…………………………………………………………………………………….
+…………………………………..…………………………………………………..
+2/…………………………………………………………………………………….
+Nơi nhận:
+-	………..;
+-	………..;
+-	Lưu: VT, ….	T/M ỦY BAN NHÂN DÂN
+CHỦ TỊCH (3)
+(Ký tên đóng dấu)
+
+
+Ghi chú:
+(1) Ghi rõ trích yếu nội dung, ngắn gọn.
+(2) Không chia theo Điều 1, Điều 2, … như văn bản Quyết định, nêu các điểm phải chỉ thị theo thứ tự 1, 2, 3 …
+Mở đầu: Thông thường là đi thẳng vào vấn đề định chỉ thị, trường hợp cần thiết có kiểm điểm tình hình thì nên nói gọn, phần cuối cần nêu rõ đối tượng (cơ quan, tổ chức, cá nhân…) có trách nhiệm thi hành.
+(3) Thẩm quyền ký văn bản thay mặt (T/M) Ủy ban Nhân dân là Chủ tịch Ủy ban Nhân dân hoặc Phó Chủ tịch Ủy ban Nhân dân được Chủ tịch Ủy nhiệm ký thay Chủ tịch Ủy ban Nhân dân.
+ 
+4.	Mẫu thông tư
+Mẫu thông tư của Bộ trưởng
+BỘ…………………. (1)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập- Tự do – Hạnh phúc
+
+Số:…./…(2)…/TT-…(3)….	Hà Nội, ngày……tháng……năm…(2)…
+
+THÔNG TƯ
+…………………….(4)…………………….
+
+Căn cứ…………………………………..(5)………………………………………..
+……………………(6)……………………………………………………………...
+……………………………………………………………………………………....
+…………………………………..…………………………………………………..
+………………………………………………………………………………………
+Nơi nhận:
+-	………..;
+-	………..;
+-	Lưu: VT, ….(8)….A.XX(9)	BỘ TRƯỞNG (7)
+(chữ ký, dấu)
+
+Nguyễn văn A
+
+
+Ghi chú:
+(1)	Tên Bộ, cơ quan ngang Bộ, Viện kiểm sát nhân dân tối cao hoặc Tòa án nhân dân tối cao
+(2)	Năm ban hành
+(3)	Chữ viết tắt tên cơ quan ngang Bộ, Viện kiểm sát nhân dân tối cao hoặc Tòa án nhân dân tối cao
+(4)	Trích yếu nội dung thông tư
+(5)	Căn cứ pháp lý để ban hành; mục đích (nếu có) và phạm vi điều chỉnh  của thông tư
+(6)	Nội dung của thông tư
+(7)	Hoặc chức danh của Thủ trưởng cơ quan ngang Bộ, Viện trưởng (Viện kiểm sát nhân dân tối cao) hoặc Chánh án (Tòa án nhân dân tối cao); trường hợp cấp phó được giao ký thay người đứng đầu cơ quan thì ghi chữ viết tắt ‘‘KT.’’ Vào trước chức vụ của người đứng đầu, bên dưới ghi chức vụ của người ký.
+(8)	Chữ viết tắt tên đơn vị soạn thảo hoặc chủ trì soạn thảo và số lượng bản lưu (nếu cần)
+(9)	Ký hiệu người đánh máy, nhân bản và số lượng bản phát hành (nếu cần)
+
+BÀI TẬP CHƯƠNG II
+
+*	Sinh viên thực hành soạn 3 văn bản pháp quy thông dụng:
+-	Nghị quyết của hội đồng nhân dân
+-	Quyết định của chủ tịch ủy ban nhân dân cấp địa phương
+-	Chỉ thị của chủ tịch ủy ban nhân dân cấp địa phương.
+B.	VĂN BẢN HÀNH CHÍNH
+I.	KHÁI NIỆM VĂN BẢN HÀNH CHÍNH
+Văn bản hành chính là văn bản được sử dụng trong các cơ quan nhà nước,  các tổ chức kinh tế, chính trị, xã hội nhằm chuyển giao các thông tin  phục vụ  các hoạt động tổ chức, quản lý, các quan hệ giao dịch, trao đổi, phối kết hợp  công tác.
+Văn bản hành chính là phương tiện không thể thiếu được trong các hoạt động tác nghiệp cụ thể của các cơ quan nhà nước, các tổ  chức kinh tế, chính trị, xã  hội. Mặc dù, có tầm quan trọng và giá trị pháp lý thấp hơn văn bản quy phạm pháp luật nhưng văn bản hành chính là cơ sở thực tiễn để cho các cơ quan nhà nước có thẩm quyền điều chỉnh, sửa đổi hoặc là ban hành văn bản quy phạm  pháp luật.
+II.	CÁC HÌNH THỨC VĂN BẢN HÀNH CHÍNH
+Theo quy định tại Điều 4, Nghị định số 110/2004/NĐ-CP, ngày 08 tháng 04 năm 2004 của Chính phủ về công tác văn thư, hình thức văn bản hành chính có các tên gọi văn bản dưới đây:
+1.	Công văn
+Công văn là hình thức văn bản hành chính dùng phổ biến trong các cơ quan, tổ chức doanh nghiệp. Công văn là phương tiện giao tiếp chính thức của cơ quan nhà nước với cấp trên, cấp dưới, đồng cấp và với công dân.
+Công văn có thể là văn bản nội bộ của một cơ quan cũng có thể là  văn bản đến và đi giữa các cơ quan, các tổ chức kinh tế, chính trị, xã hội. Nội dung của công văn rất đa dạng nên có thể sắp xếp công văn theo các loại sau:
+-	Công văn đề nghị
+-	Công văn hướng dẫn
+-	Công văn giải thích
+-	Công văn thăm hỏi
+-	Công văn đôn đốc, nhắc nhở
+...
+2.	Tờ trình
+Tờ trình là loại văn bản mang tính chất trình bày được sử dụng để đề xuất với cơ quan quản lý cấp trên phê chuẩn hay xét duyệt một chủ trương họat động, một phương án công tác, một công trình xây dựng hoặc một giải pháp nào khác mà cơ quan viết tờ trình không thể tự quyết định được.
+3.	Đề án
+Đề án là loại văn bản trình bày những kế hoạch dự kiến về một nhiệm vụ  công tác được cơ quan, tổ chức giao cho một thời gian nhất định.
+4.	Báo cáo
+Báo cáo là một loại văn bản được dùng trong các trường hợp sau:
+-	Sơ kết, tổng kết tình hình hoạt động, công tác quản lý trên lĩnh vực cụ thể theo chức năng, nhiệm vụ của các cơ quan ban hành nhà nước, các tổ chức kinh tế , chính trị và xã hội.
+-	Đánh giá kết quả của một phong trào, một chiến dịch, một đợt khảo sát, một vấn đề trong quản lý từ đó rút ra những bài học kinh nghiệm, những vấn đề cần đề nghị, bổ sung cho một chủ trương, chính sách nào đó.
+-	Phản ánh một sự việc bất thường xảy ra trong hoạt động của cơ  quan, đơn  vị trên các lĩnh vực như: an ninh, trật tự,  thiên tai...để kiến nghị với cấp trên  cách giải quyết hoặc cho phương hướng giải quyết.
+5.	Thông báo
+Thông báo là hình thức văn bản hành chính được dùng để truyền đạt  nội  dung của một mệnh lệnh, một kết quả hoạt động của một cơ quan, một cuộc họp quan trọng, một văn bản pháp quy quan trọng, một tin tức, một sự việc xảy ra...cho các chủ thể có liên quan biết.
+Trong hoạt động lãnh đạo và quản lý thường có các loại thông báo sau:
+-	Thông báo kết luận của hội nghị hoặc của người có thẩm quyền chủ trì hội nghị hoặc giải quyết một công việc nào đó thuộc chức năng, nhiệm vụ của cơ quan, tổ chức.
+-	Thông báo về một vụ việc nào đó, đang hoặc sẽ diễn ra của chủ thể quản lý để cho các đối tượng quản lý biết chuẩn bị thực hiện.
+6.	Thông cáo
+Thông cáo là hình thức văn bản của cơ quan nhà nước để công bố với nhân dân một quyết định hoặc một sự kiện quan trọng về đối nội, đối ngoại. (Thông cáo của Uỷ ban Thường vụ Quốc hội, Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ, Bộ Ngoại giao...)
+7.	Biên bản
+Biên bản là loại văn bản được dùng trong các trường hợp sau:
+-	Ghi chép lại diễn biến và kết quả của một cuộc họp (hội nghị, đại hội). Loại biên bản này gọi là biên bản hội nghị.
+-	Ghi chép lại tình tiết, diễn biến hay xác nhận những vụ việc đã hoặc đang xảy ra trong họat động của các cơ quan nhà nước, các tổ chức kinh tế, chính trị, xã hội. Loại biên bản này gọi là biên bản vụ việc.
+-	Ghi chép lại những nội dung trong nghiệm thu, bàn giao tài sản, tiền bạc, nhiệm vụ...giữa các cơ quan, đơn vị, cá nhân hoặc ghi chép lại các nội dung liên quan trong thanh lý hợp đồng kinh tế.
+8.	Diễn văn
+Diễn văn là loại văn bản dùng để diễn thuyết nhằm thông tin trước đông đảo quần chúng trong các cuộc mít tinh kỷ niệm các ngày lễ lớn, trong việc đón các đoàn khách quý, trước các hội nghị trọng đại, khánh thành các công trình quan trọng, khai mạc các hội chợ, triển lãm, các cuộc thi thể thao, biểu diễn văn nghệ.
+9.	Đơn, thư
+Là loại thư riêng, người viết trình bày ý kiến của mình gửi đến cơ quan nhà nước, tổ chức nhà nước, tổ chức xã hội đề nghị xem xét giải quyết một  công  việc nào đó mà mình yêu cầu.
+Thông thường có các loại sau:
+-	Đơn đề đạt nguyện vọng
+-	Đơn nêu ý kiến đóng góp vào công việc quản lý nhà nước, quản lý xã hội.
+-	Đơn khiếu nại những công việc gây thiệt hại cho quyền lợi của bản thân,  gia đình, tập thể, đơn vị mình.
+-	Đơn tố giác những việc làm sai trái của các cơ quan, sự nghiệp, của cán bộ, nhân viên nhà nước
+10.	Giấy ủy quyền
+Giấy ủy quyền là hình thức văn bản của một cơ quan, tổ chức hoặc cá nhận trao cho một cơ quan, tổ chức khác, hoặc trao cho một cá nhân được  ủy quyền đại diện cho mình trước cơ quan hoặc người thứ ba, trong đó xác nhận nội dung và phạm vi thẩm quyền của cơ quan hoặc cá nhân được ủy quyền để giải quyết một công việc nhất định.
+IV.	PHƯƠNG PHÁP SOẠN THẢO MỘT SỐ VĂN BẢN HÀNH CHÍNH THÔNG DỤNG
+1.	Công văn hành chính
+Những yêu cầu khi soạn thảo công văn:
+-	Mỗi công văn chỉ chứa đựng một chủ đề, nêu rõ ràng và thuần nhất sự vụ.
+-	Viết ngắn gọn, rõ ràng sát với chủ đề.
+-	Ngôn ngữ vừa nghiêm túc, vừa lịch sự thể hiện đúng mối quan hệ giữa các chủ thể soạn thảo, gửi với chủ thể tiếp nhận công văn.
+-	Có thể thức đúng quy định hiện hành.
+1.1.	Bố cục của một công văn
+Thể thức của một công văn: Chỉ khác với thể thức của văn bản chuẩn ở hai điểm:
+-	Không viết tên loại văn bản mà thay vào vị trí đó là Kính gửi: và chủ thể  tiếp nhận chính
+-	Phần trích yếu nội dung được trình bày ngay dưới số và ký hiệu của công văn.
+1.2.	Cách viết phần nội dung công văn
+Là phần quan trọng nhất của công văn quyết định sự phát sinh và tồn tại của công văn. Thông thường, một công văn hành chính chỉ đề cập đến một vấn đề, một công việc, một chủ thể.
+Nội dung của công văn thường có ba phần:
+* Phần đặt vấn đề: Phải nêu rõ lý do tại sao viết công văn, hay dựa vào cơ sở nào để viết công văn. Có thể giới thiệu tổng quát nội dung vấn đề đưa ra, làm rõ mục đích, yêu cầu của vấn đề nêu ra.
+Ví dụ:
+Trong trường hợp trả lời cho một cơ quan nào đó gửi đến xin ý kiến, cơ quan trả lời thường mở đầu bằng cụm từ:
+“Trả lời công văn số...ngày...tháng...năm...của...về việc...Cơ quan...xin có ý kiến như sau...”
+* Cách viết phần giải quyết vấn đề
+Tùy theo chủ đề công văn để lựa chọn cách viết nhưng khi viét phần này cần lưu ý:
+-	Sắp xếp các ý chính theo trật tự hợp lý để làm nổi bật chủ đề công văn.
+-	Sử dụng từ ngữ và văn phong phù hợp với từng loại công văn:
++ Hướng dẫn phải cụ thể, rõ ràng để chủ thể tiếp nhận hiểu rõ, chính xác nội dung để thực hiện đúng.
++ Tiếp thu ý kiến phải mềm dẻo, khiêm tốn. Nếu cần thanh minh hay làm rõ vấn đề nào đó thì phải có chứng cứ, lý lẽ thuyết phục.
++ Từ chối thì phải lịch sự, có động viên an ủi.
++ Đôn đốc, nhắc nhở thì phải nghiêm túc, dứt khoát và chỉ rõ những công  việc cần phải khẩn trương thực hiện, đảm bảo số, chất lượng, tiến độ thời gian...
++ Giải thích thì phải cụ thể, tỷ mỷ, chi tiết để đối tượng tiếp nhận hiểu rõ  được nội dung mà công văn đó đề cập.
++ Thăm hỏi phải chân tình, không chiếu lệ, sáo rỗng.
+* Cách viết phần kết thúc công văn:
+Đây là phần kết thúc của công văn, vì vậy cần viết ngắn gọn, cô đọng để làm cho nội dung nêu trong công văn được khẳng định thêm, hoặc làm sáng tỏ thêm yêu cầu thực hiện, nhấn mạnh thêm sự quan tâm, chú ý giải quyết văn bản.
+Ví dụ:
+“ Rất mong cơ quan...sớm cho ý kiến để... thực hiện kịp thời, đúng kế hoạch”
+Đôi khi phần kết luận gắn với lời cảm ơn hoặc lời chào hữu nghị (trong các công văn giao tiếp đối ngoại)
+2.	Văn bản thông báo
+2.1. Về thể thức: thông báo có đầy đủ các thành phần của một thể thức văn bản
+2.2 Về triển khai
+*Phần mở đầu: Không cần trình bày các lý do như các văn bản khác, mà giới thiệu trực tiếp nội dung những vấn đề cần thông báo.
+*Phần nội dung thông báo: Trình bày những thông tin chính cần truyền đạt.
+Nếu thông báo dài, có nhiều vấn đề cần được chia thành các mục, các phần  có tiêu đề để người đọc dễ nắm bắt vấn đề và chấp hành đầy đủ
+Nội dung của thông báo ngắn gọn, rõ ràng, mạch lạc. Thông báo vấn đề gì, của ai, cho ai không kể lể dài dòng. Nếu thông báo kết luận của hội nghị hay ý kiến chỉ đạo, giải quyết của người có thẩm quyền thì viết đầy đủ, chính xác ý kiến đó.
+*Phần kết thúc: Nhắc lại nội dung chính, ý chính trọng tâm cần nhấn mạnh, lưu ý người đọc.
+Thông báo viết xong thường phải được cấp lãnh đạo đưa thông tin cần thông báo thông qua để đảm bảo chính xác nội dung và phạm vi phổ biến thông báo
+3.	Văn bản tờ trình
+Những yêu cầu khi soạn thảo tờ trình:
++ Phải trình bày rõ ràng các lý do đề xuất, phân tích làm nổi bật được các nhu cầu bức thiết của vấn đề cần duyệt.
++ Nêu các chủ trương đề xuất rõ ràng cụ thể.
++ Các ý kiến phải hợp lý.
++ Phân tích khả năng và trình bày khái quát các phương án phát triển thế mạnh, khắc phục khó khăn nhược điểm.
+3.1.	Về thể thức: Thể thức của tờ trình chỉ khác với thể thức văn bản chung ở chỗ ngay dưới phần trích yếu nội dung tờ trình là dòng chữ: Kính gửi...(tên cơ quan cấp trên trực tiếp nhận, xét duyệt và phê chuẩn tờ trình)
+3.2.	Về kết cấu nội dung:
+-	Phần mở đầu: Nêu rõ lý do đưa ra tờ trình, phân tích tình hình thực trạng, những căn cứ, cơ sở để đề xuất nội dung trình duyệt. Lý do đưa ra tờ trình phải thể hiện tính khách quan, là tất yếu đòi hỏi của thực tiễn và phù hợp với xu  hướng phát triển tất yếu của cuộc sống, của xã hội.
+-	Phần nội dung chính:
++ Trình bày nội dung cần đề xuất (các đề nghị mới, ý tưởng mới, các phương án mới). Nội dung cần đề xuất phải cụ thể, cần có lập luận, phân tích và chứng minh cho tính khả thi của từng phương án đề xuất
++ Đánh giá, phân tích những ích lợi, tác dụng và hiệu quả mọi mặt của các đề xuất đó.
++ Chỉ rõ những biện pháp nhằm triển khai thực hiện các đề xuất đó. Phân tích những thuận lợi, những khó khăn, những phản ứng có thể xảy ra khi triển khai thực hiện các đề xuất trong tờ trình.
+Phần kết luận:
+Nêu ý nghĩa, tác dụng, hiệu quả của đề nghị mới đối với sản xuất, đời sống  xã hội, đối với công tác lãnh đạo, quản lý. Những kiến nghị, đề nghị cấp trên  xem xét chấp thuận đề xuất đã nêu ra để sớm được triển khai thực hiện.
+4.	Đề án công tác
+Các yêu cầu khi soạn thảo đề án:
+-	Phải phù hợp với khả năng, đặc điểm tình hình của cơ quan, tổ chức, đơn vị.
+-	Lập luận chặt chẽ, rõ ràng đủ sức thuyết phục người duyệt.
+-	Biện pháp tổ chức thực hiện cụ thể (phân rõ cơ quan, tổ chức, đơn vị, cá nhân thực hiện từng việc trong thời gian nhất định),
+4.1.	Về thể thức: thể thức của đề án giống với thể thức của văn bản chung.
+4.2.	Về kết cấu nội dung
+-	Phần mở đầu:
+Nêu rõ cơ sở hoặc nhận định thực trạng tình hình để thấy sự  cần thiết phải xây dựng đề án.
+-	Phần nội dung, phải nêu rõ:
++ Mục tiêu
++ Nhiệm vụ
++ Biện pháp tổ chức thực hiện
+-	Phần kết luận, nêu rõ:
++ Ý nghĩa, tầm quan trọng của đề án
++ Thuận lợi, khó khăn của đề án khi thực hiện
++ Triển vọng(kết quả) đạt được về các mặt chính trị, kinh tế-xã hội, quản lý
+5.	Báo cáo
+Những yêu cầu khi soạn thảo một bản báo cáo:
+-	Phải đảm bảo tính trung thực và chính xác. Tính trung thực và chính xác  của báo cáo thể hiện qua sự việc và số liệu nêu ra trong bản báo cáo không được nêu ra các số liệu chưa chính xác, các nhận định chủ quan. Thái độ của  người trực tiếp soạn thảo phải thực sự khách quan, vô tư, trung thực, không thiên vị. Nếu sự thực bị bóp méo, cắt xén, nguyên nhân nêu ra không đúng, thông tin không chính xác, không toàn diện, sẽ ảnh hưởng rất lớn đến các quyết định quản lý của lãnh đạo
+-	Nội dung của báo cáo phải cụ thể, có trọng tâm trọng điểm
+-	Phải đảm bảo tính kịp thời của báo cáo.
+5.1.	Công tác chuẩn bị
+Trước khi viết một bản báo cáo, cần có những công việc chuẩn bị sau  đây(đối với những báo cáo không có mẫu quy định)
+-	Phải xác định được mục đích, yêu cầu của bản báo cáo: Báo cáo thường kỳ hay báo cáo bất thường, báo cáo sơ kết tổng  kết hay theo  chuyên đề từ đó mới có cơ sở để xây dựng đề cương báo cáo.
+-	Xây dựng đề cương khái quát.
+-	Sưu tầm, thu thập số liệu, tài liệu ; chỉnh lý, xử lý các tài liệu, các số liệu để đưa vào nội dung, minh họa những lập luận mà mình đã nêu ra.
+5.2.	Về thể thức
+Thể thức của báo cáo giống với thể thức văn bản chung.
+5.3.	Về kết cấu nội dung
+Để viết nội dung báo cáo trước tiên phải viết đề cương chi tiết sau đó mới tiến hành viết dự thảo báo cáo. Báo cáo nên viết bằng ngôn ngữ phổ thông, có thể sử dụng các biểu mẫu, sơ đồ nếu xét thấy dễ hiểu và ngắn gọn hơn.
+-	Phần mở đầu:
+Nêu những điểm chính về chủ trương công tác, về nhiệm vụ được giao, nêu hoàn cảnh thực hiện (những khó khăn, thuận lợi có ảnh hưởng chi phối kết quả thực hiện nhiệm vụ được giao)
+-	Phần nội dung :
+Kiểm điểm những việc đã làm được, những tồn tại, nguyên  nhân, đánh  giá kết quả. Các thông tin trong báo cáo phải trung thực, chính xác. Hành văn ngắn gọn, rõ ràng, mạch lạc... tránh đưa ra những luận giải mang tính sáng tạo, mà chỉ được trình bày những đánh giá, nhận định dựa trên kết quả đã khảo sát, mô tả.
+-	Phần kết luận :
+Mục tiêu, nhiệm vụ, biện pháp thực hiện, kiến nghị, đề nghị sự giúp đỡ, hỗ trợ của cấp trên.
+6.	Biên bản
+Các yêu cầu khi soạn thảo một biên bản
+-	Số liệu, sự kiện phải chính xác, cụ thể. Nếu có mẫu ban hành thì ghi theo mẫu đã quy định
+-	Ghi chép trung thực, đầy đủ không suy diễn chủ quan
+-	Nội dung phải có trọng tâm trọng điểm.
+-	Thủ tục chặt chẽ, thông tin có độ tin cậy cao
+6.1.	Về thể thức 
+Thể thức của biên bản giống với thể thức của văn bản chung
+6.2.	Về kết cấu nội dung
+-Phần mở đầu
+Giới thiệu mục đích hội nghị, thời gian địa điểm, thành phần tham gia hội nghị, chương trình nghị sự, chủ tọa, thư ký, giới thiệu đại biểu tham dự hội nghị.
+-	Phần nội dung
+Ghi diễn biến sự kiện. Biên bản có thể ghi chép một cách chi tiết và đầy đủ mọi biểu hiện liên quan đến sự kiện đặc biệt đối với biên bản bàn giao, kiểm tra, cuộc họp quan trọng.
+-	Phần kết luận
+Ghi tóm tắt báo cáo tổng kết hội nghị, nhận xét kết quả hội nghị của chủ tọa, ghi ngày, giờ kết thúc hội nghị, đọc lại biên bản trước hội nghị, chủ tọa, thư ký ký vào biên bản.
+ 
+IV. THỰC HÀNH
+*	Giới thiệu tham khảo một số mẫu văn bản
+4.1.	Mẫu công văn
+4.1.1	Mẫu chung
+TÊN CQ, TC CẤP TRÊN (1)
+TÊN CƠ QUAN, TỔ CHỨC (2)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập- Tự do – Hạnh phúc
+
+Số:…./…(3)…..-….(4)….	…..(5)…..,ngày……tháng……năm……
+V/v…….(6)……..	
+
+Kính gửi: - ………………………………..;
+-…………………………………
+……………………………………(7)……………….……………………………
+…………………………………………………………………………………………..
+…………………………………………………………………………………………..
+…………………………………………………………………………………………..
+
+Nơi nhận:
+-	Như trên;
+-	………..
+-	Lưu: VT, ….(9)….
+-	A.XX(10)	QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ (8)
+(chữ ký, dấu)
+
+Nguyễn văn A
+
+
+Số XX phố Tràng Tiền, quận Hoàn Kiếm, Hà Nội
+ĐT: (04)...............,
+E-mail:.................,		Fax: (04)..................
+Website:..................(11)
+Ghi chú:
+(1)	Tên cơ quan , tổ chức cấp trên (nếu có)
+(2)	Tên cơ quan, tổ chức hoặc chức danh nàh nước ban hành công văn.
+(3)	Chữ viết tắt tên cơ quan hoặc chức danh Nhà nước ban hành công văn
+(4)	Chữ viết tắt tên cơ quan, đơn vị hoặc bộ phận soạn thảo hoặc chủ trì soạn thảo công văn.
+(5)	Địa danh
+(6)	Trích yếu nội dung văn bản
+(7)	Nội dung công văn
+(8)	Ghi quyền hạn, chức vụ của người ký như Bộ trưởng, Viện trưởng, Giám đốc...; trường hợp ký thay mặt tập thể lãnh đạo thì ghi chữ viết tắt “TM.„ vào trước tên cơ quan, tổ chức hoặc tập thể lãnh đạo; nếu người ký văn bản là cấp  phó của người đứng đầu cơ quan thì ghi chữ viết tắt“KT.„ vào trước chức vụ của người đứng đầu, bên dưới ghi chức vụ của người ký công văn; các trường hợp khác thực hiện theo hướng dẫn tại khoản 7 mục II của Thông tư số 55/2005/TTLT-BNV-VPCP.
+(9)	Chữ viết tắt tên đơn vị soạn thảo hoặc chủ trì soạn thảo và số lượng bản lưu (nếu cần)
+(10)	Ký hiệu người đánh máy, nhân bản và số lượng bản phát hành (nếu cần)
+(11)	Địa chỉ cơ quan, tổ chức; số điện thoại, số Telex, số Fax; địa chỉ E-mail; Website
+ 
+4.1.2.	Mẫu công văn đề nghị, yêu cầu
+TÊN CQ, TC CẤP TRÊN (1)
+TÊN CƠ QUAN, TỔ CHỨC (2)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập- Tự do – Hạnh phúc
+
+Số:…./…(3)…..-….(4)….	…..(5)…..,ngày……tháng……năm……
+V/v…….(6)……..	
+
+Kính gửi: - ……………(7)…………………..;
+
+Nhằm thực hiện…(Để triển khai…)…..(8)……………….………………………
+…………………………………………………………………………………….
+Hiện nay…..(Trong thời gian qua…)…..(9)…..Tình hình này ảnh hường tiêu cực đến hoạt dộng của………..(2)
+Để giải quyết vấn đề nêu trên,….(2)…..dự kiến………(10)………………………
+………………………(11)………………………………………………...………
+Vậy........(2).....kính đề nghị.....(7)...xem xét và quan tâm giải quyết, giúp đỡ. Nếu có gì khó khăn đề nghị Quý cơ quan cho chúng tôi biết kịp thời.
+Xin trân trọng cảm ơn.
+
+Nơi nhận:
+-	Như trên;
+-	………..
+-	Lưu: VT, ….(12)….
+-	A.XX(13)	………..(11)…………..
+(Chữ ký, dấu)
+
+Nguyễn văn A
+
+Ghi chú:
+(1)	Tên cơ quan , tổ chức cấp trên (nếu có)
+(2)	Tên cơ quan, tổ chức hoặc chức danh nàh nước ban hành công văn.
+(3)	Chữ viết tắt tên cơ quan hoặc chức danh Nhà nước ban hành công văn
+(4)	Chữ viết tắt tên cơ quan, đơn vị hoặc bộ phận soạn thảo hoặc chủ trì soạn thảo công văn.
+(5)	Địa danh
+(6)	Tên cơ quan được đề nghị hay yêu cầu
+(7)	Lý do đề nghị hoặc yêu cầu
+(8)	Nêu thực trạng của vấn đề cần đề nghị, yêu cầu. Cần viết rõ ràng, có chứng cứ luận giải nhằm tạo tính thuyết phục cao.
+(9)	Kế hoạch định thực hiện
+(10)	Nội dung các đề nghị, yêu cầu
+(11)	Chức vụ người ký
+4.2.	Mẫu thông báo
+TÊN CQ, TC CẤP TRÊN (1)
+TÊN CƠ QUAN, TỔ CHỨC (2)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập- Tự do – Hạnh phúc
+
+Số:…./TB-….(3)….	…..(4)…..,ngày……tháng……năm……
+
+THÔNG BÁO
+Về việc................(5)...........................
+
+Kính gửi: - ………………(6)………………..;
+-…………………………………
+……………………………………(7)……………….……………………………
+…………………………………………………………………………………………..
+…………………………………………………………………………………………..
+
+Nơi nhận:
+-	Như trên;
+-	………..
+-	Lưu: VT, ĐVST, NĐM, SB	QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ (8)
+(chữ ký, dấu)
+
+Nguyễn văn A
+Ghi chú:
+(1)	Tên cơ quan , tổ chức cấp trên (nếu có)
+(2)	Tên cơ quan, tổ chức ban hành văn bản.
+(3)	Chữ viết tắt tên cơ quan ban hành văn bản
+(4)	Địa danh
+(5)	Trích yếu nội dung văn bản
+(6)	Cơ quan, tổ chức có trách nhiệm giải quyết trong trường hợp cụ thể
+(7)	Nội dung văn bản
+(8)	Thẩm quyền, chức vụ người ký: ký thay mặt (TM.), ký thay (KT.), ký thừa ủy quyền (TUQ.), ký thừa lệnh (TL.), người đứng đầu cơ quan tổ chức.
+(9)	Văn bản có nhiều địa chỉ nhận đặt ở mục nơi nhận và lưu: văn thư, đơn vị soạn thảo, ký hiệu người đánh máy và số bản phát hành.
+4.3.	Mẫu tờ trình
+Mẫu 3. Tờ trình dự án, dự thảo văn bản quy phạm pháp luật
+TÊN CQ, TC CẤP TRÊN (1)
+TÊN CƠ QUAN, TỔ CHỨC (2)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập- Tự do – Hạnh phúc
+
+Số:…./TTr -….(3)….	…..(4)…..,ngày……tháng……năm……
+
+TỜ TRÌNH (*)
+Dự án/dự thảo..............(5)...............
+
+Kính gửi: - ………………(6)………………..;
+
+Thực hiện quy định của Luật ban hành văn bản quy phạm pháp luật năm 2015, thực hiện Nghị quyết của Quốc hội về Chương trình xây dựng luật, pháp lệnh năm .../thực hiện quy định của ...(7)..., ....(2)...... xin trình .....(6)..... dự án/dự thảo ....(5).... như sau:
+I. SỰ CẦN THIẾT BAN HÀNH VĂN BẢN(8)
+II. MỤC ĐÍCH, QUAN ĐIỂM CHỈ ĐẠO VIỆC XÂY DỰNG DỰ ÁN/DỰ THẢO VĂN BẢN
+1. Mục đích(8) 
+2. Quan điểm chỉ đạo 
+III. QUÁ TRÌNH XÂY DỰNG DỰ ÁN/DỰ THẢO VĂN BẢN
+IV. BỐ CỤC VÀ NỘI DUNG CƠ BẢN CỦA DỰ ÁN/DỰ THẢO VĂN BẢN
+1. Bố cục
+2. Nội dung cơ bản
+V. NHỮNG VẤN ĐỀ XIN Ý KIẾN
+Trên đây là Tờ trình về dự án/dự thảo .....(5)...., ...(2)... xin kính trình ....(6).... xem xét, quyết định./.
+(Xin gửi kèm theo: (1) Dự thảo ...(5)...; (2) Bản đánh giá thủ tục hành chính trong dự án, dự thảo văn bản (nếu có); (3) Báo cáo về lồng ghép vấn đề bình đẳng giới trong dự án, dự thảo (nếu có); (4) Bản tổng hợp, giải trình, tiếp thu ý kiến góp ý về dự án/dự thảo ...(5)...; (5) Bản chụp ý kiến góp ý; (6) Báo cáo thẩm định; (7) Báo cáo giải trình, tiếp thu ý kiến thẩm định).
+
+Nơi nhận:
+-	Như trên;
+-	………..
+-	Lưu: VT,…(10).A.XX(11)	QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ (9)
+(chữ ký, dấu)
+
+Nguyễn văn A
+
+Ghi chú: 
+(*) Mẫu này áp dụng đối với dự án, dự thảo luật, pháp lệnh; dự thảo nghị định của Chính phủ và dự thảo nghị quyết của Hội đồng nhân dân cấp tỉnh theo quy trình chính sách.
+(1) Tên cơ quan, tổ chức cấp trên (nếu có).
+(2) Tên cơ quan, tổ chức đề nghị xây dựng văn bản.
+(3) Chữ viết tắt tên cơ quan, tổ chức đề nghị xây dựng văn bản.
+(4) Địa danh.
+(5) Tên luật, pháp lệnh, nghị định, nghị quyết đề nghị ban hành.
+(6) Tên cơ quan có thẩm quyền xem xét dự án/dự thảo văn bản: Đối với luật, pháp lệnh, nghị định là Chính phủ. Đối với nghị quyết của Hội đồng nhân dân cấp tỉnh và quyết định của Ủy ban nhân dân cấp tỉnh do cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh soạn thảo thì ghi là Ủy ban nhân dân tỉnh/thành phố (trình Ủy ban nhân dân xem xét trước khi trình Hội đồng nhân dân) và ghi là Hội đồng nhân dân tỉnh/thành phố (trình Hội đồng nhân dân sau khi Ủy ban nhân dân cho ý kiến), nghị quyết của Hội đồng nhân dân cấp tỉnh do các cơ quan khác soạn thảo thì ghi là Hội đồng nhân dân tỉnh/thành phố. Đối với nghị quyết của Hội đồng nhân dân cấp huyện, cấp xã và quyết định của Hội đồng nhân dân cấp huyện thì ghi là Ủy ban nhân dân huyện (trình Ủy ban nhân dân xem xét trước khi trình Hội đồng nhân dân) và ghi là Hội đồng nhân dân huyện (trình Hội đồng nhân dân sau khi Ủy ban nhân dân cho ý kiến). Đối với nghị quyết của Hội đồng nhân dân cấp xã thì ghi là Hội đồng nhân dân xã; đối với quyết định của Ủy ban nhân dân cấp xã thì ghi là Ủy ban nhân dân xã.
+(7) Điều khoản của văn bản quy phạm pháp luật giao quy định chi tiết.
+(8) Áp dụng đối với dự thảo quyết định của Thủ tướng Chính phủ, nghị quyết của Hội đồng Thẩm phán Tòa án nhân dân tối cao, thông tư, thông tư liên tịch.
+(9) Ghi quyền hạn, chức vụ của người ký.
+(10) Chữ viết tắt tên đơn vị chủ trì lập đề nghị và số lượng bản lưu (nếu cần).
+(11) Ký hiệu người đánh máy, nhân bản và số lượng bản phát hành (nếu cần).
+ 
+4.4 Mẫu báo cáo
+TÊN CQ, TC CẤP TRÊN (1)
+TÊN CƠ QUAN, TỔ CHỨC (2)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập- Tự do – Hạnh phúc
+
+Số:…./TTr -….(3)….	…..(4)…..,ngày……tháng……năm……
+
+BÁO CÁO
+Về việc..........(5)...............
+
+Kính gửi: - ………………(6)………………..;
+
+...............................................(7)...................................
+.......................................................................................
+.......................................................................................
+
+Nơi nhận:
+-	Như trên;
+-	………..
+-	Lưu: VT,…(9)	QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ (8)
+(chữ ký, dấu)
+
+Nguyễn văn A
+
+Ghi chú:
+(1)	Tên cơ quan , tổ chức cấp trên (nếu có)
+(2)	Tên cơ quan, tổ chức ban hành báo cáo
+(3)	Chữ viết tắt tên cơ quan ban hành báo cáo
+(4)	Địa danh
+(5)	Trích yếu nội dung báo cáo
+(6)	Tên cơ quan, tổ chức, cá nhân nhận báo cáo
+(7)	Nội dung báo cáo: tùy thuộc vào nội dung vấn đề nhiều hay ít, đơn giản hay phức tạp để phân theo mục, khoản, điểm phù hợp.
+(8)	Nếu báo cáo lên cơ quan hoặc cá nhân có trách nhiệm giải quyết thì ghi ở (6), nếu nhiều tổ chức, cá nhân nhận như báo cáo sơ  kết, tổng kết... thì ghi ở  mục nơi nhận.
+(9)	Thẩm quyền, chức vụ người ký: ký thay mặt (TM.), ký thay (KT.), ký thừa ủy quyền (TUQ.), ký thừa lệnh (TL.), do người đứng đầu cơ quan tổ chức phân công hoặc ủy quyền.
+ 
+4.5.	Mẫu biên bản:
+4.5.1.	Mẫu chung
+TÊN CQ, TC CẤP TRÊN (1)
+TÊN CƠ QUAN, TỔ CHỨC (2)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập- Tự do – Hạnh phúc
+
+Số:…./BB….(3)….	…..(4)…..,ngày……tháng……năm……
+
+BIÊN BẢN
+Về việc..........(5)...............
+
+
+-	Thời gian và địa điểm tiến hành lập biên bản.
+-	Thành phần tham gia lập biên bản.
+-	Diễn biến sự việc xảy ra
+.................................(6).................................................
+..................................(7)................................................
+.....................................................................................
+.....................................................................................
+
+Nơi nhận:
+-	Như trên;
+-	………..
+-	Lưu: VT,…(9)	QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ (8)
+(chữ ký, dấu)
+
+Nguyễn văn A
+
+Ghi chú:
+(1)	Tên cơ quan, tổ chức cấp trên (nếu có)
+(2)	Tên cơ quan lập biên bản
+(3)	Chữ viết tắt tên cơ quan lập biên bản
+(4)	Địa danh
+(5)	Trích yếu : tóm tắt nội dung của vấn đề phải lập biên bản
+(6)	Kết thúc biên bản tùy theo nội dung của vấn đề phải lập biên bản
+(7)	Nơi ký xác nhận của thư ký kỳ họp (biên bản, hội nghị) hoặc các bên  tham gia khác (người vi phạm, người bàn giao.v.v...)
+(8)	Thẩm quyền ký : thủ trưởng cơ quan lập biên bản hoặc người có thẩm quyền lập biên bản.
+4.5.2.	Mẫu biên bản hội nghị
+
+TÊN CQ, TC CẤP TRÊN
+TÊN CƠ QUAN, TỔ CHỨC
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập- Tự do – Hạnh phúc
+
+Số:…./BB-(CQ,TC)	…..…..,ngày……tháng……năm……
+
+BIÊN BẢN
+Hội nghị (họp….)..........()...............
+
+1.	Thời gian họp
+- Khai mạc:..............giờ, ngày.......tháng.......năm......................
+- Địa điểm: Tại...................................................................
+- Nội dung hội nghị:.............................................................
+2.	Thành phần dự họp:
+- Thành viên:..................+ Có mặt:...............trên tổng số:..........
++ Vắng mặt:............trên tổng số:..........
+- Đại biểu (Khách mời):.........................................................
+- Tổng số người tham dự........................................................
+3. Chủ tọa hội nghị:..........................(2)..................................
+- ....................................................................................
+4. Thư ký hội nghị:...........................(3).................................
+- ....................................................................................
+5. Các báo cáo tại hội nghị:..................(4)................................
+- ....................................................................................
+6. Thảo luận tại hội nghị:.....................(5)...............................
+- ....................................................................................
+THƯ KÝ
+(chữ ký)
+
+Họ và tên	CHỦ TỌA
+(chữ ký, dấu)
+
+Họ và tên
+Nơi nhận:
+-	Như trên;
+-	………..
+-	Lưu: VT,…(9)	
+ 
+Ghi chú:
+(1)	Tên gọi (trích yếu) của biên bản
+(2)	Họ tên, chức vụ của chủ tọa
+(3)	Họ tên, chức vụ của thư ký
+(4)	Họ tên người báo cáo, tiêu đề của báo cáo ghi theo thứ tự
+(5)	Ghi ý kiến thảo luận của từng người
+(6)	Ý kiến kết luận của chủ tọa
+(7)	Hội nghị thông qua biên bản (nếu có) và thời gian kết thúc của hội nghị 
+A.	VĂN BẢN HỢP ĐỒNG
+I.	VĂN BẢN HỢP ĐỒNG KINH TẾ
+1.	Khái niệm hợp đồng kinh tế
+1.1.	Khái niệm hợp đồng kinh tế
+Hợp đồng kinh tế là sự thỏa thuận bằng văn bản, tài liệu giao dịch giữa các bên ký kết về thực hiện công việc sản xuất, trao đổi hàng hóa, dịch vụ, nghiên cứu, ứng dụng tiến bộ khoa học - kỹ thuật và các thỏa thuận khác có mục đích kinh doanh với sự quy định rõ ràng quyền và nghĩa vụ của mỗi bên để xây dựng và thực hiện kế hoạch của mình.
+Như vậy văn bản hợp đồng kinh tế là một tài liệu đặc biệt do các chủ thể của hợp đồng kinh tế tự xây dựng trên cơ sở những quy định của nhà nước về hợp đồng kinh tế
+1.2.	Vai trò của hợp đồng kinh tế
+-	Là cơ sở cho việc xây dựng và thực hiện kế hoạch sản xuất kinh doanh của các đơn vị kinh tế.
+-	Là cơ sở xác lập và củng cố quan hệ hợp tác trong sản xuất kinh doanh của các đơn vị kinh tế.
+-	Góp phần quan trọng vào việc củng cố chế độ hạch toán kinh tế.
+-	Là cơ sở quan trọng đối với công tác điều tra khám phá các tội phạm kinh tế.
+1.3.	Phân loại hợp đồng kinh tế
+Căn cứ vào nội dung cụ thể của các quan hệ kinh tế, hợp đồng kinh tế thường có các loại sau:
+-	Hợp đồng mua bán hàng hóa;
+-	Hợp đồng vận chuyển hàng hóa;
+-	Hợp đồng mua bán ngoại thương;
+-	Hợp đồng ủy thác xuất nhập khẩu;
+-	Hợp đồng trong lĩnh vực xây dựng cơ bản;
+-	Hợp đồng nghiên cứu khoa học – triển khai kỹ thuật;
+-	Hợp đồng hợp tác kinh doanh;
+-	Hợp đồng liên doanh, liên kết.
+1.4.	Ký kết hợp đồng kinh tế
+Ký kết hợp đồng kinh tế là quyền của các đơn vị kinh tế. Không một cơ quan, tổ chức, cá nhân nào được áp đặt ý chí của mình cho đơn vị kinh tế khi ký kết hợp đồng.
+Thực hiện nghiêm chỉnh hợp đồng kinh tế đã  ký kết, không một đơn vị kinh tế nào được phép lợi dụng ký kết hợp đồng kinh tế để hoạt động trái pháp luật.
+Hợp đồng kinh tế được ký kết giữa các bên sau đây:
+-	Pháp nhân với pháp nhân;
+-	Pháp nhân với cá nhân có đăng ký kinh doanh theo quy định của pháp luật Hợp đồng kinh tế được ký kết theo nguyên tắc tự nguyện, cùng có lợi, bình đẳng về quyền và nghĩa vụ, trực tiếp chịu trách nhiệm tài sản và không trái pháp luật.
+*Các căn cứ để ký kết hợp đồng kinh tế
+-	Định hướng kế hoạch của Nhà nước, các chính sách, các chế độ, các chuẩn mực kinh tế - kỹ thuật hiện hành
+-	Nhu cầu thị trường, đơn đặt hàng, đơn chào hàng của bạn hàng.
+-	Khả năng phát triển sản xuất kinh doanh, chức năng hoạt động kinh tế của mình
+-	Tính hợp pháp của hoạt động sản xuất kinh doanh và khả năng bảo đảm về tài sản của bên cùng ký hợp đồng.
+1.5.	Hiệu lực pháp lý của hợp đồng
+-	Thời hạn có hiệu lực của hợp đồng kinh tế là khoảng thời gian để các bên thực hiện các quyền và nghĩa vụ trong hợp đồng,  tính từ khi hợp đồng kinh tế  có hiệu lực pháp luật đến khi mà các bên đã thỏa thuận là hợp đồng kinh tế phải được thực hiện xong.
+-	Trong trường hợp các bên thỏa thuận hợp đồng kinh tế được bắt đầu thực hiện từ thời điểm cụ thể khác với thời điểm hợp đồng kinh tế có hiệu lực pháp luật thì thời hạn có hiệu lực của hợp đồng kinh tế được tính từ thời điểm cụ thể đó.
+-	Khi có tranh chấp về thời hạn thực hiện hợp đồng kinh tế do  không xác định được thời hạn có hiệu lực của hợp đồng kinh tế, thì Trọng tài kinh tế xem xét yêu cầu về thời gian thực tế cần thiết để thực hiện công việc trong hợp đồng để xác định thời hạn có hiệu lực của hợp đồng kinh tế.
+1.6.	Các biện pháp đảm bảo thực hiện hợp đồng kinh tế
+-	Thế chấp tài sản là dùng số động sản, bất động sản hoặc giá trị tài sản khác thuộc quyền sở hữu của mình để bảo đảm tài sản cho việc thực hiện hợp đồng kinh tế đã ký kết.
+Việc thế chấp tài sản phải được làm thành văn bản riêng có xác nhận của cơ quan công chứng hoặc cơ quan có thẩm quyền đăng ký kinh doanh
+Người thế chấp tài sản có nghĩa vụ bảo đảm nguyên giá trị của tài sản thế chấp; không được chuyển dịch sở hữu hoặc tự động chuyển giao tài sản đó cho người khác trong thời gian văn bản thế chấp tài sản còn có hiệu lực.
+-	Cầm cố là trao động sản thuộc quyền sở hữu của mình cho người cùng quan hệ hợp đồng giữ để làm tin và bảo đảm tài sản trong trường hợp vi phạm hợp đồng kinh tế đã ký kết. Việc cầm cố phải được làm thành văn bản riêng, có sự xác nhận của cơ quan công chứng hoặc cơ quan có thẩm quyền đăng ký kinh doanh.
+Người giữ vật cầm cố có nghĩa vụ bảo đảm nguyên giá trị của vật cầm cố; không được chuyển dịch sở hữu vật cầm cố cho người khác trong thời gian văn bản cầm cố còn có hiệu lực
+-	Bảo lãnh tài sản là sự bảo đảm bằng tài sản thuộc quyền sở hữu của người nhận bảo lãnh để chịu trách nhiệm tài sản thay cho người được bảo lãnh khi người này vi phạm hợp đồng kinh tế đã ký kết. Người nhận bảo lãnh phải có số tài sản bảo lãnh không ít hơn số tài sản mà người đó nhận bảo lãnh
+Việc bảo lãnh tài sản phải được làm thành văn bản có sự xác nhận về tài sản của Ngân hàng nơi người bảo lãnh giao dịch và cơ quan công chứng hoặc cơ quan có thẩm quyền đăng ký kinh doanh.
+1.7.	Những hợp đồng kinh tế trái pháp luật
+*	HĐKT bị coi là vô hiệu toàn bộ
+-	Nội dung hợp đồng kinh tế vi phạm điều cấm của pháp luật;
+-	Một trong các bên ký kết hợp đồng kinh tế không có đăng ký hợp đồng kinh doanh theo quy định của pháp luật để thực hiện công việc đã thỏa thuận trong hợp đồng
+-	Người ký hợp đồng kinh tế không đúng thẩm quyền hoặc có hành vi lừa  đảo
+*	Hợp đồng kinh tế bị coi là vô hiệu từng phần
+Những hợp đồng kinh tế có một phần nội dung vi phạm điều cấm của pháp luật nhưng không ảnh hưởng đến các phần còn lại của hợp đồng thì bị coi là vô hiệu từng phần.
+Ví dụ: vi phạm pháp luật quản lý, tiêu chuẩn, đo lường chất lượng sản phẩm; quản lý giá; vi phạm nguyên tắc bình đẳng về quyền và nghĩa vụ...hoặc trong hợp đồng kinh tế có những thỏa thuận vi phạm đến lợi ích xã hội, lợi ích của người khác.
+2.	Cơ cấu của hợp đồng kinh tế
+2.1.	Phần mở đầu
+Bao gồm các nội dung sau:
+-	Quốc hiệu: Đây là tiêu đề cần thiết cho những văn bản mà nội dung của nó có tính chất pháp lý, riêng trong trường hợp mua bán ngoại thương không ghi quốc hiệu vì các chủ thể loại hợp đồng này thường có quốc tịch khác nhau.
+-	Tên gọi hợp đồng: là tên gọi hợp đồng theo chủng loại cụ thể. Tên hợp đồng được viết bằng chữ in hoa, cỡ lớn, đậm ở chính giữa, phía dưới quốc hiệu
+-	Số và ký hiệu hợp đồng: Thường ghi ở dưới tên hợp đồng. Nội dung này  cần thiết cho việc lưu trữ, tra cứu khi cần thiết.
+-	Những căn cứ xác lập hợp đồng: nêu những văn bản pháp quy của nhà  nước điều chỉnh lĩnh vực hợp đồng kinh tế, kinh doanh như các luật, nghị định, thông tư v.v.. và các văn bản hướng dẫn của các ngành, các cấp về vấn đề đó....
+-	Thời gian, địa điểm ký hợp đồng: Đây là cơ sở pháp lý xác nhận sự giao  dịch của các bên chủ thể và là căn cứ để Nhà nước thực hiện sự xác nhận hoặc kiểm soát.
+2.2.	Phần thông tin của chủ thể hợp đồng
+a)Đối với chủ thể là cơ quan, tổ chức, doanh nghiệp
+-	Tên doanh nghiệp: Tên gọi chính thức theo quyết định thành lập của cấp có thẩm quyền. Đây là biện pháp các để các bên kiểm tra lẫn nhau về tư cách pháp nhân, tính pháp lý của cơ quan, tổ chức, doanh nghiệp và hoạt động thực tế để tránh khả năng lừa đảo.
+-	Địa chỉ: là địa chỉ chính thức của cơ quan, tổ chức, doanh nghiệp. Phải ghi rõ số nhà, đường phố (xóm, ấp), phường (xã), quận (huyện), tỉnh (thành phố) để tiện liên hệ hoặc tìm hiểu thực trạng.
+-	Số điện thoại, telex, fax, website, email: Đây là các phương tiện thông tin cần thiết để các bên liên hệ nhằm giảm chi phí đi lại trong trường hợp các bên  có nhu cầu bắt buộc phải gặp mặt.
+-	Tài khoản ngân hàng (số tài khoản và địa chỉ mở tài khoản): Đây là nội dung được các bên đặc biệt quan tâm vì nó xác định tình hình tài chính, khả  năng thực hiện các cam kết trong hợp đồng.
+-	Mã số thuế: Đây là cơ sở để hai bên giao dịch, nhất là thuận tiện cho việc viết hóa đơn sau đó.
+-	Người đại diện ký kết: Về nguyên tắc phải là người đứng đầu cơ quan, tổ chức, doanh nghiệp. Tuy nhiên, người đứng đầu có thể ủy quyền cho người  khác với điều kiện phải có giấy ủy quyền. Về mặt pháp lý, người ủy quyền phải chịu hoàn toàn trách nhiệm đối với nội dung hợp đồng như chính họ đã ký vào hợp đồng.
+b) Đối với cá nhân
+-	Họ tên:
+-	Ngày tháng năm sinh:
+-	Chứng minh nhân dân số:..., do...cấp ngày..., tại
+-	Hộ khẩu thường trú:
+-	Chứng chỉ hành nghề (giấy phép kinh doanh, đăng ký kinh doanh...) số:..., do...cấp ngày...
+-	Tài khoản cá nhân số:..., mở tại:...
+2.3.	Phần nội dung của hợp đồng kinh tế
+Nội dung của hợp đồng kinh tế ràng buộc trách nhiệm của các bên ký kết, vì vậy các điều khoản trong hợp đồng phải rõ ràng, cụ thể, đúng pháp luật và có khả năng thực hiện.
+Thông thường một văn bản hợp đồng kinh tế có các điều khoản sau đây:
+-	Điều khoản chủ yếu: Đây là những điều khoản bắt buộc phải có để hình thành nên một chủng loại hợp đồng cụ thể được các bên quan tâm thỏa thuận trước tiên, nếu thiếu một trong những điều khoản chủ yếu này thì không thành một hợp đồng.
+Ví dụ: trong hợp đồng mua bán hàng hóa phải có các điều khoản căn bản  như: số lượng hàng, chất lượng quy cách hàng hóa, giá cả, điều kiện giao nhận hàng, phương thức thanh toán.
+-	Điều khoản thường lệ: là những điều khoản đã được pháp luật điều chỉnh, các bên có thể ghi hoặc không ghi vào văn bản hợp đồng kinh tế nhưng chúng vẫn mặc nhiên có giá trị pháp lý (như các vấn đề trách nhiệm hình sự, trách nhiệm dân sự...)
+-	Điều khoản tùy nghi: là những điều khoản được đưa vào hợp đồng căn cứ vào khả năng, nhu cầu, và thỏa thuận của các bên. Những điều khoản nàyhoặc chưa có quy định của Nhà nước hoặc đã có quy định của Nhà nước nhưng các bên được phép vận dụng vào hoàn cảnh thực tế mà không trái với pháp luật
+Ví dụ: Điều khoản về thưởng vật chất khi thực hiện hợp  đồng xong  trước thời hạn...
+2.4.	Phần ký kết hợp đồng kinh tế
+-	Số lượng bản hợp đồng cần ký: Căn cứ vào yêu cầu lưu trữ, giao dịch với ngân hàng, trọng tài kinh tế v.v..mà các bên cần thỏa thuận lập ra số lượng bản hợp đồng. Vấn đề quan trọng là các văn bản này phải có  nội dung giống nhau  và có giá trị pháp lý như nhau (được ký và đóng dấu trực tiếp)
+-	Đại diện các bên ký kết: Mỗi bên chỉ cần cử một người ký kết, và chính là người đại diện được ghi trong hợp đồng. Người đại diện các bên ký kết phải ký đúng chữ ký đã đăng ký và thông báo, không dược ký tắt hoặc ký chữ ký khác với chữ ký đã đăng ký. Sau khi ký, phải đóng dấu của cơ quan.
+3.	Văn bản phụ lục HĐKT và biên bản bổ sung HĐKT
+3.1.	Văn bản phụ lục hợp đồng kinh tế
+Việc lập và ký kết văn bản phụ lục hợp đồng kinh tế được áp dụng trong trường hợp các bên hợp đồng cần chi tiết và cụ thể hóa các điều khoản của hợp đồng kinh tế mà khi ký kết hợp đồng kinh tế các bên chưa cụ thể hóa được
+Về nguyên tắc, khi xây dựng văn bản phụ lục phải tuân thủ các điều sau đây:
+-	Nội dung văn bản phụ lục không được trái với nội dung văn bản hợp đồng kinh tế đã ký kết.
+-	Thủ tục và cách thức ký kết văn bản phụ lục hợp đồng cũng giống như thủ tục và cách thức ký văn bản hợp đồng.
+-	Văn bản phụ lục hợp đồng là bộ phận không tách rời của văn bản hợp đồng và có giá trị pháp lý như văn bản hợp đồng.
+3.2.	Biên bản bổ sung hợp đồng kinh tế
+Trong quá trình thực hiện hợp đồng kinh tế, các bên có thể xác lập và ký biên bản bổ sung những điều khoản mới thỏa thuận như: thêm bớt hoặc thay đổi nội dung các điều khoản của hợp đồng kinh tế đang thực hiện.
+Về cơ cấu, biên bản bổ sung hợp đồng kinh tế cần có các yếu tố sau:
+-	Quốc hiệu
+-	Tên biên bản bổ sung
+-	Thời gian, địa điểm lập biên bản
+-	Các chủ thể tham gia hợp đồng
+-	Lý do lập biên bản bổ sung
+-	Nội dung thỏa thuận về sự thêm, bớt hoặc thay đổi một hay một số điều khoản của hợp đồng đã ký.
+-	Sự cam kết thực hiện những thỏa thuận trong biên bản bổ sung.
+-	Ký biên bản bổ sung: những người có quyền hoặc được ủy quyền ký kết  hợp đồng thì có quyền ký biên bản bổ sung hợp đồng.
+4.	Nguyên tắc sử dụng ngôn ngữ và văn phạm trong văn bản hợp đồng kinh tế
+Nguyên tắc chung là khi soạn thảo hợp đồng kinh tế phải đảm bảo độ chính xác về chính tả và ngôn ngữ. Ngôn ngữ phải trong sáng, rõ ràng văn phong phải mạch lạc dể hiểu và không hàm chứa nhiều nghĩa. Nội dung của hợp đồng kinh tế sẽ không thể được chuyển tải đúng hoặc dễ dàng nếu cách thể hiện chúng không chính xác, không khoa học.
+-	Chỉ được sử dụng tiếng Việt chuẩn, không sử dụng các từ ngữ địa phương
+-	Sử dụng câu ngắn với trật tự logic.
+-	Tránh lặp các từ, cụm từ, hay thuật ngữ đồng nghĩa với các cụm từ vô nghĩa
+-	Từng dấu chấm, dấu phẩy phải đặt đúng chỗ vì nếu đặt các dấu sai chỗ thì  sẽ làm thay đổi hoàn toàn nghĩa của câu.
+II.	HỢP ĐỒNG LAO ĐỘNG
+1.	Khái niệm và đặc điểm của hợp đồng lao động
+1.1.	Khái niệm hợp đồng lao động
+Hợp đồng lao động là sự thỏa thuận giữa người lao động với người sử dụng, thuê mướn lao động (gọi chung là người sử dụng lao động), về việc làm có trả công, mà hai bên cam kết với nhau về điều kiện sử dụng lao động và điều kiện lao động, về quyền và nghĩa vụ của mỗi bên trong quan hệ lao động.
+1.2.	Đặc điểm của hợp đồng lao động
+Có ba đặc điểm cơ bản sau đây:
+-	Hợp đồng lao động bắt buộc phải được ký bằng văn bản và mỗi bên giữ một bản như nhau.
+-	Hợp đồng lao động phải được thỏa thuận trên cơ sở luật pháp và đạo đức xã hội. Vì vậy khi thỏa thuận các điều khoản phải dựa trên cơ sở quy định của luật pháp và chính sách của nhà nước.
+-	Hợp đồng lao động còn phải dựa trên cơ sở các văn bản pháp quy của người sử dụng lao động. Vì vậy khi thỏa thuận với người lao động, người sử dụng lao động phải thông báo cho người lao động biết những quy định đó để họ hiểu biết và chấp nhận.
+2.	Nguyên tắc giao kết hợp đồng lao động
+2.1.	Nội dung hợp đồng lao động
+Hợp đồng lao động do hai bên thỏa thuận, ký kết bằng văn bản hay giao kết bằng miệng đều phải có nội dung chủ yếu sau đây: Công việc phải làm, thời giờ làm việc, thời giờ nghỉ ngơi, tiền lương, đặc điểm làm việc, thời gian hợp đồng, điều kiện về an toàn lao động, vệ sinh lao động và bảo hiểm xã hội đối với  người lao động.
+Trong trường hợp một phần hoặc toàn bộ nội dung của hợp đồng lao động quy định quyền lợi của người lao động thấp hơn mức được quy định trong pháp luật lao động, thỏa ước lao động tập thể, nội quy lao động tập thể, nội quy lao động đang được áp dụng trong doanh nghiệp hoặc hạn chế các quyền khác của người lao động thì một phần hoặc nội dung của hợp đồng đó phải được bổ sung.
+Ví dụ: Mức lương thấp hơn mức lương tối thiểu theo quy định của nhà  nước...
+2.2.	Hình thức hợp đồng lao động
+-	Hợp đồng lao động được ký kết bằng văn bản phải theo mẫu hợp đồng lao động do Bộ Lao động - Thương binh và Xã hội ấn hành và thống nhất quản lý. Hợp đồng lao động phải làm thành hai bản, mỗi bên giữ một bản.
+-	Có trường hợp pháp luật cho phép hợp đồng bằng miệng như đối với những công việc có tính tạm thời mà thời hạn dưới 3 tháng hoặc đối với lao động giúp việc gia đình. Hợp đồng lao động được giao kết bằng miệng thì đương nhiên tuân theo những quy định của pháp luật lao động.
+2.3.	Các loại hợp đồng lao động
+Hợp đồng lao động được ký kết dưới ba dạng sau đây:
+-	Hợp đồng lao động không xác định thời hạn (hay hợp đồng lao động vĩnh viễn) là hợp đồng lao động không quy định thời hạn của hợp đồng. Hợp đồng sau được ký kết là có hiệu lực cho đến khi người lao động về hưu hoặc có quyết định hợp pháp nào đó hủy bỏ hợp đồng thì hợp đồng hết giá trị. Loại hợp đồng này được áp dụng cho những công việc có tính chất thường xuyên, ổn định một năm trở lên.
+-	Hợp đồng lao động xác định thời hạn từ một năm đến ba năm là loại hợp đồng được các bên xác định thời gian có giá trị của hợp đồng từ 1-3 năm. Loại hợp đồng này được áp dụng trong những công việc đã xác định được.
+-	Hợp đồng theo mùa vụ hoặc theo một công việc nhất định mà thời hạn dưới một năm là hợp đồng hai bên thỏa thuận thời hạn dưới một năm theo mùa vụ cụ thể hoặc làm một công việc cụ thể. Sau khi hết hạn hợp đồng hết giá trị.
+2.4.	Cách thức giao kết hợp đồng lao động
+a)	Các bên giao kết hợp đồng lao động
+-	Các bên giao kết hợp đồng lao động phải có năng lực pháp luật và năng lực hành vi lao động.
+-	Người lao động là người ít nhất đủ 15 tuổi, có khả năng lao động và có giao kết hợp đồng lao động
+-	Người sử dụng lao động là doanh nghiệp, cơ quan, hoặc tổ chức hoặc cá nhân, nếu là cá nhân thì ít nhất phải đủ 18 tuổi, có thuê mướn, sử dụng và trả công lao động.
+b)	Hình thức giao kết hợp đồng lao động
+-	Hợp đồng lao động được giao kết trực tiếp giữa người lao  động với người  sử dụng lao động hoặc có thể được ký kết giữa người sử dụng lao động với người được ủy quyền hợp pháp thay mặt cho nhóm người lao động.
+Trường hợp do người ủy quyền hợp pháp ký kết phải kèm theo danh sách họ tên, tuổi, địa chỉ thường trú, nghề nghiệp và chữ ký của từng người lao động.
+-	Để tạo điều kiện cho người lao động phát huy được khả năng lao động của mình, pháp luật quy định người lao động có thể giao kết nhiều hợp đồng lao động với nhiều người sử dụng lao động nếu có khả năng thực hiện nhiều hợp đồng.
+-	Người dưới 15 tuổi cũng có thể giao kết hợp đồng lao động để làm những nghề, ngành nghề và công việc mà pháp luật quy định được phép nhận trẻ em dưới 15 tuổi thì phải có sự đồng ý về văn bản của cha mẹ hoặc  người đỡ đầu  của người đó mới có giá trị.
+3.	Quy định về thực hiện hợp đồng lao động
+-	Hai bên giao kết hợp đồng lao động có trách nhiệm thực hiện đúng những điều khoản đã thỏa thuận trong hợp đồng lao động.
+-	Người sử dụng lao động không được đòi hỏi người lao động làm những  việc không có trong hợp đồng hoặc buộc người lao động phải làm việc trong hoàn cảnh không đảm bảo an toàn.
+-	Người lao động phải tuân theo sự điều hành hợp pháp  của người sử dụng  lao động và nội quy lao động (ở nơi có nội quy lao động)
+4.	Quy định về chấm dứt hợp đồng lao động
+Hợp đồng lao động đương nhiên chấm dứt khi có một trong những trường  hợp sau:
+-	Hợp đồng hết hạn
+-	Công việc thỏa thuận theo hợp đồng đã hoàn thành
+-	Hai bên cùng thỏa thuận chấm dứt hợp đồng
+-	Người lao động bị kết án tù giam hoặc bị hình phạt buộc người đó không được tiếp tục làm công việc cũ.
+-	Người lao động chết, mất tích theo tuyên bố của tòa án.
+-	Người sử dụng lao động chết hoặc bị kết án tù giam hoặc bị hình phạt buộc người đó không được tiếp tục làm công việc cũ mà doanh nghiệp bị đóng cửa.
+III. THỰC HÀNH
+* Giới thiệu tham khảo một số mẫu văn bản các loại hợp đồng
+1.	Mẫu hợp đồng kinh tế
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+HỢP ĐỒNG MUA BÁN HÀNG HÓA
+Hợp đồng số....../ HĐMBHH
+
+-	Căn cứ vào Luật Thương mại và các văn bản hướng dẫn thi hành của...(cấp, ngành).
+-	Căn cứ vào đơn chào hàng (hoặc đơn đặt hàng hoặc sự thỏa thuận của các bên)
+Hôm nay, ngày.....tháng...năm...Tại....(địa điểm)
+Chúng tôi gồm:
+Bên bán (gọi tắt là bên A)
+Tên doanh nghiệp...........
+Địa chỉ trụ sở chính.........
+Điện thoại..., Fax..., Email...
+Tài khoản số......; Mở tại ngân hàng... Mã số thuế:.................................
+Đại diện là.................................
+Chức vụ....................................
+Giấy ủy quyền số.....(nếu thay giám đốc ký HĐKT), do......, chức vụ........ký ngày...tháng...năm...
+Bên mua (gọi tắt là bên B)
+Tên doanh nghiệp...........
+Địa chỉ trụ sở chính.........
+Điện thoại..., Fax..., Email...
+Tài khoản số......; Mở tại ngân hàng... Mã số thuế:.................................
+Đại diện là.................................
+Chức vụ....................................
+Giấy ủy quyền số.....(nếu thay giám đốc ký HĐKT), do......, chức vụ........ký ngày...tháng...năm...
+Hai bên thống nhất thỏa thuận nội dung hợp đồng như sau:
+Điều 1: Nội dung công việc giao dịch:
+Bên A bán cho bên B những mặt hàng sau:
+
+STT	Tên hàng	Đơn vị tính	Số lượng	Đơn giá	Thành tiền	Ghi chú
+				Cộng:		
+
+Tổng giá trị (bằng chữ).........................................
+Điều 2: Giá cả:
+Đơn giá các mặt hàng trên là giá...(theo văn bản, nếu có, của...............)
+Điều 3: Chất lượng và quy cách hàng hóa:
+1.	Chất lượng mặt hàng...được quy định theo... 2. .....................................
+3. v.v..
+Điều 4: Bao bì và ký mã hiệu:
+1.	Bao bì làm bằng...
+2.	Quy cách bao bì: cỡ kích thước....
+3.	Cách đóng gói.........
+4. Trọng lượng cả bì:..................., trọng lượng tịnh:............
+5. Ký mã hiệu:...........................
+Điều 5: Phương thức giao nhận
+1.	Bên A giao cho bên B theo lịch sau:
+STT	Tên hàng	Đơn vị tính	Số lượng	Thời gian	Địa điểm	Ghi chú
+						
+
+2.	Phương tiện vận chuyển và chi phí vận chuyển do bên...chịu
+3.	Chi phí bốc xếp (mỗi bên chịu một đầu hoặc bên ...chịu)
+4.	Nếu bên B không đến nhận hàng đúng lịch thì phải chịu chi phí lưu kho là...đ/ngày. nếu bên B đến nhận hàng mà bên A chưa có hàng để giao thì bên A phải chịu chi phí thực tế cho việc điều động phương tiện.
+5.	Khi nhận hàng bên B có trách nhiệm kiểm định phẩm chất, quy cách hàng hóa tại chỗ. Nếu phát hiện hàng thiếu hoặc không đúng tiêu chuẩn chất lượng thì lập biên bản tại chỗ, yêu cầu bên A xác nhận. Hàng đã ra khỏi kho, bên bán không chịu trách nhiệm (trừ trường hợp bảo hành).
+Trường hợp giao nhận hàng theo nguyên đai, nguyên kiện, container, nếu bên mua sau khi chở về nhập kho mới phát hiện có vi phạm thì phải lập biên bản có cơ quan giám định đến xác nhận và phải gửi đến bên bán trong thời hạn...ngày   từ khi lập biên bản. Nếu bên bán nhận được biên bản và sau 15 ngày không có ý kiến gì thì coi như đã nhận trách nhiệm bồi thường lô hàng đó.
+6.	Mỗi lô hàng khi giao nhận phải có xác nhận chất lượng bằng phiếu hoặc biên bản kiểm nghiệm, khi đến nhận hàng người nhận phải có đủ:
+-	Giấy giới thiệu của bên mua
+-	Phiếu xuất kho của bên bán
+-	Giấy chứng minh nhân dân
+Điều 6: Bảo hành và hướng dẫn sử dụng hàng hóa:
+1.	Bên bán có trách nhiệm bảo hành chất lượng và giá trị sử dụng loại hàng...cho bên mua trong thời gian...tháng.
+2.	Bên bán phải cung cấp đủ mỗi đơn vị hàng hóa một giấy hướng dẫn sử dụng.
+Điều 7: Phương thức thanh toán:
+Bên mua thanh toán cho bên bán bằng...trong thời gian...
+Điều 8: Các biện pháp bảo đảm thực hiện hợp đồng:
+Chỉ ghi khi cần thiết và nên ghi ngắn gọn cách thức, tên vật bảo đảm và phải lập biên bản riêng.
+Điều 9: Trách nhiệm vật chất trong việc thực hiện hợp đồng:
+1.	Hai bên cam kết thực hiện nghiêm túc các điều khoản đã thỏa thuận trên, không được đơn phương thay đổi hoặc bỏ hợp đồng. Bên nào vi phạm thì sẽ bị phạt tới...% giá trị phần hợp đồng vi phạm.
+2.	Bên nào vi phạm các điều khoản trên đây sẽ phải chịu trách nhiệm vật chất theo quy định của các văn bản pháp luật có hiệu lực hiện hành về vi phạm chất lượng, số lượng, thời gian, địa điểm, thanh toán, bảo hành v.v..Mức phạt cụ thể do hai bên thỏa thuận dựa trên khung phạt nhà nước đã quy định trong các văn bản pháp luật về hợp đồng kinh tế.
+Điều 10: Thủ tục giải quyết tranh chấp hợp đồng:
+1.	Hai bên cần chủ động thông báo cho nhau tiến độ thực hiện hợp đồng. Nếu có vấn đề gì bất lợi phát sinh hai bên phải kịp thời thông báo cho nhau biết và tích cực bàn bạc giải quyết (cần lập biên bản ghi nội dung làm việc)
+2.	Trường hợp hai bên không tự giải quyết được sẽ thống nhất chuyển vụ  việc tới trọng tài kinh tế giải quyết.
+Điều 11: Hiệu lực của hợp đồng:
+Hợp đồng có hiệu lực từ ngày...đến ngày...
+Hai bên sẽ tổ chức họp và lập biên bản thanh lý hợp đồng này ngay sau khi bên mua thanh toán xong cho bên bán. Bên ...có trách nhiệm tổ chức và đài thọ chi phí họp thanh lý.
+Hợp đồng này được lập thành...bản, có giá trị pháp lý như nhau, mỗi bên giữ....bản, gửi trọng tài kinh tế 1 bản (nếu cần).
+
+ 
+ĐAỊ DIỆN BÊN A
+Chức vụ
+
+(Ký tên và đóng dấu)
+ 
+ĐẠI DIỆN BÊN B
+Chức vụ
+
+(Ký tên và đóng dấu)
+
+
+
+
+
+
+ 
+3.2.	Mẫu hợp đồng lao động
+TÊN ĐƠN VỊ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập- Tự do – Hạnh phúc
+
+Số:………..	
+
+HỢP ĐỒNG LAO ĐỘNG
+
+Chúng tôi, một bên là ông/Bà:.......................Quốc tịch:..................... Chức vụ:...................................................................................
+Đại diện cho (1):......................................Điện thoại:.......................
+Địa chỉ:....................................................................................
+Và một bên là ông/Bà:................................Quốc tịch:......................
+Sinh ngày.........tháng.......năm.......tại............................................
+Nghề nghiệp (2):.........................................................................
+Địa chỉ thường trú:.......................................................................
+Số CMTND:...............................cấp ngày...../...../.....tại..................
+Số sổ lao động (nếu có) :................cấp ngày...../...../.....tại...................
+Thỏa thuận ký kết hợp đồng lao động và cam kết làm đúng những điều khoản sau đây :
+Điều 1: Thời hạn và công việc hợp đồng
+- Loại hợp đồng lao động (3) :.........................................................
+- Từ ngày...tháng...năm...đến ngày...tháng...năm................................
+- Thử việc từ ngày...tháng...năm...đến...ngày...tháng...năm...............
+- Địa điểm làm việc (4):.................................................................
+- Chức danh chuyên môn:..........................Chức vụ (nếu có):...........
+- Công việc phải làm (5):...............................................................
+Điều 2: Chế độ làm việc:
+Thời gian làm việc (6):..................................................................
+Được cấp phát những dụng cụ làm việc gồm:
+
+Điều 3: Nghĩa vụ và quyền lợi của người lao động:
+1.	Quyền lợi:
+- Phương tiện đi lại làm việc (7):.....................................................
+- Mức lương chính hoặc tiền công (8):................................................
+- Hình thức trả lương:...................................................................
+- Phụ cấp gồm (9):..................................................................
+.............................................................................................
+-	Được trả lương vào các ngày.....hàng tháng.
+- Tiền thưởng:............................................................................
+- Chế độ nâng lương:..................................................................
+...........................................................................................
+- Được trang bị bảo hộ lao động gồm:................................................
+...........................................................................................
+-	Chế độ nghỉ ngơi (nghỉ hàng tuần, phép năm, lễ tết...):........................
+...........................................................................................
+- Bảo hiểm xã hội và bảo hiểm y tế (10):...........................................
+............................................................................................
+- Chế độ đào tạo (11):...................................................................
+...........................................................................................
+- Những thỏa thuận khác (12):.........................................................
+.............................................................................................
+2.	Nghĩa vụ:
+-	Hoàn thành những công việc đã cam kết trong hợp đồng lao động.
+-	Chấp hành lệnh điều hành sản xuất - kinh doanh, nội quy kỷ luật lao động, an toàn lao động.
+-	Bồi thường vi phạm và vật chất (13):
+Điều 4: Nghĩa vụ và quyền hạn của người sử dụng lao động
+1.	Nghĩa vụ:
+ 
+-	Bảo đảm việc làm và thực hiện đầy đủ những điều đã cam kết trong hợp đồng lao động.
+-	Thanh toán đầy đủ, đúng thời hạn các chế độ và quyền lợi cho người lao động theo hợp đồng lao động, thỏa ước lao động tập thể (nếu có).
+2.	Quyền hạn:
+-	Điều hành người lao động hoàn thành công việc theo hợp đồng (bố trí, điều chuyển, tạm ngừng việc...)
+-	Tạm hoãn, chấm dứt hợp đồng lao động, kỷ luật người lao động theo quy định của pháp luật, thỏa ước lao động tập thể (nếu có) và nội quy lao động của doanh nghiệp.
+Điều 5: Điều khoản thi hành.
+-	Những vấn đề về lao động không ghi trong hợp đồng này thì áp dụng quy định của thỏa ước tập thể, trường hợp chưa có thỏa ước tập thể thì áp dụng quy định của pháp luật lao động.
+-	Hợp đồng lao động được làm thành 02 bản có giá trị ngang nhau, mỗi bên giữ một bản và có hiệu lực từ ngày...tháng...năm...Khi hai bên ký  kết phụ lục  hợp đồng lao động thì nội dung của phụ lục hợp đồng lao động cũng có giá trị như các nội dung của bản hợp đồng lao động này.
+Hợp đồng này làm tại.....................................ngày.....tháng.....năm....
+NGƯỜI LAO ĐỘNG
+(Ký tên)
+Ghi rõ họ tên	NGƯỜI SỬ DỤNG LAO ĐỘNG
+(Ký tên, đóng dấu)
+Ghi rõ họ tên
+
+Ghi chú:
+(1).	Ghi cụ thể tên doanh nghiệp, cơ quan, tổ chức
+(2).	Ghi rõ tên nghề nghiệp (nếu có nhiều nghề nghiệp thì ghi nghề nghiệp chính)
+(3).	Ghi rõloại hợp đồng.
+(4).	Ghi cụ thể địa điểm chính
+(5).	Ghi các công việc chính phải làm
+(6).	Ghi cụ thể số giờ làm việc trong ngày hoặc trong tuần.
+(7).	(7). Ghi rõ phương tiện đi lại do bên nào đảm nhiệm.
+(8).	Ghi cụ thể tiền lương theo tháng lương hoặc bảng lương mà đơn vị áp dụng.
+(9).	Ghi tên loại phụ cấp, hệ số, mức phụ cấp tại thời điểm ký kết hợp đồng lao động.
+(10).	Đối với người lao động thuộc đối tượng đóng bảo hiểm xã hội bắt buộc thì ghi tỷ lệ % tiền lương hàng tháng hai bên trích nộp cho cơ quan bảo hiểm xã hội.
+Đối với người lao động không đóng bảo hiểm xã hội bắt buộc thì khoản tiền bảo hiểm xã hội tính thêm vào tiền lương để người lao động tham gia bảo hiểm  tự nguyện hoặc tự do lấy bảo hiểm.
+(11).	Ghi cụ thể trường hợp đơn vị cử đi đào tạo thì người lao động phải có nghĩa vụ gì và được hưởng quyền lợi gì.
+(12).	Ghi những quyền lợi mà chưa có trong Bộ Luật Lao động, trong thỏa ước lao động tập thể hoặc đã có nhưng có lợi hơn cho người lao động.
+(13).	Ghi rõ mức bồi thường cho mỗi trường hợp vi phạm.
+Mẫu phụ lục hợp đồng lao động
+TÊN ĐƠN VỊ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập- Tự do – Hạnh phúc
+
+Số:………..	
+
+PHỤ LỤC HỢP ĐỒNG LAO ĐỘNG
+
+Chúng tôi , một bên là ông/Bà:.......................Quốc tịch:..................... Chức vụ:...................................................................................
+Đại diện cho (1):......................................Điện thoại:.......................
+Địa chỉ:....................................................................................
+Và một bên là ông/Bà:................................Quốc tịch:......................
+Sinh ngày.........tháng.......năm.......tại............................................
+Nghề nghiệp (2):.........................................................................
+Địa chỉ thường trú:.......................................................................
+Số CMTND:...............................cấp ngày...../...../.....tại..................
+Số sổ lao động (nếu có) :................cấp ngày...../...../.....tại...................
+Căn cứ Hợp đồng lao động số.....ký ngày.../.../... và nhu cầu  sử dụng  lao động, hai bên cùng nhau thỏa thuận thay đổi một số nội dung của hợp đồng mà hai bên đã ký kết như sau:
+1.	Nội dung thay đổi (ghi rõ nội dung gì, thay đổi như thế nào...) :
+...........................................................................................
+2.	Thời gian thực hiện (ghi rõ nội dung ở mục 1 nêu trên có hiệu lực trong  bao nhiêu lâu) .............................................................................
+Phụ lục này là bộ phận của hợp đồng lao động số..., được làm thành hai bản  có giá trị như nhau, mỗi bên giữ một bản và là cơ sở để giải quyết khi có tranh chấp lao động.
+NGƯỜI LAO ĐỘNG
+(Ký tên)
+Ghi rõ họ tên	NGƯỜI SỬ DỤNG LAO ĐỘNG
+(Ký tên, đóng dấu)
+Ghi rõ họ tên
+
+ 
+CHƯƠNG III: LƯU TRỮ HỒ SƠ
+
+I. KHÁI NIỆM, TỪ NGỮ VÀ NGUYÊN TẮC LẬP HỒ SƠ VÀ NỘP LƯU HỒ SƠ, TÀI LIỆU VÀO LƯU TRỮ CƠ QUAN
+1. Khái niệm, từ ngữ
+a) Hồ sơ nguyên tắc: là tập hợp các văn bản quy phạm pháp luật, văn bản hướng dẫn về những mặt công tác nghiệp vụ nhất định dùng làm căn cứ pháp lý, tra cứu khi giải quyết công việc của cơ quan, tổ chức, cá nhân.
+b) Đơn vị bảo quản: là đơn vị thống kê trong nghiệp vụ lưu trữ, đồng thời dùng để quản lý, tra tìm tài liệu. Độ dày của mỗi đơn vị bảo quản không quá 3cm. Nếu một hồ sơ có ít văn bản, tài liệu thì lập một đơn vị bảo quản. Nếu một hồ sơ có nhiều văn bản, tài liệu thì được chia thành nhiều tập và mỗi tập trong hồ sơ đó là một đơn vị bảo quản.
+c) Danh mục hồ sơ: là bảng kê hệ thống các hồ sơ dự kiến hình thành trong quá trình hoạt động của cơ quan, tổ chức trong một năm kèm theo ký hiệu, đơn vị (hoặc người) lập và thời hạn bảo quản của mỗi hồ sơ.
+d) Văn thư cơ quan: là tổ chức hoặc bộ phận thực hiện các nhiệm vụ công tác văn thư của cơ quan, tổ chức theo quy định của pháp luật.
+đ) Văn thư đơn vị: là cá nhân trong đơn vị của cơ quan, tổ chức, được người đứng đầu đơn vị giao thực hiện một số nhiệm vụ của công tác văn thư như: tiếp nhận, đăng ký, trình, chuyển giao văn bản, quản lý hồ sơ, tài liệu của đơn vị trước khi giao nộp vào lưu trữ cơ quan.
+2. Nguyên tắc lập hồ sơ và nộp lưu hồ sơ, tài liệu vào Lưu trữ cơ quan
+a) Người được giao giải quyết, theo dõi công việc của cơ quan, tổ chức (sau đây gọi chung là cá nhân) có trách nhiệm lặp hồ sơ về công việc được giao và nộp lưu hồ sơ, tài liệu vào Lưu trữ cơ quan.
+Hồ sơ được lập phải bảo đảm các yêu cầu sau:
+- Phản ánh đúng chức năng, nhiệm vụ của cơ quan, đơn vị; đúng công việc mà cá nhân chủ trì giải quyết.
+- Văn bản, tài liệu trong mỗi hồ sơ phải đầy đủ, hoàn chỉnh, có giá trị pháp lý, có mối liên hệ chặt chẽ với nhau và phản ánh đúng trình tự diễn biến của vấn đề, sự việc hoặc trình tự giải quyết công việc.
+b) Hồ sơ, tài liệu nộp lưu vào Lưu trữ cơ quan phải đủ thành phần, đúng thời hạn và thủ tục quy định.
+c) Văn bản, hồ sơ, tài liệu phải được lưu giữ, bảo vệ, bảo quản an toàn, nguyên vẹn và sử dụng đúng mục đích trong quá trình tiếp nhận, chuyển giao, giải quyết công việc.
+II. NỘI DUNG CỦA LẬP HỒ SƠ VÀ NỘP LƯU HỒ SƠ, TÀI LIỆU VÀO LƯU TRỮ CƠ QUAN
+1. Lập hồ sơ
+1.1. Lập Danh mục hồ sơ
+a) Tác dụng của Danh mục hồ sơ
+- Quản lý các hoạt động của cơ quan, tổ chức và cá nhân thông qua hệ thống hồ sơ.
+- Giúp cho cơ quan, tổ chức chủ động trong việc tổ chức lập hồ sơ và quản lý hồ sơ, tài liệu trong giai đoạn văn thư được chặt chẽ và khoa học.
+- Là căn cứ để kiểm tra, đôn dốc việc lập hồ sơ tại các đơn vị, cá nhân; góp phần nâng cao ý thức và trách nhiệm của mỗi cá nhân trong cơ quan, tổ chức đối với việc lập hồ sơ và chuẩn bị nộp lưu hồ sơ, tài liệu vào Lưu trữ cơ quan.
+- Là căn cứ để lựa chọn tài liệu có giá trị để lưu trữ và phục vụ sử dụng.
+b) Căn cứ lập Danh mục hồ sơ
+Các căn cứ chủ yếu để lập Danh mục hồ sơ bao gồm: Các văn bản quy định về chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức của cơ quan, tổ chức và các đơn vị trong cơ quan tổ chức; Quy chế làm việc của cơ quan, tổ chức; Quy chế công tác văn thư, lưu trữ của cơ quan, tổ chức; Kế hoạch, nhiệm vụ công tác hàng năm của cơ quan, tổ chức, của các đơn vị và của mỗi cá nhân; Danh mục hồ sơ của những năm trước; Bảng thời hạn bảo quản tài liệu và Mục lục hồ sơ của cơ quan, tổ chức (nếu có).
+c) Nội dung lập Danh mục hồ sơ
+- Xây dựng khung đề mục của Danh mục hồ sơ
++ Khung đề mục của Danh mục hồ sơ được xây dựng theo cơ cấu tổ chức hoặc theo lĩnh vực hoạt động của cơ quan, tổ chức. Căn cứ tình hình thực tế của mỗi cơ quan, tổ chức để chọn khung đề mục Danh mục hồ sơ cho phù hợp, bảo đảm việc lập hồ sơ được đầy đủ, chính xác và thuận tiện. Những cơ quan, tổ chức có cơ cấu tổ chức ổn định, chức năng, nhiệm vụ của các đơn vị được phân định rõ ràng thì áp dụng khung đề mục Danh mục hồ sơ theo cơ cấu tổ chức. Những cơ quan, tổ chức có cơ cấu tổ chức phức tạp, không ổn định, không rõ ràng thì xây dựng khung đề mục Danh mục hồ sơ theo lĩnh vực hoạt động.
++ Nếu theo cơ cấu tổ chức thì lấy tên các đơn vị trong cơ quan, tổ chức; theo lĩnh vực hoạt động thì lấy tên các lĩnh vực hoạt động chủ yếu của cơ quan, tổ chức làm đề mục lớn (các phần) của Danh mục hồ sơ.
++ Trong từng đề mục lớn bao gồm các đề mục nhỏ là các vấn đề thuộc chức năng nhiệm vụ của đơn vị - đối với khung đề mục theo cơ cấu tổ chức; hoặc là các vấn đề trong phạm vi một lĩnh vực hoạt động - đối với khung đề mục theo lĩnh vực hoạt động.
++ Trong mỗi đề mục nhỏ, các hồ sơ được sắp xếp theo trình tự từ chung đến riêng, từ tổng hợp đến cụ thể, có kết hợp với vị trí và tầm quan trọng của hồ sơ.
+Mẫu Danh mục hồ sơ (theo Phụ lục XII kèm theo Thông tư số 07/2012/TT-BNV)
+- Xác định những hồ sơ cần lập, dự kiến tiêu đề hồ sơ và đơn vị hoặc người lập
++ Xác định những hồ sơ cần lập trong năm, đơn vị hoặc cá nhân chịu trách nhiệm lập hồ sơ dựa trên các căn cứ lập Danh mục hồ sơ tại Khoản 2 Điều này; đặc biệt là chương trình kế hoạch và nhiệm vụ công tác năm của cơ quan, tổ chức và của các đơn vị, nhiệm vụ và công việc cụ thể của từng cá nhân trong đơn vị.
++ Tiêu đề hồ sơ cần ngắn gọn, rõ ràng nhưng phải khái quát được nội dung của các văn bản, tài liệu sẽ hình thành trong quá trình theo dõi, giải quyết công việc.
+Mẫu một số loại tiêu đề hồ sơ tiêu biểu (theo Phụ lục XIII kèm theo Thông tư số 07/2012/TT-BNV).
+- Dự kiến thời hạn bảo quản của hồ sơ
+Thời hạn bảo quản của hồ sơ được ghi theo Bảng thời hạn bảo quản tài liệu hình thành phổ biến trong hoạt động của các cơ quan, tổ chức; Bảng thời hạn bảo quản tài liệu chuyên ngành và Bảng thời hạn bảo quản tài liệu của cơ quan, tổ chức (nếu có).
+- Đánh số, ký hiệu các đề mục và hồ sơ
++ Các đề mục lớn được đánh số liên tục bằng chữ số La Mã.
++ Các đề mục nhỏ (nếu có) trong từng đề mục lớn được đánh số riêng bảng chữ số Ả-rập.
++ Số, ký hiệu của hồ sơ bao gồm số thứ tự được đánh bằng chữ số Ả rập và ký hiệu (bằng các chữ viết tắt) của đề mục lớn. Chữ viết tắt của các đề mục lớn trong Danh mục hồ sơ do cơ quan, tổ chức quy định nhưng cần ngắn gọn, dễ hiểu, dễ nhớ.
+Việc đánh số hồ sơ có thể áp dụng một trong hai cách sau:
+* Số của hồ sơ được đánh liên tục trong toàn Danh mục, bắt đầu từ số 01.
+* Số của hồ sơ được đánh liên tục trong phạm vi từng đề mục lớn, bắt đầu từ số 01.
+d) Tổ chức lập Danh mục hồ sơ
+- Danh mục hồ sơ được lập theo hai cách sau:
++ Cách thứ nhất: Văn thư xây dựng dự thảo Danh mục hồ sơ của cơ quan, tổ chức; lấy ý kiến đóng góp của các đơn vị, cá nhân liên quan; hoàn thiện dự thảo, trình lãnh đạo Văn phòng hoặc Phòng Hành chính để trình người đứng đầu cơ quan, tổ chức ký ban hành.
++ Cách thứ hai: Các đơn vị dự kiến Danh mục hồ sơ của đơn vị mình theo hướng dẫn nghiệp vụ của Văn thư; Văn thư tổng hợp thành Danh mục hồ sơ của cơ quan, tổ chức, bổ sung, chỉnh sửa (nếu cần); hoàn thiện dự thảo, trình lãnh đạo Văn phòng hoặc Phòng Hành chính để trình người đứng đầu cơ quan, tổ chức ký ban hành.
+- Danh mục hồ sơ do người đứng đầu cơ quan, tổ chức duyệt, ký ban hành vào đầu năm.
+- Văn thư sao chụp Danh mục hồ sơ đã được ban hành gửi các đơn vị, cá nhân liên quan để thực hiện lập hồ sơ theo Danh mục. Trong quá trình thực hiện, nếu có hồ sơ dự kiến chưa sát với thực tế hoặc có công việc giải quyết phát sinh thuộc trách nhiệm lập hồ sơ của đơn vị hoặc cá nhân nào thì đơn vị hoặc cá nhân đó cần kịp thời sửa đổi, bổ sung vào phần Danh mục hồ sơ của mình để Văn thư tổng hợp, bổ sung vào Danh mục hồ sơ của cơ quan, tổ chức.
+1.2. Mở hồ sơ
+a) Mở hồ sơ là việc lấy một tờ bìa hồ sơ và ghi những thông tin ban đầu về hồ sơ, như: ký hiệu hồ sơ, tiêu đề hồ sơ, năm mở hồ sơ. Bìa hồ sơ được thiết kế và in theo Tiêu chuẩn quốc gia TCVN 9251:2012 Bìa hồ sơ lưu trữ.
+b) Mỗi cá nhân khi giải quyết công việc được giao có trách nhiệm mở hồ sơ về công việc đó (theo Danh mục hồ sơ, hoặc kể cả trường hợp cơ quan, tổ chức chưa có Danh mục hồ sơ).
+1.3. Thu thập, cập nhật văn bản, tài liệu vào hồ sơ
+a) Mỗi cá nhân có trách nhiệm thu thập, cập nhật tất cả văn bản, tài liệu hình thành trong quá trình theo dõi, giải quyết công việc vào hồ sơ tương ứng đã mở, kể cả tài liệu phim, ảnh, ghi âm.
+b) Cần thu thập kịp thời những văn bản, tài liệu như bài phát biểu của lãnh đạo, tham luận của các đại biểu tại hội nghị, hội thảo… bảo đảm sự toàn vẹn, đầy đủ của hồ sơ, tránh bị thất lạc.
+1.3. Kết thúc hồ sơ
+a) Khi công việc giải quyết xong thì hồ sơ được kết thúc, người lập hồ sơ có trách nhiệm:
+- Kiểm tra mức độ đầy đủ của văn bản, tài liệu có trong hồ sơ, nếu thiếu cần bổ sung cho đủ.
+- Xem xét loại ra khỏi hồ sơ: Bản trùng, bản nháp, bản thảo nếu đã có bản chính (trừ bản thảo về vấn đề quan trọng có ghi ý kiến chỉ đạo của lãnh đạo cơ quan hoặc ý kiến góp ý của các cơ quan hữu quan hoặc bản thảo mà người lập hồ sơ thấy cần thiết phải giữ lại); bản chụp văn bản, tài liệu tham khảo xét thấy không cần phải lưu giữ.
+- Sắp xếp các văn bản, tài liệu trong hồ sơ theo trình tự giải quyết công việc hoặc theo thời gian, tên loại, tác giả của văn bản... Trường hợp trong hồ sơ có tài liệu phim, ảnh thì bỏ vào bì; tài liệu băng, đĩa ghi âm, ghi hình thì bỏ vào hộp và sắp xếp vào cuối hồ sơ. Nếu hồ sơ dày quá 3 cm thì tách thành các đơn vị bảo quản khác nhau (không nên tách dưới 01 cm) để thuận tiện cho việc quản lý và sử dụng. Mỗi đơn vị bảo quản trong hồ sơ có đặc điểm chung, dù yếu tố cấu thành như một hồ sơ độc lập, (ví dụ, Hồ sơ xây dựng văn bản quy phạm pháp luật có thể phân thành các đơn vị bảo quản như: các lần dự thảo, các lần hội thảo, các lần trình...).
+- Xem xét lại thời hạn bảo quản của hồ sơ (đối chiếu với Danh mục hồ sơ và thực tế tài liệu trong, hồ sơ).
+- Hoàn thiện, chỉnh sửa tiêu đề hồ sơ cho phù hợp với nội dung tài liệu trong hồ sơ (nếu cần).
+b) Nếu hết năm mà công việc chưa giải quyết xong, thì chưa thực hiện việc kết thúc hồ sơ, hồ sơ đó được bổ sung vào Danh mục hồ sơ năm sau.
+2. Giao, nhận hồ sơ, tài liệu vào Lưu trữ cơ quan
+2.1. Thời hạn nộp lưu vào Lưu trữ cơ quan
+Thời hạn nộp lưu hồ sơ, tài liệu từ các đơn vị, cá nhân vào Lưu trữ cơ quan được quy định trong thời hạn 01 năm, kể từ ngày công việc kết thúc; đối với hồ sơ, tài liệu xây dựng cơ bản thì trong thời hạn 03 tháng, kể từ ngày công trình được quyết toán.
+2.2. Thành phần hồ sơ, tài liệu nộp lưu
+- Thành phần hồ sơ, tài liệu nộp lưu vào Lưu trữ cơ quan gồm toàn bộ hồ sơ, tài liệu được xác định thời hạn bảo quản từ 05 năm trở lên, trừ những loại hồ sơ, tài liệu sau:
++ Các hồ sơ nguyên tắc được dùng làm căn cứ để theo dõi, giải quyết công việc thuộc trách nhiệm của mỗi cá nhân, được cá nhân giữ và có thể tự loại hủy khi văn bản hết hiệu lực thi hành.
++ Hồ sơ về những công việc chưa giải quyết xong.
++ Hồ sơ phối hợp giải quyết công việc (trường hợp trùng với hồ sơ của đơn vị chủ trì).
++ Các văn bản, tài liệu gửi để biết, để tham khảo.
+2.3. Thủ tục nộp lưu hồ sơ, tài liệu
+Thủ tục nộp lưu hồ sơ, tài liệu: Khi nộp lưu tài liệu phải lập hai bản “Mục lục hồ sơ, tài liệu nộp lưu” (theo mẫu tại Phụ lục XIV kèm theo Thông tư số 07/2012/TT-BNV) và hai bản “Biên bản giao nhận hồ sơ, tài liệu” (theo mẫu tại Phụ lục XV kèm theo Thông tư số 07/2012/TT-BNV). Đơn vị, cá nhân giao nộp tài liệu và Lưu trữ cơ quan giữ mỗi loại một bản.
+3. Trách nhiệm đối với việc lập hồ sơ và giao, nhận hồ sơ, tài liệu vào lưu trữ cơ quan
+3.1. Trách nhiệm của người đứng đầu cơ quan, tổ chức
+Người đứng đầu cơ quan, tổ chức có trách nhiệm chỉ đạo, kiểm tra, hướng dẫn việc lập hồ sơ và nộp lưu hồ sơ, tài liệu vào Lưu trữ cơ quan.
+3.2. Trách nhiệm của Chánh Văn phòng (Trưởng phòng Hành chính) hoặc người được giao trách nhiệm
+a) Tổ chức thực hiện việc lập hồ sơ và nộp lưu hồ sơ; tài liệu vào lưu trữ tại cơ quan, tổ chức minh. Cụ thể:
+- Chỉ đạo việc xây dựng và trình người đứng đầu ban hành Danh mục hồ sơ của cơ quan, tổ chức;
+- Chỉ đạo việc hướng dẫn, kiểm tra việc lập hồ sơ và nộp lưu hồ sơ, tài liệu vào Lưu trữ cơ quan.
+b) Tham mưu cho người đứng đầu cơ quan, tổ chức trong việc chỉ đạo, kiểm tra, hướng dẫn việc lập hồ sơ và nộp lưu hồ sơ, tài liệu vào lưu trữ đối với các cơ quan, tổ chức cấp dưới.
+3.3. Trách nhiệm của người đứng đầu đơn vị của cơ quan, tổ chức
+Người đứng đầu đơn vị của cơ quan, tổ chức có trách nhiệm tổ chức thực hiện việc lập hồ sơ, bảo quản và nộp lưu hồ sơ, tài liệu của đơn vị vào Lưu trữ cơ quan. Cụ thể:
+a) Phân công trách nhiệm cho các cá nhân trong đơn vị lập hồ sơ về những việc mà đơn vị được giao chủ trì giải quyết.
+b) Tổ chức tiếp nhận hồ sơ của cá nhân sau khi công việc giải quyết xong và quản lý hồ sơ của đơn vị khi chưa đến hạn nộp lưu vào Lưu trữ cơ quan.
+c) Tổ chức lựa chọn và nộp lưu hồ sơ, tài liệu có giá trị vào Lưu trữ cơ quan theo đúng thời hạn quy định.
+3.4. Trách nhiệm của cá nhân trong cơ quan, tổ chức
+a) Trong quá trình theo dõi, giải quyết công việc, mỗi cá nhân phải lập hồ sơ về công việc đó và nộp lưu hồ sơ, tài liệu vào Lưu trữ cơ quan theo hướng dẫn (tại Thông tư) này.
+Ngoài việc lập hồ sơ công việc, cần lập hồ sơ nguyên tắc làm căn cứ giải quyết công việc hằng ngày.
+b) Trường hợp đơn vị, cá nhân có nhu cầu giữ lại hồ sơ, tài liệu đã đến hạn nộp lưu để phục vụ công việc thì phải được người đứng đầu cơ quan, tổ chức đồng ý và phải lập Danh mục hồ sơ, tài liệu giữ lại gửi cho Lưu trữ cơ quan. Thời hạn giữ lại hồ sơ, tài liệu của đơn vị, cá nhân không quá hai năm, kể từ ngày đến hạn nộp lưu.
+c) Trường hợp nghỉ hưu, thôi việc hay chuyển công tác khác thì phải bàn giao hồ sơ, tài liệu cho đơn vị hay người kế nhiệm. Hồ sơ, tài liệu bàn giao phải được thống kê và lập biên bản giao nhận.
+3.4. Trách nhiệm của Văn thư đơn vị
+a) Cuối mỗi năm kiểm tra tình hình lập hồ sơ của các cá nhân trong đơn vị, xác định các hồ sơ đã kết thúc, hướng dẫn hoàn chỉnh hồ sơ để nộp lưu.
+b) Thống kê hồ sơ, tài liệu giao nộp vào Mục lục hồ sơ, tài liệu nộp lưu.
+c) Bản giao hồ sơ, tài liệu cho Lưu trữ cơ quan.
+3.5. Trách nhiệm của Văn thư cơ quan
+a) Xây dựng Danh mục hồ sơ của cơ quan, tổ chức.
+b) Đầu năm, Văn thư sao gửi Danh mục hồ sơ cho các đơn vị, cán bộ, công chức, viên chức làm căn cứ lập hồ sơ. Trên cơ sở Danh mục hồ sơ, Văn thư chuẩn bị bìa hồ sơ giao cho đơn vị hoặc cá nhân có trách nhiệm lập hồ sơ.
+c) Phối hợp với Lưu trữ cơ quan hướng dẫn nghiệp vụ, đôn đốc, kiểm tra việc lập hồ sơ trong cơ quan.
+3.6. Trách nhiệm của Lưu trữ cơ quan
+a) Giúp người đứng đầu cơ quan, tổ chức hướng dẫn việc lập hồ sơ và nộp lưu hồ sơ, tài liệu.
+b) Tiếp nhận, hoàn chỉnh và sắp xếp hồ sơ, tài liệu
+- Tiếp nhận hồ sơ, tài liệu đã đến hạn nộp lưu từ các đơn vị, cá nhân và lập Biên bản giao nhận hồ sơ, tài liệu. Trường hợp phát hiện thiếu hồ sơ thì yêu cầu đơn vị, cá nhân bổ sung hoặc báo cáo người có thẩm quyền giải quyết.
+- Hoàn chỉnh hồ sơ và lập Mục lục hồ sơ
++ Hoàn chỉnh hồ sơ bao gồm: Viết bìa theo mẫu (chỉnh sửa các thông tin trên bìa hồ sơ nếu cần), đánh số tờ trong hồ sơ. Đối với hồ sơ có thời hạn bảo quản vĩnh viễn phải viết Chứng từ kết thúc và biên mục văn bản trong hồ sơ.
++ Lập Mục lục hồ sơ bảo quản vĩnh viễn riêng và hồ sơ bảo quản có thời hạn riêng.
+- Sắp xếp hồ sơ, tài liệu vào hộp (cặp), ghi và dán nhãn hộp, đưa lên giá.
+c) Giao nộp tài liệu lưu trữ có giá trị bảo quản vĩnh viễn thuộc Danh mục tài liệu nộp lưu vào Lưu trữ lịch sử; tổ chức hủy tài liệu hết giá trị theo quyết định của người đứng đầu cơ quan, tổ chức.
+
+
+
+
+
+
+
+ 
+ 
+TÀI LIỆU THAM KHẢO
+- Trường Cao đẳng Lao động Xã hội (2002) - Giáo trình soạn thảo văn bản, NXB Lao động Xã hội.
+- PGS. TS Nguyễn Văn Thân (2003) - Soạn thảo văn bản và xử lý văn bản quản lý Nhà nước, NXB chính trị quốc gia.
+- Nghị định số 110/2004/NĐ-CP và Thông tư liên tịch số 55/2005/TTLT – BNV – VPCP.
+ 
+MỤC LỤC
+
+Chương I: LÝ LUẬN CHUNG VỀ VĂN BẢN QUẢN LÝ NHÀ NƯỚC	1
+1. Đại cương về văn bản quản lý hành chính nhà nước	1
+2. Hệ thống văn bản quản lý nhà nước	5
+chương II: SOẠN THẢO VĂN BẢN	33
+A. VĂN BẢN PHÁP QUY	33
+I. Khái niệm và đặc trưng của văn bản pháp quy	33
+II. Ý nghĩa và tầm quan trọng của văn bản pháp quy	34
+III. Yêu cầu về nội dung và hình thức của văn bản pháp quy	34
+IV. Các hình thức văn bản pháp quy	36
+V. Phương pháp soạn thảo các văn bản pháp quy	39
+VI. Thực hành.	43
+* Giới thiệu, tham khảo mẫu một số văn bản của các cấp	43
+B. 	PHƯƠNG PHÁP SOẠN THẢO MỘT SỐ VĂN BẢN HÀNH CHÍNH THÔNG DỤNG	52
+*Giới thiệu tham khảo một số mẫu văn bản…………………………………...59
+I.Văn bản hợp đồng kinh tế ……………………………………………………71
+II.	 Hợp đồng lao động………………………………………………………….78
+III. Thực hành	81
+CHƯƠNG III: LƯU TRỮ HỒ SƠ	92
+I. Khái niệm, từ ngữ và nguyên tắc lập hồ sơ và nộp lưu hồ sơ, tài liệu vào lưu trữ cơ quan	92
+II. Nội dung của lập hồ sơ và nộp lưu hồ sơ, tài liệu vào lưu trữ cơ quan	93
+
