@@ -88,6 +88,26 @@ Sau khi tải xong, hãy giải nén file ZIP đó vào một thư mục trên m
 
 ---
 
+## 🔑 Hướng dẫn tạo HF Token (Bắt buộc)
+
+Để hệ thống có thể kết nối với mô hình Llama 3.1, bạn cần một API Key miễn phí từ Groq:
+
+  ❇️ Truy cập vào trang chủ Hugging Face và đăng nhập (hoặc đăng ký nếu chưa có tài khoản).
+  
+  ❇️ Bấm vào ảnh đại diện của bạn ở góc trên bên phải màn hình và chọn Settings (Cài đặt).
+  
+  ❇️ Tại menu điều hướng bên trái, chọn mục Access Tokens.
+  
+  ❇️ Nhấp vào nút Create new token (Tạo token mới).
+  
+  ❇️ Đặt tên cho Token (ví dụ: MyLlamaApp), chọn Role (Vai trò) là Write và bấm Generate token (Tạo).
+  
+  ❇️ Bấm vào nút Copy để lưu lại đoạn mã này (bắt đầu bằng hf_...) vì nó sẽ không hiển thị lại lần thứ hai.
+
+⚠️ LƯU Ý: Tuyệt đối không chia sẻ HF Token này cho bất kỳ ai. Bạn dán nó vào Terminal lúc chạy file setup.bat / setup_mac.command là được.
+
+---
+
 ## 🪟 Hướng Dẫn Cài Đặt & Khởi Chạy Trên Windows
 ⚠️ Yêu cầu hệ thống: Máy tính cần cài đặt sẵn Python 3.10+ và bắt buộc phải tích chọn mục "Add Python to PATH" trong quá trình cài đặt.
 
