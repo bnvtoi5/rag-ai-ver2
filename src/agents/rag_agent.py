@@ -2,10 +2,12 @@ import os
 from langchain_groq import ChatGroq
 from src.config import Config
 from src.database.chroma_client import get_vector_store
+from src.database.embeddings import get_embedding_model # Import tại đây
 
 def rag_node(state):
     user_msg = state["messages"][-1]["content"]
-    vector_store = get_vector_store()
+    embeddings = get_embedding_model()
+    vector_store = get_vector_store(embeddings)
     
     # 1. Đặt mức k=5 là vừa đủ ngữ cảnh cho máy RAM 8GB và tránh lỗi Rate Limit
     docs = vector_store.similarity_search(user_msg, k=5)
